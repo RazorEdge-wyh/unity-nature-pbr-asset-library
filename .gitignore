@@ -1,0 +1,26 @@
+﻿# ---- Unity generated ----
+UnityProject_AssetLibrary/Library/
+UnityProject_AssetLibrary/Temp/
+UnityProject_AssetLibrary/Logs/
+UnityProject_AssetLibrary/Obj/
+UnityProject_AssetLibrary/obj/
+UnityProject_AssetLibrary/Build/
+UnityProject_AssetLibrary/Builds/
+UnityProject_AssetLibrary/UserSettings/
+UnityProject_AssetLibrary/.vs/
+**/*.csproj
+**/*.sln
+**/*.user
+**/*.pidb
+**/*.booproj
+**/*.svd
+**/*.pdb
+**/*.mdb
+**/*.opendb
+**/*.VC.db
+*.unitypackage
+UnityPackage/
+# ---- misc ----
+.DS_Store
+Thumbs.db
+*.log

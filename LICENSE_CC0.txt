@@ -1,0 +1,24 @@
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+=====================================================
+
+The person who associated a work with this deed has dedicated the work to the
+public domain by waiving all of his or her rights to the work worldwide under
+copyright law, including all related and neighboring rights, to the extent
+allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial
+purposes, all without asking permission.
+
+Full legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+---------------------------------------------------------------------
+Every asset in this library is released under CC0 1.0:
+
+* 3D models, HDRIs and nature textures: Poly Haven (https://polyhaven.com) - CC0
+* Architectural / surface materials: ambientCG (https://ambientcg.com) - CC0
+* Mesh simplification tool: meshoptimizer / gltfpack (MIT)
+* Build pipeline & Unity integration scripts in this package: CC0
+
+You may use, modify, redistribute and sell these assets, including in
+commercial games, without attribution. Attribution is appreciated but not
+required. See CREDITS.md for the complete list of source links.

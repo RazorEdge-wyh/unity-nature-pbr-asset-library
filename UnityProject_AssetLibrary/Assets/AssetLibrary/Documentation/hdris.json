@@ -1,0 +1,122 @@
+[
+ {
+  "name": "kiara_1_dawn",
+  "category": "HDRI",
+  "type": "hdri",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/kiara_1_dawn",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Environment/HDRIs/kiara_1_dawn.hdr"
+ },
+ {
+  "name": "kloppenheim_06_puresky",
+  "category": "HDRI",
+  "type": "hdri",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/kloppenheim_06_puresky",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Environment/HDRIs/kloppenheim_06_puresky.hdr"
+ },
+ {
+  "name": "spruit_sunrise",
+  "category": "HDRI",
+  "type": "hdri",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/spruit_sunrise",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Environment/HDRIs/spruit_sunrise.hdr"
+ },
+ {
+  "name": "kloppenheim_02",
+  "category": "HDRI",
+  "type": "hdri",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/kloppenheim_02",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Environment/HDRIs/kloppenheim_02.hdr"
+ },
+ {
+  "name": "kloofendal_48d_partly_cloudy_puresky",
+  "category": "HDRI",
+  "type": "hdri",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Environment/HDRIs/kloofendal_48d_partly_cloudy_puresky.hdr"
+ },
+ {
+  "name": "lilienstein",
+  "category": "HDRI",
+  "type": "hdri",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/lilienstein",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Environment/HDRIs/lilienstein.hdr"
+ },
+ {
+  "name": "venice_sunset",
+  "category": "HDRI",
+  "type": "hdri",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/venice_sunset",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Environment/HDRIs/venice_sunset.hdr"
+ },
+ {
+  "name": "meadow_2",
+  "category": "HDRI",
+  "type": "hdri",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/meadow_2",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Environment/HDRIs/meadow_2.hdr"
+ },
+ {
+  "name": "the_sky_is_on_fire",
+  "category": "HDRI",
+  "type": "hdri",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/the_sky_is_on_fire",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Environment/HDRIs/the_sky_is_on_fire.hdr"
+ },
+ {
+  "name": "moonless_golf",
+  "category": "HDRI",
+  "type": "hdri",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/moonless_golf",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Environment/HDRIs/moonless_golf.hdr"
+ },
+ {
+  "name": "satara_night",
+  "category": "HDRI",
+  "type": "hdri",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/satara_night",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Environment/HDRIs/satara_night.hdr"
+ },
+ {
+  "name": "dikhololo_night",
+  "category": "HDRI",
+  "type": "hdri",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/dikhololo_night",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Environment/HDRIs/dikhololo_night.hdr"
+ }
+]

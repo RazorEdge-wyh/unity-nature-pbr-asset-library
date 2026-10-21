@@ -1,0 +1,1787 @@
+[
+ {
+  "name": "Wood095",
+  "category": "Wood",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Wood095",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Wood/Wood095",
+  "files": {
+   "albedo": "Wood095_Albedo.jpg",
+   "normal": "Wood095_Normal.jpg",
+   "mask": "Wood095_Mask.png"
+  },
+  "tags": [
+   "095",
+   "95",
+   "beige",
+   "clean",
+   "indoor",
+   "light"
+  ]
+ },
+ {
+  "name": "Wood096",
+  "category": "Wood",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Wood096",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Wood/Wood096",
+  "files": {
+   "albedo": "Wood096_Albedo.jpg",
+   "normal": "Wood096_Normal.jpg",
+   "mask": "Wood096_Mask.png"
+  },
+  "tags": [
+   "096",
+   "96",
+   "beige",
+   "grain",
+   "knots",
+   "light"
+  ]
+ },
+ {
+  "name": "Wood092",
+  "category": "Wood",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Wood092",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Wood/Wood092",
+  "files": {
+   "albedo": "Wood092_Albedo.jpg",
+   "normal": "Wood092_Normal.jpg",
+   "mask": "Wood092_Mask.png"
+  },
+  "tags": [
+   "92",
+   "brown",
+   "clean",
+   "fine",
+   "orange",
+   "smooth"
+  ]
+ },
+ {
+  "name": "Wood094",
+  "category": "Wood",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Wood094",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Wood/Wood094",
+  "files": {
+   "albedo": "Wood094_Albedo.jpg",
+   "normal": "Wood094_Normal.jpg",
+   "mask": "Wood094_Mask.png"
+  },
+  "tags": [
+   "94",
+   "brown",
+   "smooth",
+   "wood",
+   "wooden"
+  ]
+ },
+ {
+  "name": "Wood051",
+  "category": "Wood",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Wood051",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Wood/Wood051",
+  "files": {
+   "albedo": "Wood051_Albedo.jpg",
+   "normal": "Wood051_Normal.jpg",
+   "mask": "Wood051_Mask.png"
+  },
+  "tags": [
+   "051",
+   "51",
+   "brown",
+   "dark",
+   "elegant",
+   "espresso"
+  ]
+ },
+ {
+  "name": "Wood049",
+  "category": "Wood",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Wood049",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Wood/Wood049",
+  "files": {
+   "albedo": "Wood049_Albedo.jpg",
+   "normal": "Wood049_Normal.jpg",
+   "mask": "Wood049_Mask.png"
+  },
+  "tags": [
+   "049",
+   "49",
+   "brown",
+   "furniture",
+   "grain",
+   "horizontal"
+  ]
+ },
+ {
+  "name": "WoodFloor070",
+  "category": "WoodFloor",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=WoodFloor070",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/WoodFloor/WoodFloor070",
+  "files": {
+   "albedo": "WoodFloor070_Albedo.jpg",
+   "normal": "WoodFloor070_Normal.jpg",
+   "mask": "WoodFloor070_Mask.png"
+  },
+  "tags": [
+   "070",
+   "70",
+   "beige",
+   "brown",
+   "clean",
+   "floor"
+  ]
+ },
+ {
+  "name": "WoodFloor064",
+  "category": "WoodFloor",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=WoodFloor064",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/WoodFloor/WoodFloor064",
+  "files": {
+   "albedo": "WoodFloor064_Albedo.jpg",
+   "normal": "WoodFloor064_Normal.jpg",
+   "mask": "WoodFloor064_Mask.png"
+  },
+  "tags": [
+   "64",
+   "dark",
+   "floor",
+   "parquet",
+   "planks",
+   "wood"
+  ]
+ },
+ {
+  "name": "WoodFloor051",
+  "category": "WoodFloor",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=WoodFloor051",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/WoodFloor/WoodFloor051",
+  "files": {
+   "albedo": "WoodFloor051_Albedo.jpg",
+   "normal": "WoodFloor051_Normal.jpg",
+   "mask": "WoodFloor051_Mask.png"
+  },
+  "tags": [
+   "051",
+   "51",
+   "brown",
+   "clean",
+   "floor",
+   "indoor"
+  ]
+ },
+ {
+  "name": "WoodFloor043",
+  "category": "WoodFloor",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=WoodFloor043",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/WoodFloor/WoodFloor043",
+  "files": {
+   "albedo": "WoodFloor043_Albedo.jpg",
+   "normal": "WoodFloor043_Normal.jpg",
+   "mask": "WoodFloor043_Mask.png"
+  },
+  "tags": [
+   "43",
+   "floor",
+   "parquet",
+   "planks",
+   "wood"
+  ]
+ },
+ {
+  "name": "Planks039",
+  "category": "Planks",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Planks039",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Planks/Planks039",
+  "files": {
+   "albedo": "Planks039_Albedo.jpg",
+   "normal": "Planks039_Normal.jpg",
+   "mask": "Planks039_Mask.png"
+  },
+  "tags": [
+   "39",
+   "dirty",
+   "large",
+   "medieval",
+   "old",
+   "planks"
+  ]
+ },
+ {
+  "name": "Planks037A",
+  "category": "Planks",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Planks037A",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Planks/Planks037A",
+  "files": {
+   "albedo": "Planks037A_Albedo.jpg",
+   "normal": "Planks037A_Normal.jpg",
+   "mask": "Planks037A_Mask.png"
+  },
+  "tags": [
+   "37",
+   "floor",
+   "planks",
+   "wood"
+  ]
+ },
+ {
+  "name": "Planks023A",
+  "category": "Planks",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Planks023A",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Planks/Planks023A",
+  "files": {
+   "albedo": "Planks023A_Albedo.jpg",
+   "normal": "Planks023A_Normal.jpg",
+   "mask": "Planks023A_Mask.png"
+  },
+  "tags": [
+   "23",
+   "dark",
+   "planks",
+   "wood"
+  ]
+ },
+ {
+  "name": "Ground111",
+  "category": "Ground",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Ground111",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Ground/Ground111",
+  "files": {
+   "albedo": "Ground111_Albedo.jpg",
+   "normal": "Ground111_Normal.jpg",
+   "mask": "Ground111_Mask.png"
+  },
+  "tags": [
+   "111",
+   "brick",
+   "brown",
+   "construction",
+   "debris",
+   "dirt"
+  ]
+ },
+ {
+  "name": "Ground112",
+  "category": "Ground",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Ground112",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Ground/Ground112",
+  "files": {
+   "albedo": "Ground112_Albedo.jpg",
+   "normal": "Ground112_Normal.jpg",
+   "mask": "Ground112_Mask.png"
+  },
+  "tags": [
+   "112",
+   "ground"
+  ]
+ },
+ {
+  "name": "Ground110",
+  "category": "Ground",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Ground110",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Ground/Ground110",
+  "files": {
+   "albedo": "Ground110_Albedo.jpg",
+   "normal": "Ground110_Normal.jpg",
+   "mask": "Ground110_Mask.png"
+  },
+  "tags": [
+   "110",
+   "brown",
+   "dirt",
+   "dry",
+   "gravel",
+   "gray"
+  ]
+ },
+ {
+  "name": "Ground108",
+  "category": "Ground",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Ground108",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Ground/Ground108",
+  "files": {
+   "albedo": "Ground108_Albedo.jpg",
+   "normal": "Ground108_Normal.jpg",
+   "mask": "Ground108_Mask.png"
+  },
+  "tags": [
+   "108",
+   "brown",
+   "debris",
+   "dirt",
+   "gravel",
+   "gray"
+  ]
+ },
+ {
+  "name": "Ground109",
+  "category": "Ground",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Ground109",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Ground/Ground109",
+  "files": {
+   "albedo": "Ground109_Albedo.jpg",
+   "normal": "Ground109_Normal.jpg",
+   "mask": "Ground109_Mask.png"
+  },
+  "tags": [
+   "109",
+   "beige",
+   "brown",
+   "dirt",
+   "dry",
+   "ground"
+  ]
+ },
+ {
+  "name": "Ground106",
+  "category": "Ground",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Ground106",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Ground/Ground106",
+  "files": {
+   "albedo": "Ground106_Albedo.jpg",
+   "normal": "Ground106_Normal.jpg",
+   "mask": "Ground106_Mask.png"
+  },
+  "tags": [
+   "106",
+   "beige",
+   "brown",
+   "dirt",
+   "earth",
+   "forest"
+  ]
+ },
+ {
+  "name": "Ground103",
+  "category": "Ground",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Ground103",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Ground/Ground103",
+  "files": {
+   "albedo": "Ground103_Albedo.jpg",
+   "normal": "Ground103_Normal.jpg",
+   "mask": "Ground103_Mask.png"
+  },
+  "tags": [
+   "103",
+   "brown",
+   "dirt",
+   "earth",
+   "ground",
+   "natural"
+  ]
+ },
+ {
+  "name": "Ground107",
+  "category": "Ground",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Ground107",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Ground/Ground107",
+  "files": {
+   "albedo": "Ground107_Albedo.jpg",
+   "normal": "Ground107_Normal.jpg",
+   "mask": "Ground107_Mask.png"
+  },
+  "tags": [
+   "107",
+   "brick",
+   "brown",
+   "debris",
+   "dirt",
+   "fragments"
+  ]
+ },
+ {
+  "name": "Ground037",
+  "category": "Ground",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Ground037",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Ground/Ground037",
+  "files": {
+   "albedo": "Ground037_Albedo.jpg",
+   "normal": "Ground037_Normal.jpg",
+   "mask": "Ground037_Mask.png"
+  },
+  "tags": [
+   "037",
+   "37",
+   "damp",
+   "earth",
+   "forest",
+   "grass"
+  ]
+ },
+ {
+  "name": "Grass001",
+  "category": "Grass",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Grass001",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Grass/Grass001",
+  "files": {
+   "albedo": "Grass001_Albedo.jpg",
+   "normal": "Grass001_Normal.jpg",
+   "mask": "Grass001_Mask.png"
+  },
+  "tags": [
+   "001",
+   "1",
+   "cover",
+   "dark",
+   "dense",
+   "fresh"
+  ]
+ },
+ {
+  "name": "Grass005",
+  "category": "Grass",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Grass005",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Grass/Grass005",
+  "files": {
+   "albedo": "Grass005_Albedo.jpg",
+   "normal": "Grass005_Normal.jpg",
+   "mask": "Grass005_Mask.png"
+  },
+  "tags": [
+   "5",
+   "clean",
+   "grass",
+   "green",
+   "lawn",
+   "short"
+  ]
+ },
+ {
+  "name": "Ground054",
+  "category": "Ground",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Ground054",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Ground/Ground054",
+  "files": {
+   "albedo": "Ground054_Albedo.jpg",
+   "normal": "Ground054_Normal.jpg",
+   "mask": "Ground054_Mask.png"
+  },
+  "tags": [
+   "54",
+   "beach",
+   "dirt",
+   "ground",
+   "mud",
+   "sand"
+  ]
+ },
+ {
+  "name": "Grass004",
+  "category": "Grass",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Grass004",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Grass/Grass004",
+  "files": {
+   "albedo": "Grass004_Albedo.jpg",
+   "normal": "Grass004_Normal.jpg",
+   "mask": "Grass004_Mask.png"
+  },
+  "tags": [
+   "004",
+   "4",
+   "dense",
+   "garden",
+   "grass",
+   "green"
+  ]
+ },
+ {
+  "name": "Grass008",
+  "category": "Grass",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Grass008",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Grass/Grass008",
+  "files": {
+   "albedo": "Grass008_Albedo.jpg",
+   "normal": "Grass008_Normal.jpg",
+   "mask": "Grass008_Mask.png"
+  },
+  "tags": [
+   "8",
+   "grass",
+   "lawn"
+  ]
+ },
+ {
+  "name": "Gravel043",
+  "category": "Gravel",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Gravel043",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Gravel/Gravel043",
+  "files": {
+   "albedo": "Gravel043_Albedo.jpg",
+   "normal": "Gravel043_Normal.jpg",
+   "mask": "Gravel043_Mask.png"
+  },
+  "tags": [
+   "043",
+   "43",
+   "fine",
+   "grained",
+   "granular",
+   "gravel"
+  ]
+ },
+ {
+  "name": "Grass006",
+  "category": "Grass",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Grass006",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Grass/Grass006",
+  "files": {
+   "albedo": "Grass006_Albedo.jpg",
+   "normal": "Grass006_Normal.jpg",
+   "mask": "Grass006_Mask.png"
+  },
+  "tags": [
+   "6",
+   "grass",
+   "lawn"
+  ]
+ },
+ {
+  "name": "Gravel023",
+  "category": "Gravel",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Gravel023",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Gravel/Gravel023",
+  "files": {
+   "albedo": "Gravel023_Albedo.jpg",
+   "normal": "Gravel023_Normal.jpg",
+   "mask": "Gravel023_Mask.png"
+  },
+  "tags": [
+   "23",
+   "bright",
+   "dirt",
+   "gravel",
+   "ground",
+   "light"
+  ]
+ },
+ {
+  "name": "Gravel041",
+  "category": "Gravel",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Gravel041",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Gravel/Gravel041",
+  "files": {
+   "albedo": "Gravel041_Albedo.jpg",
+   "normal": "Gravel041_Normal.jpg",
+   "mask": "Gravel041_Mask.png"
+  },
+  "tags": [
+   "41",
+   "beach",
+   "gravel",
+   "ground",
+   "pebbles",
+   "stone"
+  ]
+ },
+ {
+  "name": "Gravel040",
+  "category": "Gravel",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Gravel040",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Gravel/Gravel040",
+  "files": {
+   "albedo": "Gravel040_Albedo.jpg",
+   "normal": "Gravel040_Normal.jpg",
+   "mask": "Gravel040_Mask.png"
+  },
+  "tags": [
+   "40",
+   "dirt",
+   "floor",
+   "gravel",
+   "gray",
+   "rocks"
+  ]
+ },
+ {
+  "name": "Rock063",
+  "category": "Rock",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Rock063",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Rock/Rock063",
+  "files": {
+   "albedo": "Rock063_Albedo.jpg",
+   "normal": "Rock063_Normal.jpg",
+   "mask": "Rock063_Mask.png"
+  },
+  "tags": [
+   "063",
+   "63",
+   "aged",
+   "cliff",
+   "cracked",
+   "damaged"
+  ]
+ },
+ {
+  "name": "Gravel022",
+  "category": "Gravel",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Gravel022",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Gravel/Gravel022",
+  "files": {
+   "albedo": "Gravel022_Albedo.jpg",
+   "normal": "Gravel022_Normal.jpg",
+   "mask": "Gravel022_Mask.png"
+  },
+  "tags": [
+   "22",
+   "dirt",
+   "gravel",
+   "grey",
+   "ground",
+   "pebbles"
+  ]
+ },
+ {
+  "name": "Metal063",
+  "category": "Metal",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Metal063",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Metal/Metal063",
+  "files": {
+   "albedo": "Metal063_Albedo.jpg",
+   "normal": "Metal063_Normal.jpg",
+   "mask": "Metal063_Mask.png"
+  },
+  "tags": [
+   "063",
+   "63",
+   "aged",
+   "black",
+   "brown",
+   "dark"
+  ]
+ },
+ {
+  "name": "Rock064",
+  "category": "Rock",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Rock064",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Rock/Rock064",
+  "files": {
+   "albedo": "Rock064_Albedo.jpg",
+   "normal": "Rock064_Normal.jpg",
+   "mask": "Rock064_Mask.png"
+  },
+  "tags": [
+   "064",
+   "64",
+   "forest",
+   "gray",
+   "green",
+   "irregular"
+  ]
+ },
+ {
+  "name": "Metal049A",
+  "category": "Metal",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Metal049A",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Metal/Metal049A",
+  "files": {
+   "albedo": "Metal049A_Albedo.jpg",
+   "normal": "Metal049A_Normal.jpg",
+   "mask": "Metal049A_Mask.png"
+  },
+  "tags": [
+   "49",
+   "clean",
+   "metal",
+   "silver",
+   "smooth"
+  ]
+ },
+ {
+  "name": "Metal055A",
+  "category": "Metal",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Metal055A",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Metal/Metal055A",
+  "files": {
+   "albedo": "Metal055A_Albedo.jpg",
+   "normal": "Metal055A_Normal.jpg",
+   "mask": "Metal055A_Mask.png"
+  },
+  "tags": [
+   "55",
+   "iron",
+   "metal"
+  ]
+ },
+ {
+  "name": "Metal046B",
+  "category": "Metal",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Metal046B",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Metal/Metal046B",
+  "files": {
+   "albedo": "Metal046B_Albedo.jpg",
+   "normal": "Metal046B_Normal.jpg",
+   "mask": "Metal046B_Mask.png"
+  },
+  "tags": [
+   "46",
+   "black",
+   "dark",
+   "dirty",
+   "metal"
+  ]
+ },
+ {
+  "name": "Metal048A",
+  "category": "Metal",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Metal048A",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Metal/Metal048A",
+  "files": {
+   "albedo": "Metal048A_Albedo.jpg",
+   "normal": "Metal048A_Normal.jpg",
+   "mask": "Metal048A_Mask.png"
+  },
+  "tags": [
+   "48",
+   "clean",
+   "gold",
+   "metal",
+   "smooth"
+  ]
+ },
+ {
+  "name": "Metal032",
+  "category": "Metal",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Metal032",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Metal/Metal032",
+  "files": {
+   "albedo": "Metal032_Albedo.jpg",
+   "normal": "Metal032_Normal.jpg",
+   "mask": "Metal032_Mask.png"
+  },
+  "tags": [
+   "32",
+   "grey",
+   "metal",
+   "smooth"
+  ]
+ },
+ {
+  "name": "Metal061B",
+  "category": "Metal",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Metal061B",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Metal/Metal061B",
+  "files": {
+   "albedo": "Metal061B_Albedo.jpg",
+   "normal": "Metal061B_Normal.jpg",
+   "mask": "Metal061B_Mask.png"
+  },
+  "tags": [
+   "61",
+   "cobalt",
+   "metal"
+  ]
+ },
+ {
+  "name": "Rock058",
+  "category": "Rock",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Rock058",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Rock/Rock058",
+  "files": {
+   "albedo": "Rock058_Albedo.jpg",
+   "normal": "Rock058_Normal.jpg",
+   "mask": "Rock058_Mask.png"
+  },
+  "tags": [
+   "58",
+   "cliff",
+   "grey",
+   "rock"
+  ]
+ },
+ {
+  "name": "Rock051",
+  "category": "Rock",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Rock051",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Rock/Rock051",
+  "files": {
+   "albedo": "Rock051_Albedo.jpg",
+   "normal": "Rock051_Normal.jpg",
+   "mask": "Rock051_Mask.png"
+  },
+  "tags": [
+   "51",
+   "cliff",
+   "mountain",
+   "rock",
+   "stone",
+   "wall"
+  ]
+ },
+ {
+  "name": "Rock060",
+  "category": "Rock",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Rock060",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Rock/Rock060",
+  "files": {
+   "albedo": "Rock060_Albedo.jpg",
+   "normal": "Rock060_Normal.jpg",
+   "mask": "Rock060_Mask.png"
+  },
+  "tags": [
+   "60",
+   "cliff",
+   "rock",
+   "rough"
+  ]
+ },
+ {
+  "name": "Bricks106A",
+  "category": "Bricks",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Bricks106A",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Bricks/Bricks106A",
+  "files": {
+   "albedo": "Bricks106A_Albedo.jpg",
+   "normal": "Bricks106A_Normal.jpg",
+   "mask": "Bricks106A_Mask.png"
+  },
+  "tags": [
+   "106",
+   "bricks",
+   "natural",
+   "stone"
+  ]
+ },
+ {
+  "name": "Bricks113A",
+  "category": "Bricks",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Bricks113A",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Bricks/Bricks113A",
+  "files": {
+   "albedo": "Bricks113A_Albedo.jpg",
+   "normal": "Bricks113A_Normal.jpg",
+   "mask": "Bricks113A_Mask.png"
+  },
+  "tags": [
+   "113",
+   "bricks",
+   "natural",
+   "stone"
+  ]
+ },
+ {
+  "name": "Bricks108A",
+  "category": "Bricks",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Bricks108A",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Bricks/Bricks108A",
+  "files": {
+   "albedo": "Bricks108A_Albedo.jpg",
+   "normal": "Bricks108A_Normal.jpg",
+   "mask": "Bricks108A_Mask.png"
+  },
+  "tags": [
+   "108",
+   "bricks",
+   "natural",
+   "stone"
+  ]
+ },
+ {
+  "name": "Bricks112A",
+  "category": "Bricks",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Bricks112A",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Bricks/Bricks112A",
+  "files": {
+   "albedo": "Bricks112A_Albedo.jpg",
+   "normal": "Bricks112A_Normal.jpg",
+   "mask": "Bricks112A_Mask.png"
+  },
+  "tags": [
+   "112",
+   "bricks",
+   "natural",
+   "stone"
+  ]
+ },
+ {
+  "name": "Bricks109B",
+  "category": "Bricks",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Bricks109B",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Bricks/Bricks109B",
+  "files": {
+   "albedo": "Bricks109B_Albedo.jpg",
+   "normal": "Bricks109B_Normal.jpg",
+   "mask": "Bricks109B_Mask.png"
+  },
+  "tags": [
+   "109",
+   "bricks",
+   "natural",
+   "stone"
+  ]
+ },
+ {
+  "name": "Concrete034",
+  "category": "Concrete",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Concrete034",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Concrete/Concrete034",
+  "files": {
+   "albedo": "Concrete034_Albedo.jpg",
+   "normal": "Concrete034_Normal.jpg",
+   "mask": "Concrete034_Mask.png"
+  },
+  "tags": [
+   "34",
+   "concrete",
+   "grey",
+   "light",
+   "plaster",
+   "smooth"
+  ]
+ },
+ {
+  "name": "Fabric084",
+  "category": "Fabric",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Fabric084",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Fabric/Fabric084",
+  "files": {
+   "albedo": "Fabric084_Albedo.jpg",
+   "normal": "Fabric084_Normal.jpg",
+   "mask": "Fabric084_Mask.png"
+  },
+  "tags": [
+   "084",
+   "84",
+   "blue",
+   "fabric",
+   "fur",
+   "microfiber"
+  ]
+ },
+ {
+  "name": "Fabric085",
+  "category": "Fabric",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Fabric085",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Fabric/Fabric085",
+  "files": {
+   "albedo": "Fabric085_Albedo.jpg",
+   "normal": "Fabric085_Normal.jpg",
+   "mask": "Fabric085_Mask.png"
+  },
+  "tags": [
+   "085",
+   "85",
+   "fabric",
+   "orange",
+   "red",
+   "wool"
+  ]
+ },
+ {
+  "name": "Tiles141",
+  "category": "Tiles",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Tiles141",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Tiles/Tiles141",
+  "files": {
+   "albedo": "Tiles141_Albedo.jpg",
+   "normal": "Tiles141_Normal.jpg",
+   "mask": "Tiles141_Mask.png"
+  },
+  "tags": [
+   "141",
+   "bathroom",
+   "beige",
+   "dirty",
+   "floor",
+   "grid"
+  ]
+ },
+ {
+  "name": "Tiles139",
+  "category": "Tiles",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Tiles139",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Tiles/Tiles139",
+  "files": {
+   "albedo": "Tiles139_Albedo.jpg",
+   "normal": "Tiles139_Normal.jpg",
+   "mask": "Tiles139_Mask.png"
+  },
+  "tags": [
+   "139",
+   "bathroom",
+   "beige",
+   "checkered",
+   "classic",
+   "cream"
+  ]
+ },
+ {
+  "name": "Tiles143",
+  "category": "Tiles",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Tiles143",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Tiles/Tiles143",
+  "files": {
+   "albedo": "Tiles143_Albedo.jpg",
+   "normal": "Tiles143_Normal.jpg",
+   "mask": "Tiles143_Mask.png"
+  },
+  "tags": [
+   "143",
+   "beige",
+   "flooring",
+   "grid",
+   "limestone",
+   "rectangular"
+  ]
+ },
+ {
+  "name": "Fabric081C",
+  "category": "Fabric",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Fabric081C",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Fabric/Fabric081C",
+  "files": {
+   "albedo": "Fabric081C_Albedo.jpg",
+   "normal": "Fabric081C_Normal.jpg",
+   "mask": "Fabric081C_Mask.png"
+  },
+  "tags": [
+   "81",
+   "fabric",
+   "plastisol",
+   "printed",
+   "white"
+  ]
+ },
+ {
+  "name": "Fabric061",
+  "category": "Fabric",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Fabric061",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Fabric/Fabric061",
+  "files": {
+   "albedo": "Fabric061_Albedo.jpg",
+   "normal": "Fabric061_Normal.jpg",
+   "mask": "Fabric061_Mask.png"
+  },
+  "tags": [
+   "61",
+   "fabric",
+   "rough"
+  ]
+ },
+ {
+  "name": "Concrete048",
+  "category": "Concrete",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Concrete048",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Concrete/Concrete048",
+  "files": {
+   "albedo": "Concrete048_Albedo.jpg",
+   "normal": "Concrete048_Normal.jpg",
+   "mask": "Concrete048_Mask.png"
+  },
+  "tags": [
+   "048",
+   "48",
+   "beige",
+   "clean",
+   "concrete",
+   "floor"
+  ]
+ },
+ {
+  "name": "Concrete047A",
+  "category": "Concrete",
+  "type": "material",
+  "source": "ambientCG",
+  "sourceUrl": "https://ambientcg.com/view?id=Concrete047A",
+  "license": "CC0",
+  "resolution": 1024,
+  "path": "Materials/Concrete/Concrete047A",
+  "files": {
+   "albedo": "Concrete047A_Albedo.jpg",
+   "normal": "Concrete047A_Normal.jpg",
+   "mask": "Concrete047A_Mask.png"
+  },
+  "tags": [
+   "047",
+   "47",
+   "beige",
+   "clean",
+   "concrete",
+   "construction"
+  ]
+ },
+ {
+  "name": "forrest_ground_01",
+  "category": "Ground",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/forrest_ground_01",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Ground/forrest_ground_01",
+  "files": {
+   "albedo": "forrest_ground_01_Albedo.jpg",
+   "normal": "forrest_ground_01_Normal.jpg",
+   "mask": "forrest_ground_01_Mask.png"
+  }
+ },
+ {
+  "name": "aerial_grass_rock",
+  "category": "Grass",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/aerial_grass_rock",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Grass/aerial_grass_rock",
+  "files": {
+   "albedo": "aerial_grass_rock_Albedo.jpg",
+   "normal": "aerial_grass_rock_Normal.jpg",
+   "mask": "aerial_grass_rock_Mask.png"
+  }
+ },
+ {
+  "name": "forest_ground_04",
+  "category": "Ground",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/forest_ground_04",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Ground/forest_ground_04",
+  "files": {
+   "albedo": "forest_ground_04_Albedo.jpg",
+   "normal": "forest_ground_04_Normal.jpg",
+   "mask": "forest_ground_04_Mask.png"
+  }
+ },
+ {
+  "name": "brown_mud_leaves_01",
+  "category": "Ground",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/brown_mud_leaves_01",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Ground/brown_mud_leaves_01",
+  "files": {
+   "albedo": "brown_mud_leaves_01_Albedo.jpg",
+   "normal": "brown_mud_leaves_01_Normal.jpg",
+   "mask": "brown_mud_leaves_01_Mask.png"
+  }
+ },
+ {
+  "name": "rocky_terrain_02",
+  "category": "Ground",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/rocky_terrain_02",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Ground/rocky_terrain_02",
+  "files": {
+   "albedo": "rocky_terrain_02_Albedo.jpg",
+   "normal": "rocky_terrain_02_Normal.jpg",
+   "mask": "rocky_terrain_02_Mask.png"
+  }
+ },
+ {
+  "name": "aerial_rocks_02",
+  "category": "Rock",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/aerial_rocks_02",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Rock/aerial_rocks_02",
+  "files": {
+   "albedo": "aerial_rocks_02_Albedo.jpg",
+   "normal": "aerial_rocks_02_Normal.jpg",
+   "mask": "aerial_rocks_02_Mask.png"
+  }
+ },
+ {
+  "name": "rocky_trail_02",
+  "category": "Ground",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/rocky_trail_02",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Ground/rocky_trail_02",
+  "files": {
+   "albedo": "rocky_trail_02_Albedo.jpg",
+   "normal": "rocky_trail_02_Normal.jpg",
+   "mask": "rocky_trail_02_Mask.png"
+  }
+ },
+ {
+  "name": "coast_sand_01",
+  "category": "Sand",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/coast_sand_01",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Sand/coast_sand_01",
+  "files": {
+   "albedo": "coast_sand_01_Albedo.jpg",
+   "normal": "coast_sand_01_Normal.jpg",
+   "mask": "coast_sand_01_Mask.png"
+  }
+ },
+ {
+  "name": "sand_01",
+  "category": "Sand",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/sand_01",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Sand/sand_01",
+  "files": {
+   "albedo": "sand_01_Albedo.jpg",
+   "normal": "sand_01_Normal.jpg",
+   "mask": "sand_01_Mask.png"
+  }
+ },
+ {
+  "name": "aerial_beach_01",
+  "category": "Sand",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/aerial_beach_01",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Sand/aerial_beach_01",
+  "files": {
+   "albedo": "aerial_beach_01_Albedo.jpg",
+   "normal": "aerial_beach_01_Normal.jpg",
+   "mask": "aerial_beach_01_Mask.png"
+  }
+ },
+ {
+  "name": "gravelly_sand",
+  "category": "Sand",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/gravelly_sand",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Sand/gravelly_sand",
+  "files": {
+   "albedo": "gravelly_sand_Albedo.jpg",
+   "normal": "gravelly_sand_Normal.jpg",
+   "mask": "gravelly_sand_Mask.png"
+  }
+ },
+ {
+  "name": "gravel_stones",
+  "category": "Gravel",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/gravel_stones",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Gravel/gravel_stones",
+  "files": {
+   "albedo": "gravel_stones_Albedo.jpg",
+   "normal": "gravel_stones_Normal.jpg",
+   "mask": "gravel_stones_Mask.png"
+  }
+ },
+ {
+  "name": "gravel_floor",
+  "category": "Gravel",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/gravel_floor",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Gravel/gravel_floor",
+  "files": {
+   "albedo": "gravel_floor_Albedo.jpg",
+   "normal": "gravel_floor_Normal.jpg",
+   "mask": "gravel_floor_Mask.png"
+  }
+ },
+ {
+  "name": "bicolour_gravel",
+  "category": "Gravel",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/bicolour_gravel",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Gravel/bicolour_gravel",
+  "files": {
+   "albedo": "bicolour_gravel_Albedo.jpg",
+   "normal": "bicolour_gravel_Normal.jpg",
+   "mask": "bicolour_gravel_Mask.png"
+  }
+ },
+ {
+  "name": "sandy_gravel_02",
+  "category": "Gravel",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/sandy_gravel_02",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Gravel/sandy_gravel_02",
+  "files": {
+   "albedo": "sandy_gravel_02_Albedo.jpg",
+   "normal": "sandy_gravel_02_Normal.jpg",
+   "mask": "sandy_gravel_02_Mask.png"
+  }
+ },
+ {
+  "name": "rocky_gravel",
+  "category": "Gravel",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/rocky_gravel",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Gravel/rocky_gravel",
+  "files": {
+   "albedo": "rocky_gravel_Albedo.jpg",
+   "normal": "rocky_gravel_Normal.jpg",
+   "mask": "rocky_gravel_Mask.png"
+  }
+ },
+ {
+  "name": "bark_brown_02",
+  "category": "Bark",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/bark_brown_02",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Bark/bark_brown_02",
+  "files": {
+   "albedo": "bark_brown_02_Albedo.jpg",
+   "normal": "bark_brown_02_Normal.jpg",
+   "mask": "bark_brown_02_Mask.png"
+  }
+ },
+ {
+  "name": "bark_brown_01",
+  "category": "Bark",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/bark_brown_01",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Bark/bark_brown_01",
+  "files": {
+   "albedo": "bark_brown_01_Albedo.jpg",
+   "normal": "bark_brown_01_Normal.jpg",
+   "mask": "bark_brown_01_Mask.png"
+  }
+ },
+ {
+  "name": "tree_bark_03",
+  "category": "Bark",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/tree_bark_03",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Bark/tree_bark_03",
+  "files": {
+   "albedo": "tree_bark_03_Albedo.jpg",
+   "normal": "tree_bark_03_Normal.jpg",
+   "mask": "tree_bark_03_Mask.png"
+  }
+ },
+ {
+  "name": "pine_bark",
+  "category": "Bark",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/pine_bark",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Bark/pine_bark",
+  "files": {
+   "albedo": "pine_bark_Albedo.jpg",
+   "normal": "pine_bark_Normal.jpg",
+   "mask": "pine_bark_Mask.png"
+  }
+ },
+ {
+  "name": "bark_willow",
+  "category": "Bark",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/bark_willow",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Bark/bark_willow",
+  "files": {
+   "albedo": "bark_willow_Albedo.jpg",
+   "normal": "bark_willow_Normal.jpg",
+   "mask": "bark_willow_Mask.png"
+  }
+ },
+ {
+  "name": "sakura_bark",
+  "category": "Bark",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/sakura_bark",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Bark/sakura_bark",
+  "files": {
+   "albedo": "sakura_bark_Albedo.jpg",
+   "normal": "sakura_bark_Normal.jpg",
+   "mask": "sakura_bark_Mask.png"
+  }
+ },
+ {
+  "name": "palm_tree_bark",
+  "category": "Bark",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/palm_tree_bark",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Bark/palm_tree_bark",
+  "files": {
+   "albedo": "palm_tree_bark_Albedo.jpg",
+   "normal": "palm_tree_bark_Normal.jpg",
+   "mask": "palm_tree_bark_Mask.png"
+  }
+ },
+ {
+  "name": "rock_face_03",
+  "category": "Rock",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/rock_face_03",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Rock/rock_face_03",
+  "files": {
+   "albedo": "rock_face_03_Albedo.jpg",
+   "normal": "rock_face_03_Normal.jpg",
+   "mask": "rock_face_03_Mask.png"
+  }
+ },
+ {
+  "name": "rock_boulder_dry",
+  "category": "Rock",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/rock_boulder_dry",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Rock/rock_boulder_dry",
+  "files": {
+   "albedo": "rock_boulder_dry_Albedo.jpg",
+   "normal": "rock_boulder_dry_Normal.jpg",
+   "mask": "rock_boulder_dry_Mask.png"
+  }
+ },
+ {
+  "name": "weathered_brown_planks",
+  "category": "Wood",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/weathered_brown_planks",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Wood/weathered_brown_planks",
+  "files": {
+   "albedo": "weathered_brown_planks_Albedo.jpg",
+   "normal": "weathered_brown_planks_Normal.jpg",
+   "mask": "weathered_brown_planks_Mask.png"
+  }
+ },
+ {
+  "name": "wood_floor",
+  "category": "Wood",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/wood_floor",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Wood/wood_floor",
+  "files": {
+   "albedo": "wood_floor_Albedo.jpg",
+   "normal": "wood_floor_Normal.jpg",
+   "mask": "wood_floor_Mask.png"
+  }
+ },
+ {
+  "name": "red_laterite_soil_stones",
+  "category": "Ground",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/red_laterite_soil_stones",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Ground/red_laterite_soil_stones",
+  "files": {
+   "albedo": "red_laterite_soil_stones_Albedo.jpg",
+   "normal": "red_laterite_soil_stones_Normal.jpg",
+   "mask": "red_laterite_soil_stones_Mask.png"
+  }
+ },
+ {
+  "name": "snow_02",
+  "category": "Snow",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/snow_02",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Snow/snow_02",
+  "files": {
+   "albedo": "snow_02_Albedo.jpg",
+   "normal": "snow_02_Normal.jpg",
+   "mask": "snow_02_Mask.png"
+  }
+ },
+ {
+  "name": "coast_sand_rocks_02",
+  "category": "Rock",
+  "type": "material",
+  "source": "Poly Haven",
+  "sourceUrl": "https://polyhaven.com/a/coast_sand_rocks_02",
+  "license": "CC0",
+  "resolution": 2048,
+  "path": "Materials/Rock/coast_sand_rocks_02",
+  "files": {
+   "albedo": "coast_sand_rocks_02_Albedo.jpg",
+   "normal": "coast_sand_rocks_02_Normal.jpg",
+   "mask": "coast_sand_rocks_02_Mask.png"
+  }
+ }
+]

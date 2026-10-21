@@ -1,0 +1,6844 @@
+{
+ "version": "1.0.0",
+ "name": "Unity Nature & Interior Asset Library",
+ "license": "CC0 1.0 Universal (models, materials, HDRIs)",
+ "generated": "2026-10-21",
+ "models": [
+  {
+   "name": "fir_tree_01",
+   "category": "Trees",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/fir_tree_01",
+   "license": "CC0",
+   "file": "Trees/fir_tree_01/fir_tree_01.obj",
+   "trisOriginal": 6982937,
+   "tris": 508166,
+   "boundsMin": [
+    -3.197,
+    -0.094,
+    -3.519
+   ],
+   "boundsMax": [
+    15.538,
+    18.81,
+    2.937
+   ],
+   "materials": [
+    {
+     "name": "fir_tree_01_bark",
+     "sourceName": "fir_tree_01_bark",
+     "albedo": "fir_tree_01_bark_Albedo.jpg",
+     "normal": "fir_tree_01_bark_Normal.jpg",
+     "mask": "fir_tree_01_bark_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "fir_tree_01_trunk_a",
+     "sourceName": "fir_tree_01_trunk_a",
+     "albedo": "fir_tree_01_trunk_a_Albedo.jpg",
+     "normal": "fir_tree_01_trunk_a_Normal.jpg",
+     "mask": "fir_tree_01_trunk_a_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "fir_tree_01_twig",
+     "sourceName": "fir_tree_01_twig",
+     "albedo": "fir_tree_01_twig_Albedo.png",
+     "normal": "fir_tree_01_twig_Normal.jpg",
+     "mask": "fir_tree_01_twig_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "fir_tree_01_dead_branches",
+     "sourceName": "fir_tree_01_dead_branches",
+     "albedo": null,
+     "normal": null,
+     "mask": "fir_tree_01_dead_branches_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "fir_sapling",
+   "category": "Trees",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/fir_sapling",
+   "license": "CC0",
+   "file": "Trees/fir_sapling/fir_sapling.obj",
+   "trisOriginal": 433021,
+   "tris": 299993,
+   "boundsMin": [
+    -0.437,
+    -0.008,
+    -0.43
+   ],
+   "boundsMax": [
+    2.306,
+    1.292,
+    0.396
+   ],
+   "materials": [
+    {
+     "name": "fir_sapling_branches",
+     "sourceName": "fir_sapling_branches",
+     "albedo": "fir_sapling_branches_Albedo.jpg",
+     "normal": "fir_sapling_branches_Normal.jpg",
+     "mask": "fir_sapling_branches_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "fir_sapling_twigs",
+     "sourceName": "fir_sapling_twigs",
+     "albedo": "fir_sapling_twigs_Albedo.jpg",
+     "normal": "fir_sapling_twigs_Normal.jpg",
+     "mask": "fir_sapling_twigs_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "fir_sapling_medium",
+   "category": "Trees",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/fir_sapling_medium",
+   "license": "CC0",
+   "file": "Trees/fir_sapling_medium/fir_sapling_medium.obj",
+   "trisOriginal": 1533513,
+   "tris": 299741,
+   "boundsMin": [
+    -2.551,
+    -0.141,
+    -2.546
+   ],
+   "boundsMax": [
+    12.228,
+    8.713,
+    2.72
+   ],
+   "materials": [
+    {
+     "name": "fir_sapling_medium_branches",
+     "sourceName": "fir_sapling_medium_branches",
+     "albedo": "fir_sapling_medium_branches_Albedo.jpg",
+     "normal": "fir_sapling_medium_branches_Normal.jpg",
+     "mask": "fir_sapling_medium_branches_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "fir_sapling_medium_twigs",
+     "sourceName": "fir_sapling_medium_twigs",
+     "albedo": "fir_sapling_medium_twigs_Albedo.png",
+     "normal": "fir_sapling_medium_twigs_Normal.jpg",
+     "mask": "fir_sapling_medium_twigs_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "fir_sapling_medium_branches_dead",
+     "sourceName": "fir_sapling_medium_branches_dead",
+     "albedo": null,
+     "normal": null,
+     "mask": "fir_sapling_medium_branches_dead_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "pine_sapling_medium",
+   "category": "Trees",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/pine_sapling_medium",
+   "license": "CC0",
+   "file": "Trees/pine_sapling_medium/pine_sapling_medium.obj",
+   "trisOriginal": 6038139,
+   "tris": 509944,
+   "boundsMin": [
+    -2.6,
+    -0.189,
+    -2.546
+   ],
+   "boundsMax": [
+    12.885,
+    11.279,
+    2.85
+   ],
+   "materials": [
+    {
+     "name": "pine_sapling_medium_bark",
+     "sourceName": "pine_sapling_medium_bark",
+     "albedo": "pine_sapling_medium_bark_Albedo.jpg",
+     "normal": "pine_sapling_medium_bark_Normal.jpg",
+     "mask": "pine_sapling_medium_bark_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "pine_sapling_medium_twig",
+     "sourceName": "pine_sapling_medium_twig",
+     "albedo": "pine_sapling_medium_twig_Albedo.jpg",
+     "normal": "pine_sapling_medium_twig_Normal.jpg",
+     "mask": "pine_sapling_medium_twig_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "pine_sapling_small",
+   "category": "Trees",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/pine_sapling_small",
+   "license": "CC0",
+   "file": "Trees/pine_sapling_small/pine_sapling_small.obj",
+   "trisOriginal": 398144,
+   "tris": 299997,
+   "boundsMin": [
+    -0.36,
+    -0.015,
+    -0.371
+   ],
+   "boundsMax": [
+    2.282,
+    1.283,
+    0.399
+   ],
+   "materials": [
+    {
+     "name": "pine_sapling_small_bark",
+     "sourceName": "pine_sapling_small_bark",
+     "albedo": "pine_sapling_small_bark_Albedo.jpg",
+     "normal": "pine_sapling_small_bark_Normal.jpg",
+     "mask": "pine_sapling_small_bark_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "pine_sapling_small_twig",
+     "sourceName": "pine_sapling_small_twig",
+     "albedo": "pine_sapling_small_twig_Albedo.png",
+     "normal": "pine_sapling_small_twig_Normal.jpg",
+     "mask": "pine_sapling_small_twig_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "tree_small_02",
+   "category": "Trees",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/tree_small_02",
+   "license": "CC0",
+   "file": "Trees/tree_small_02/tree_small_02.obj",
+   "trisOriginal": 2062487,
+   "tris": 298757,
+   "boundsMin": [
+    -1.308,
+    -0.024,
+    -1.38
+   ],
+   "boundsMax": [
+    1.605,
+    4.532,
+    2.898
+   ],
+   "materials": [
+    {
+     "name": "tree_small_02_branches",
+     "sourceName": "tree_small_02_branches",
+     "albedo": "tree_small_02_branches_Albedo.jpg",
+     "normal": "tree_small_02_branches_Normal.jpg",
+     "mask": "tree_small_02_branches_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "tree_small_02_leaves",
+     "sourceName": "tree_small_02_leaves",
+     "albedo": "tree_small_02_leaves_Albedo.png",
+     "normal": "tree_small_02_leaves_Normal.jpg",
+     "mask": "tree_small_02_leaves_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "quiver_tree_01",
+   "category": "Trees",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/quiver_tree_01",
+   "license": "CC0",
+   "file": "Trees/quiver_tree_01/quiver_tree_01.obj",
+   "trisOriginal": 150124,
+   "tris": 150124,
+   "boundsMin": [
+    -0.547,
+    -0.042,
+    -0.466
+   ],
+   "boundsMax": [
+    0.634,
+    2.674,
+    0.502
+   ],
+   "materials": [
+    {
+     "name": "quiver_tree_01_trunk",
+     "sourceName": "quiver_tree_01_trunk",
+     "albedo": "quiver_tree_01_trunk_Albedo.jpg",
+     "normal": "quiver_tree_01_trunk_Normal.jpg",
+     "mask": "quiver_tree_01_trunk_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "quiver_tree_01_leaf",
+     "sourceName": "quiver_tree_01_leaf",
+     "albedo": "quiver_tree_01_leaf_Albedo.jpg",
+     "normal": "quiver_tree_01_leaf_Normal.jpg",
+     "mask": "quiver_tree_01_leaf_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "quiver_tree_02",
+   "category": "Trees",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/quiver_tree_02",
+   "license": "CC0",
+   "file": "Trees/quiver_tree_02/quiver_tree_02.obj",
+   "trisOriginal": 82074,
+   "tris": 82074,
+   "boundsMin": [
+    -0.484,
+    -0.049,
+    -0.432
+   ],
+   "boundsMax": [
+    0.388,
+    1.42,
+    0.449
+   ],
+   "materials": [
+    {
+     "name": "quiver_tree_02",
+     "sourceName": "quiver_tree_02",
+     "albedo": "quiver_tree_02_Albedo.jpg",
+     "normal": "quiver_tree_02_Normal.jpg",
+     "mask": "quiver_tree_02_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "searsia_burchellii",
+   "category": "Trees",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/searsia_burchellii",
+   "license": "CC0",
+   "file": "Trees/searsia_burchellii/searsia_burchellii.obj",
+   "trisOriginal": 616336,
+   "tris": 291495,
+   "boundsMin": [
+    -3.966,
+    -0.035,
+    -2.296
+   ],
+   "boundsMax": [
+    4.367,
+    3.208,
+    2.752
+   ],
+   "materials": [
+    {
+     "name": "searsia_burchellii_leaves",
+     "sourceName": "searsia_burchellii_leaves",
+     "albedo": "searsia_burchellii_leaves_Albedo.png",
+     "normal": "searsia_burchellii_leaves_Normal.jpg",
+     "mask": "searsia_burchellii_leaves_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "searsia_burchellii",
+     "sourceName": "searsia_burchellii",
+     "albedo": "searsia_burchellii_Albedo.jpg",
+     "normal": "searsia_burchellii_Normal.jpg",
+     "mask": "searsia_burchellii_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "searsia_lucida",
+   "category": "Trees",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/searsia_lucida",
+   "license": "CC0",
+   "file": "Trees/searsia_lucida/searsia_lucida.obj",
+   "trisOriginal": 377192,
+   "tris": 298890,
+   "boundsMin": [
+    -2.289,
+    -0.024,
+    -1.585
+   ],
+   "boundsMax": [
+    2.489,
+    2.314,
+    1.253
+   ],
+   "materials": [
+    {
+     "name": "searsia_lucida",
+     "sourceName": "searsia_lucida",
+     "albedo": "searsia_lucida_Albedo.jpg",
+     "normal": "searsia_lucida_Normal.jpg",
+     "mask": "searsia_lucida_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "searsia_lucida_leaves",
+     "sourceName": "searsia_lucida_leaves",
+     "albedo": "searsia_lucida_leaves_Albedo.png",
+     "normal": "searsia_lucida_leaves_Normal.jpg",
+     "mask": "searsia_lucida_leaves_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "dead_tree_trunk",
+   "category": "Trees",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/dead_tree_trunk",
+   "license": "CC0",
+   "file": "Trees/dead_tree_trunk/dead_tree_trunk.obj",
+   "trisOriginal": 101802,
+   "tris": 101802,
+   "boundsMin": [
+    -1.539,
+    -0.028,
+    -0.171
+   ],
+   "boundsMax": [
+    1.512,
+    0.263,
+    0.107
+   ],
+   "materials": [
+    {
+     "name": "dead_tree_trunk",
+     "sourceName": "dead_tree_trunk",
+     "albedo": "dead_tree_trunk_Albedo.jpg",
+     "normal": "dead_tree_trunk_Normal.jpg",
+     "mask": "dead_tree_trunk_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "dead_tree_trunk_02",
+   "category": "Trees",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/dead_tree_trunk_02",
+   "license": "CC0",
+   "file": "Trees/dead_tree_trunk_02/dead_tree_trunk_02.obj",
+   "trisOriginal": 83128,
+   "tris": 83128,
+   "boundsMin": [
+    -1.924,
+    -0.328,
+    -0.501
+   ],
+   "boundsMax": [
+    2.127,
+    0.727,
+    0.555
+   ],
+   "materials": [
+    {
+     "name": "dead_tree_trunk_02",
+     "sourceName": "dead_tree_trunk_02",
+     "albedo": "dead_tree_trunk_02_Albedo.jpg",
+     "normal": "dead_tree_trunk_02_Normal.jpg",
+     "mask": "dead_tree_trunk_02_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "dead_quiver_trunk",
+   "category": "Trees",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/dead_quiver_trunk",
+   "license": "CC0",
+   "file": "Trees/dead_quiver_trunk/dead_quiver_trunk.obj",
+   "trisOriginal": 17978,
+   "tris": 17978,
+   "boundsMin": [
+    -0.17,
+    0.012,
+    -0.131
+   ],
+   "boundsMax": [
+    0.136,
+    2.006,
+    0.137
+   ],
+   "materials": [
+    {
+     "name": "dead_quiver_trunk",
+     "sourceName": "dead_quiver_trunk",
+     "albedo": "dead_quiver_trunk_Albedo.jpg",
+     "normal": "dead_quiver_trunk_Normal.jpg",
+     "mask": "dead_quiver_trunk_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "single_root",
+   "category": "Trees",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/single_root",
+   "license": "CC0",
+   "file": "Trees/single_root/single_root.obj",
+   "trisOriginal": 61027,
+   "tris": 61027,
+   "boundsMin": [
+    -0.228,
+    -0.081,
+    0.253
+   ],
+   "boundsMax": [
+    0.327,
+    0.097,
+    2.089
+   ],
+   "materials": [
+    {
+     "name": "single_root",
+     "sourceName": "single_root",
+     "albedo": "single_root_Albedo.jpg",
+     "normal": "single_root_Normal.jpg",
+     "mask": "single_root_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "root_cluster_01",
+   "category": "Trees",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/root_cluster_01",
+   "license": "CC0",
+   "file": "Trees/root_cluster_01/root_cluster_01.obj",
+   "trisOriginal": 225261,
+   "tris": 225261,
+   "boundsMin": [
+    -2.064,
+    -0.045,
+    -0.994
+   ],
+   "boundsMax": [
+    2.058,
+    1.464,
+    1.689
+   ],
+   "materials": [
+    {
+     "name": "root_cluster_01",
+     "sourceName": "root_cluster_01",
+     "albedo": "root_cluster_01_Albedo.jpg",
+     "normal": "root_cluster_01_Normal.jpg",
+     "mask": "root_cluster_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "celandine_01",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/celandine_01",
+   "license": "CC0",
+   "file": "Plants/celandine_01/celandine_01.obj",
+   "trisOriginal": 8966,
+   "tris": 8966,
+   "boundsMin": [
+    -1.145,
+    -0.007,
+    -0.159
+   ],
+   "boundsMax": [
+    1.095,
+    0.179,
+    0.148
+   ],
+   "materials": [
+    {
+     "name": "celandine_01",
+     "sourceName": "celandine_01",
+     "albedo": "celandine_01_Albedo.png",
+     "normal": "celandine_01_Normal.jpg",
+     "mask": "celandine_01_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "dandelion_01",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/dandelion_01",
+   "license": "CC0",
+   "file": "Plants/dandelion_01/dandelion_01.obj",
+   "trisOriginal": 54764,
+   "tris": 39995,
+   "boundsMin": [
+    -4.12,
+    -0.008,
+    -0.137
+   ],
+   "boundsMax": [
+    0.094,
+    0.162,
+    0.121
+   ],
+   "materials": [
+    {
+     "name": "dandelion_01",
+     "sourceName": "dandelion_01",
+     "albedo": "dandelion_01_Albedo.png",
+     "normal": "dandelion_01_Normal.jpg",
+     "mask": "dandelion_01_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "flower_empodium",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/flower_empodium",
+   "license": "CC0",
+   "file": "Plants/flower_empodium/flower_empodium.obj",
+   "trisOriginal": 3053,
+   "tris": 3053,
+   "boundsMin": [
+    -0.683,
+    -0.004,
+    -0.177
+   ],
+   "boundsMax": [
+    0.639,
+    0.265,
+    0.107
+   ],
+   "materials": [
+    {
+     "name": "flower_empodium",
+     "sourceName": "flower_empodium",
+     "albedo": "flower_empodium_Albedo.png",
+     "normal": "flower_empodium_Normal.jpg",
+     "mask": "flower_empodium_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "flower_gazania",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/flower_gazania",
+   "license": "CC0",
+   "file": "Plants/flower_gazania/flower_gazania.obj",
+   "trisOriginal": 14340,
+   "tris": 14340,
+   "boundsMin": [
+    -0.736,
+    -0.006,
+    -0.373
+   ],
+   "boundsMax": [
+    0.745,
+    0.159,
+    0.33
+   ],
+   "materials": [
+    {
+     "name": "flower_gazania",
+     "sourceName": "flower_gazania",
+     "albedo": "flower_gazania_Albedo.jpg",
+     "normal": "flower_gazania_Normal.jpg",
+     "mask": "flower_gazania_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "flower_heliophila",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/flower_heliophila",
+   "license": "CC0",
+   "file": "Plants/flower_heliophila/flower_heliophila.obj",
+   "trisOriginal": 101621,
+   "tris": 39963,
+   "boundsMin": [
+    -1.419,
+    -0.005,
+    -0.622
+   ],
+   "boundsMax": [
+    1.334,
+    0.393,
+    0.794
+   ],
+   "materials": [
+    {
+     "name": "flower_heliophila",
+     "sourceName": "flower_heliophila",
+     "albedo": "flower_heliophila_Albedo.png",
+     "normal": "flower_heliophila_Normal.jpg",
+     "mask": "flower_heliophila_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "flower_stinkkruid",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/flower_stinkkruid",
+   "license": "CC0",
+   "file": "Plants/flower_stinkkruid/flower_stinkkruid.obj",
+   "trisOriginal": 80716,
+   "tris": 40000,
+   "boundsMin": [
+    -0.703,
+    -0.005,
+    -0.16
+   ],
+   "boundsMax": [
+    1.002,
+    0.173,
+    0.14
+   ],
+   "materials": [
+    {
+     "name": "flower_stinkkruid",
+     "sourceName": "flower_stinkkruid",
+     "albedo": "flower_stinkkruid_Albedo.png",
+     "normal": "flower_stinkkruid_Normal.jpg",
+     "mask": "flower_stinkkruid_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "flower_ursinia",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/flower_ursinia",
+   "license": "CC0",
+   "file": "Plants/flower_ursinia/flower_ursinia.obj",
+   "trisOriginal": 24933,
+   "tris": 24933,
+   "boundsMin": [
+    -1.302,
+    -0.009,
+    -0.141
+   ],
+   "boundsMax": [
+    0.892,
+    0.162,
+    0.203
+   ],
+   "materials": [
+    {
+     "name": "flower_ursinia",
+     "sourceName": "flower_ursinia",
+     "albedo": "flower_ursinia_Albedo.png",
+     "normal": "flower_ursinia_Normal.jpg",
+     "mask": "flower_ursinia_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "periwinkle_plant",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/periwinkle_plant",
+   "license": "CC0",
+   "file": "Plants/periwinkle_plant/periwinkle_plant.obj",
+   "trisOriginal": 34350,
+   "tris": 34350,
+   "boundsMin": [
+    -0.56,
+    -0.0,
+    -0.19
+   ],
+   "boundsMax": [
+    0.675,
+    0.411,
+    0.131
+   ],
+   "materials": [
+    {
+     "name": "periwinkle_plant",
+     "sourceName": "periwinkle_plant",
+     "albedo": "periwinkle_plant_Albedo.png",
+     "normal": "periwinkle_plant_Normal.jpg",
+     "mask": "periwinkle_plant_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "shrub_01",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/shrub_01",
+   "license": "CC0",
+   "file": "Plants/shrub_01/shrub_01.obj",
+   "trisOriginal": 156012,
+   "tris": 39992,
+   "boundsMin": [
+    -1.854,
+    -0.009,
+    -0.114
+   ],
+   "boundsMax": [
+    0.732,
+    0.387,
+    0.105
+   ],
+   "materials": [
+    {
+     "name": "shrub_01",
+     "sourceName": "shrub_01",
+     "albedo": "shrub_01_Albedo.png",
+     "normal": "shrub_01_Normal.jpg",
+     "mask": "shrub_01_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "shrub_02",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/shrub_02",
+   "license": "CC0",
+   "file": "Plants/shrub_02/shrub_02.obj",
+   "trisOriginal": 27254,
+   "tris": 27254,
+   "boundsMin": [
+    -2.092,
+    -0.025,
+    -1.13
+   ],
+   "boundsMax": [
+    3.962,
+    1.677,
+    1.155
+   ],
+   "materials": [
+    {
+     "name": "shrub_02",
+     "sourceName": "shrub_02",
+     "albedo": "shrub_02_Albedo.png",
+     "normal": "shrub_02_Normal.jpg",
+     "mask": "shrub_02_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "shrub_03",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/shrub_03",
+   "license": "CC0",
+   "file": "Plants/shrub_03/shrub_03.obj",
+   "trisOriginal": 8287,
+   "tris": 8287,
+   "boundsMin": [
+    -0.074,
+    -0.002,
+    -0.073
+   ],
+   "boundsMax": [
+    1.293,
+    0.401,
+    0.078
+   ],
+   "materials": [
+    {
+     "name": "shrub_03",
+     "sourceName": "shrub_03",
+     "albedo": "shrub_03_Albedo.png",
+     "normal": "shrub_03_Normal.jpg",
+     "mask": "shrub_03_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "shrub_04",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/shrub_04",
+   "license": "CC0",
+   "file": "Plants/shrub_04/shrub_04.obj",
+   "trisOriginal": 27327,
+   "tris": 27327,
+   "boundsMin": [
+    -0.024,
+    -0.006,
+    -0.075
+   ],
+   "boundsMax": [
+    0.559,
+    0.213,
+    0.071
+   ],
+   "materials": [
+    {
+     "name": "shrub_04",
+     "sourceName": "shrub_04",
+     "albedo": "shrub_04_Albedo.png",
+     "normal": "shrub_04_Normal.jpg",
+     "mask": "shrub_04_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "shrub_sorrel_01",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/shrub_sorrel_01",
+   "license": "CC0",
+   "file": "Plants/shrub_sorrel_01/shrub_sorrel_01.obj",
+   "trisOriginal": 3319,
+   "tris": 3319,
+   "boundsMin": [
+    -0.186,
+    -0.001,
+    -0.124
+   ],
+   "boundsMax": [
+    0.166,
+    0.057,
+    0.023
+   ],
+   "materials": [
+    {
+     "name": "shrub_sorrel_01",
+     "sourceName": "shrub_sorrel_01",
+     "albedo": "shrub_sorrel_01_Albedo.png",
+     "normal": "shrub_sorrel_01_Normal.jpg",
+     "mask": "shrub_sorrel_01_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "fern_02",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/fern_02",
+   "license": "CC0",
+   "file": "Plants/fern_02/fern_02.obj",
+   "trisOriginal": 6232,
+   "tris": 6232,
+   "boundsMin": [
+    -0.528,
+    -0.031,
+    -0.422
+   ],
+   "boundsMax": [
+    1.444,
+    0.397,
+    1.302
+   ],
+   "materials": [
+    {
+     "name": "fern_02",
+     "sourceName": "fern_02",
+     "albedo": "fern_02_Albedo.png",
+     "normal": "fern_02_Normal.jpg",
+     "mask": "fern_02_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "nettle_plant",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/nettle_plant",
+   "license": "CC0",
+   "file": "Plants/nettle_plant/nettle_plant.obj",
+   "trisOriginal": 31304,
+   "tris": 31304,
+   "boundsMin": [
+    -0.053,
+    -0.006,
+    -0.049
+   ],
+   "boundsMax": [
+    1.03,
+    0.213,
+    0.046
+   ],
+   "materials": [
+    {
+     "name": "nettle_plant",
+     "sourceName": "nettle_plant",
+     "albedo": "nettle_plant_Albedo.png",
+     "normal": "nettle_plant_Normal.jpg",
+     "mask": "nettle_plant_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "weed_plant_02",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/weed_plant_02",
+   "license": "CC0",
+   "file": "Plants/weed_plant_02/weed_plant_02.obj",
+   "trisOriginal": 11116,
+   "tris": 11116,
+   "boundsMin": [
+    -0.086,
+    -0.009,
+    -0.111
+   ],
+   "boundsMax": [
+    2.04,
+    0.067,
+    0.18
+   ],
+   "materials": [
+    {
+     "name": "weed_plant_02",
+     "sourceName": "weed_plant_02",
+     "albedo": "weed_plant_02_Albedo.png",
+     "normal": "weed_plant_02_Normal.jpg",
+     "mask": "weed_plant_02_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "moss_01",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/moss_01",
+   "license": "CC0",
+   "file": "Plants/moss_01/moss_01.obj",
+   "trisOriginal": 204,
+   "tris": 204,
+   "boundsMin": [
+    -0.009,
+    -0.004,
+    -0.01
+   ],
+   "boundsMax": [
+    0.206,
+    0.037,
+    0.019
+   ],
+   "materials": [
+    {
+     "name": "moss_01",
+     "sourceName": "moss_01",
+     "albedo": "moss_01_Albedo.png",
+     "normal": "moss_01_Normal.jpg",
+     "mask": "moss_01_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "grass_bermuda_01",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/grass_bermuda_01",
+   "license": "CC0",
+   "file": "Plants/grass_bermuda_01/grass_bermuda_01.obj",
+   "trisOriginal": 941,
+   "tris": 941,
+   "boundsMin": [
+    -0.759,
+    -0.011,
+    -0.07
+   ],
+   "boundsMax": [
+    0.928,
+    0.147,
+    0.072
+   ],
+   "materials": [
+    {
+     "name": "grass_bermuda_01",
+     "sourceName": "grass_bermuda_01",
+     "albedo": "grass_bermuda_01_Albedo.jpg",
+     "normal": "grass_bermuda_01_Normal.jpg",
+     "mask": "grass_bermuda_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "grass_medium_01",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/grass_medium_01",
+   "license": "CC0",
+   "file": "Plants/grass_medium_01/grass_medium_01.obj",
+   "trisOriginal": 24730,
+   "tris": 24730,
+   "boundsMin": [
+    -2.553,
+    -0.026,
+    -0.158
+   ],
+   "boundsMax": [
+    3.052,
+    0.317,
+    0.169
+   ],
+   "materials": [
+    {
+     "name": "grass_medium_01",
+     "sourceName": "grass_medium_01",
+     "albedo": "grass_medium_01_Albedo.png",
+     "normal": "grass_medium_01_Normal.jpg",
+     "mask": "grass_medium_01_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "grass_medium_02",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/grass_medium_02",
+   "license": "CC0",
+   "file": "Plants/grass_medium_02/grass_medium_02.obj",
+   "trisOriginal": 7842,
+   "tris": 7842,
+   "boundsMin": [
+    -0.056,
+    -0.006,
+    -0.175
+   ],
+   "boundsMax": [
+    1.255,
+    0.4,
+    0.258
+   ],
+   "materials": [
+    {
+     "name": "grass_medium_02",
+     "sourceName": "grass_medium_02",
+     "albedo": "grass_medium_02_Albedo.png",
+     "normal": "grass_medium_02_Normal.jpg",
+     "mask": "grass_medium_02_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "dry_branches_medium_01",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/dry_branches_medium_01",
+   "license": "CC0",
+   "file": "Plants/dry_branches_medium_01/dry_branches_medium_01.obj",
+   "trisOriginal": 16803,
+   "tris": 16803,
+   "boundsMin": [
+    -0.547,
+    -0.017,
+    -0.69
+   ],
+   "boundsMax": [
+    0.512,
+    0.324,
+    0.609
+   ],
+   "materials": [
+    {
+     "name": "dry_branches_medium_01",
+     "sourceName": "dry_branches_medium_01",
+     "albedo": "dry_branches_medium_01_Albedo.jpg",
+     "normal": "dry_branches_medium_01_Normal.jpg",
+     "mask": "dry_branches_medium_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "bark_debris_01",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/bark_debris_01",
+   "license": "CC0",
+   "file": "Plants/bark_debris_01/bark_debris_01.obj",
+   "trisOriginal": 193406,
+   "tris": 39992,
+   "boundsMin": [
+    -0.607,
+    -0.057,
+    -0.381
+   ],
+   "boundsMax": [
+    0.602,
+    0.055,
+    0.29
+   ],
+   "materials": [
+    {
+     "name": "bark_debris_01",
+     "sourceName": "bark_debris_01",
+     "albedo": "bark_debris_01_Albedo.jpg",
+     "normal": "bark_debris_01_Normal.jpg",
+     "mask": "bark_debris_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "dead_quiver_branch_01",
+   "category": "Plants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/dead_quiver_branch_01",
+   "license": "CC0",
+   "file": "Plants/dead_quiver_branch_01/dead_quiver_branch_01.obj",
+   "trisOriginal": 14834,
+   "tris": 14834,
+   "boundsMin": [
+    -0.152,
+    0.001,
+    -0.097
+   ],
+   "boundsMax": [
+    0.102,
+    0.439,
+    0.13
+   ],
+   "materials": [
+    {
+     "name": "dead_quiver_branch_01",
+     "sourceName": "dead_quiver_branch_01",
+     "albedo": "dead_quiver_branch_01_Albedo.jpg",
+     "normal": "dead_quiver_branch_01_Normal.jpg",
+     "mask": "dead_quiver_branch_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "potted_plant_01",
+   "category": "PottedPlants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/potted_plant_01",
+   "license": "CC0",
+   "file": "PottedPlants/potted_plant_01/potted_plant_01.obj",
+   "trisOriginal": 176226,
+   "tris": 40219,
+   "boundsMin": [
+    -0.338,
+    0.0,
+    -0.364
+   ],
+   "boundsMax": [
+    0.249,
+    1.336,
+    0.27
+   ],
+   "materials": [
+    {
+     "name": "potted_plant_01_pot",
+     "sourceName": "potted_plant_01_pot",
+     "albedo": "potted_plant_01_pot_Albedo.jpg",
+     "normal": "potted_plant_01_pot_Normal.jpg",
+     "mask": "potted_plant_01_pot_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "potted_plant_01_leaves",
+     "sourceName": "potted_plant_01_leaves",
+     "albedo": "potted_plant_01_leaves_Albedo.png",
+     "normal": "potted_plant_01_leaves_Normal.jpg",
+     "mask": "potted_plant_01_leaves_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "potted_plant_02",
+   "category": "PottedPlants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/potted_plant_02",
+   "license": "CC0",
+   "file": "PottedPlants/potted_plant_02/potted_plant_02.obj",
+   "trisOriginal": 69806,
+   "tris": 39996,
+   "boundsMin": [
+    -0.396,
+    0.0,
+    -0.42
+   ],
+   "boundsMax": [
+    0.305,
+    0.841,
+    0.237
+   ],
+   "materials": [
+    {
+     "name": "potted_plant_02_pot",
+     "sourceName": "potted_plant_02_pot",
+     "albedo": "potted_plant_02_pot_Albedo.jpg",
+     "normal": "potted_plant_02_pot_Normal.jpg",
+     "mask": "potted_plant_02_pot_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "potted_plant_02_leaves",
+     "sourceName": "potted_plant_02_leaves",
+     "albedo": "potted_plant_02_leaves_Albedo.png",
+     "normal": "potted_plant_02_leaves_Normal.jpg",
+     "mask": "potted_plant_02_leaves_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "potted_plant_04",
+   "category": "PottedPlants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/potted_plant_04",
+   "license": "CC0",
+   "file": "PottedPlants/potted_plant_04/potted_plant_04.obj",
+   "trisOriginal": 8929,
+   "tris": 8929,
+   "boundsMin": [
+    -0.084,
+    0.0,
+    -0.084
+   ],
+   "boundsMax": [
+    0.084,
+    0.268,
+    0.101
+   ],
+   "materials": [
+    {
+     "name": "potted_plant_04",
+     "sourceName": "potted_plant_04",
+     "albedo": "potted_plant_04_Albedo.jpg",
+     "normal": "potted_plant_04_Normal.jpg",
+     "mask": "potted_plant_04_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "anthurium_botany_01",
+   "category": "PottedPlants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/anthurium_botany_01",
+   "license": "CC0",
+   "file": "PottedPlants/anthurium_botany_01/anthurium_botany_01.obj",
+   "trisOriginal": 67152,
+   "tris": 39998,
+   "boundsMin": [
+    -1.42,
+    -0.01,
+    -1.146
+   ],
+   "boundsMax": [
+    1.376,
+    0.489,
+    0.652
+   ],
+   "materials": [
+    {
+     "name": "anthurium_botany_01",
+     "sourceName": "anthurium_botany_01",
+     "albedo": "anthurium_botany_01_Albedo.png",
+     "normal": "anthurium_botany_01_Normal.jpg",
+     "mask": "anthurium_botany_01_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "calathea_orbifolia_01",
+   "category": "PottedPlants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/calathea_orbifolia_01",
+   "license": "CC0",
+   "file": "PottedPlants/calathea_orbifolia_01/calathea_orbifolia_01.obj",
+   "trisOriginal": 16688,
+   "tris": 16688,
+   "boundsMin": [
+    -1.294,
+    -0.008,
+    -0.315
+   ],
+   "boundsMax": [
+    1.198,
+    0.416,
+    0.878
+   ],
+   "materials": [
+    {
+     "name": "calathea_orbifolia_01",
+     "sourceName": "calathea_orbifolia_01",
+     "albedo": "calathea_orbifolia_01_Albedo.png",
+     "normal": "calathea_orbifolia_01_Normal.jpg",
+     "mask": "calathea_orbifolia_01_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "pachira_aquatica_01",
+   "category": "PottedPlants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/pachira_aquatica_01",
+   "license": "CC0",
+   "file": "PottedPlants/pachira_aquatica_01/pachira_aquatica_01.obj",
+   "trisOriginal": 76914,
+   "tris": 39995,
+   "boundsMin": [
+    -2.309,
+    -0.018,
+    -0.591
+   ],
+   "boundsMax": [
+    4.56,
+    1.886,
+    0.406
+   ],
+   "materials": [
+    {
+     "name": "pachira_aquatica_01_bark",
+     "sourceName": "pachira_aquatica_01_bark",
+     "albedo": "pachira_aquatica_01_bark_Albedo.jpg",
+     "normal": "pachira_aquatica_01_bark_Normal.jpg",
+     "mask": "pachira_aquatica_01_bark_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "planter_box_01",
+   "category": "PottedPlants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/planter_box_01",
+   "license": "CC0",
+   "file": "PottedPlants/planter_box_01/planter_box_01.obj",
+   "trisOriginal": 8094,
+   "tris": 8094,
+   "boundsMin": [
+    -0.457,
+    0.0,
+    -0.207
+   ],
+   "boundsMax": [
+    0.456,
+    0.425,
+    0.207
+   ],
+   "materials": [
+    {
+     "name": "planter_box_01",
+     "sourceName": "planter_box_01",
+     "albedo": "planter_box_01_Albedo.jpg",
+     "normal": "planter_box_01_Normal.jpg",
+     "mask": "planter_box_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "planter_box_02",
+   "category": "PottedPlants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/planter_box_02",
+   "license": "CC0",
+   "file": "PottedPlants/planter_box_02/planter_box_02.obj",
+   "trisOriginal": 10944,
+   "tris": 10944,
+   "boundsMin": [
+    -0.625,
+    -0.001,
+    -0.235
+   ],
+   "boundsMax": [
+    0.627,
+    0.453,
+    0.232
+   ],
+   "materials": [
+    {
+     "name": "planter_box_02",
+     "sourceName": "planter_box_02",
+     "albedo": "planter_box_02_Albedo.jpg",
+     "normal": "planter_box_02_Normal.jpg",
+     "mask": "planter_box_02_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "planter_box_03",
+   "category": "PottedPlants",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/planter_box_03",
+   "license": "CC0",
+   "file": "PottedPlants/planter_box_03/planter_box_03.obj",
+   "trisOriginal": 13112,
+   "tris": 13112,
+   "boundsMin": [
+    -0.457,
+    0.0,
+    -0.329
+   ],
+   "boundsMax": [
+    0.457,
+    0.855,
+    0.327
+   ],
+   "materials": [
+    {
+     "name": "planter_box_03",
+     "sourceName": "planter_box_03",
+     "albedo": "planter_box_03_Albedo.jpg",
+     "normal": "planter_box_03_Normal.jpg",
+     "mask": "planter_box_03_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "boulder_01",
+   "category": "Rocks",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/boulder_01",
+   "license": "CC0",
+   "file": "Rocks/boulder_01/boulder_01.obj",
+   "trisOriginal": 66122,
+   "tris": 9996,
+   "boundsMin": [
+    -0.747,
+    -0.073,
+    -0.948
+   ],
+   "boundsMax": [
+    0.523,
+    0.929,
+    0.882
+   ],
+   "materials": [
+    {
+     "name": "boulder_01",
+     "sourceName": "boulder_01",
+     "albedo": "boulder_01_Albedo.jpg",
+     "normal": "boulder_01_Normal.jpg",
+     "mask": "boulder_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "rock_07",
+   "category": "Rocks",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/rock_07",
+   "license": "CC0",
+   "file": "Rocks/rock_07/rock_07.obj",
+   "trisOriginal": 14844,
+   "tris": 10000,
+   "boundsMin": [
+    -0.088,
+    -0.002,
+    -0.178
+   ],
+   "boundsMax": [
+    0.081,
+    0.142,
+    0.142
+   ],
+   "materials": [
+    {
+     "name": "rock_07",
+     "sourceName": "rock_07",
+     "albedo": "rock_07_Albedo.jpg",
+     "normal": "rock_07_Normal.jpg",
+     "mask": "rock_07_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "rock_09",
+   "category": "Rocks",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/rock_09",
+   "license": "CC0",
+   "file": "Rocks/rock_09/rock_09.obj",
+   "trisOriginal": 12416,
+   "tris": 9998,
+   "boundsMin": [
+    -0.037,
+    -0.001,
+    -0.061
+   ],
+   "boundsMax": [
+    0.037,
+    0.032,
+    0.084
+   ],
+   "materials": [
+    {
+     "name": "rock_09",
+     "sourceName": "rock_09",
+     "albedo": "rock_09_Albedo.jpg",
+     "normal": "rock_09_Normal.jpg",
+     "mask": "rock_09_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "rock_moss_set_01",
+   "category": "Rocks",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/rock_moss_set_01",
+   "license": "CC0",
+   "file": "Rocks/rock_moss_set_01/rock_moss_set_01.obj",
+   "trisOriginal": 63127,
+   "tris": 11518,
+   "boundsMin": [
+    -3.914,
+    -0.658,
+    -3.812
+   ],
+   "boundsMax": [
+    4.091,
+    1.103,
+    3.124
+   ],
+   "materials": [
+    {
+     "name": "rock_moss_set_01",
+     "sourceName": "rock_moss_set_01",
+     "albedo": "rock_moss_set_01_Albedo.jpg",
+     "normal": "rock_moss_set_01_Normal.jpg",
+     "mask": "rock_moss_set_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "rock_moss_set_02",
+   "category": "Rocks",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/rock_moss_set_02",
+   "license": "CC0",
+   "file": "Rocks/rock_moss_set_02/rock_moss_set_02.obj",
+   "trisOriginal": 57647,
+   "tris": 12352,
+   "boundsMin": [
+    -3.809,
+    -0.315,
+    -1.915
+   ],
+   "boundsMax": [
+    4.463,
+    1.05,
+    1.493
+   ],
+   "materials": [
+    {
+     "name": "rock_moss_set_02",
+     "sourceName": "rock_moss_set_02",
+     "albedo": "rock_moss_set_02_Albedo.jpg",
+     "normal": "rock_moss_set_02_Normal.jpg",
+     "mask": "rock_moss_set_02_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "stone_01",
+   "category": "Rocks",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/stone_01",
+   "license": "CC0",
+   "file": "Rocks/stone_01/stone_01.obj",
+   "trisOriginal": 53520,
+   "tris": 9996,
+   "boundsMin": [
+    -0.07,
+    -0.015,
+    -0.045
+   ],
+   "boundsMax": [
+    0.076,
+    0.057,
+    0.044
+   ],
+   "materials": [
+    {
+     "name": "stone_01",
+     "sourceName": "stone_01",
+     "albedo": "stone_01_Albedo.jpg",
+     "normal": "stone_01_Normal.jpg",
+     "mask": "stone_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "namaqualand_boulder_02",
+   "category": "Rocks",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/namaqualand_boulder_02",
+   "license": "CC0",
+   "file": "Rocks/namaqualand_boulder_02/namaqualand_boulder_02.obj",
+   "trisOriginal": 97964,
+   "tris": 10001,
+   "boundsMin": [
+    -1.183,
+    -0.059,
+    -0.604
+   ],
+   "boundsMax": [
+    1.341,
+    0.823,
+    0.626
+   ],
+   "materials": [
+    {
+     "name": "boulder_02",
+     "sourceName": "boulder_02",
+     "albedo": "boulder_02_Albedo.jpg",
+     "normal": "boulder_02_Normal.jpg",
+     "mask": "boulder_02_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "sand_rocks_small_01",
+   "category": "Rocks",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/sand_rocks_small_01",
+   "license": "CC0",
+   "file": "Rocks/sand_rocks_small_01/sand_rocks_small_01.obj",
+   "trisOriginal": 739469,
+   "tris": 10896,
+   "boundsMin": [
+    -2.474,
+    -0.102,
+    -1.914
+   ],
+   "boundsMax": [
+    2.152,
+    0.426,
+    1.963
+   ],
+   "materials": [
+    {
+     "name": "sand_rocks_small_01",
+     "sourceName": "sand_rocks_small_01",
+     "albedo": "sand_rocks_small_01_Albedo.jpg",
+     "normal": "sand_rocks_small_01_Normal.jpg",
+     "mask": "sand_rocks_small_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "street_lamp_01",
+   "category": "Lamps",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/street_lamp_01",
+   "license": "CC0",
+   "file": "Lamps/street_lamp_01/street_lamp_01.obj",
+   "trisOriginal": 30610,
+   "tris": 7999,
+   "boundsMin": [
+    -0.352,
+    0.0,
+    -0.193
+   ],
+   "boundsMax": [
+    0.351,
+    3.87,
+    0.193
+   ],
+   "materials": [
+    {
+     "name": "street_lamp_01",
+     "sourceName": "street_lamp_01",
+     "albedo": "street_lamp_01_Albedo.jpg",
+     "normal": "street_lamp_01_Normal.jpg",
+     "mask": "street_lamp_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "street_lamp_01_glass",
+     "sourceName": "street_lamp_01_glass",
+     "albedo": "street_lamp_01_glass_Albedo.png",
+     "normal": "street_lamp_01_glass_Normal.jpg",
+     "mask": "street_lamp_01_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "street_lamp_02",
+   "category": "Lamps",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/street_lamp_02",
+   "license": "CC0",
+   "file": "Lamps/street_lamp_02/street_lamp_02.obj",
+   "trisOriginal": 20338,
+   "tris": 8000,
+   "boundsMin": [
+    -0.193,
+    -0.395,
+    -0.0
+   ],
+   "boundsMax": [
+    0.193,
+    1.279,
+    0.807
+   ],
+   "materials": [
+    {
+     "name": "street_lamp_02",
+     "sourceName": "street_lamp_02",
+     "albedo": "street_lamp_02_Albedo.jpg",
+     "normal": "street_lamp_02_Normal.jpg",
+     "mask": "street_lamp_02_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "street_lamp_02_glass",
+     "sourceName": "street_lamp_02_glass",
+     "albedo": "street_lamp_02_glass_Albedo.png",
+     "normal": "street_lamp_02_glass_Normal.jpg",
+     "mask": "street_lamp_02_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "Lantern_01",
+   "category": "Lamps",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/Lantern_01",
+   "license": "CC0",
+   "file": "Lamps/Lantern_01/Lantern_01.obj",
+   "trisOriginal": 33902,
+   "tris": 7998,
+   "boundsMin": [
+    -0.061,
+    0.0,
+    -0.048
+   ],
+   "boundsMax": [
+    0.061,
+    0.294,
+    0.049
+   ],
+   "materials": [
+    {
+     "name": "Lantern_01_brass",
+     "sourceName": "Lantern_01_brass",
+     "albedo": "Lantern_01_brass_Albedo.jpg",
+     "normal": "Lantern_01_brass_Normal.jpg",
+     "mask": "Lantern_01_brass_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "Lantern_01_glass",
+     "sourceName": "Lantern_01_glass",
+     "albedo": null,
+     "normal": null,
+     "mask": "Lantern_01_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "wooden_lantern_01",
+   "category": "Lamps",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/wooden_lantern_01",
+   "license": "CC0",
+   "file": "Lamps/wooden_lantern_01/wooden_lantern_01.obj",
+   "trisOriginal": 8321,
+   "tris": 8321,
+   "boundsMin": [
+    -0.111,
+    -0.011,
+    -0.111
+   ],
+   "boundsMax": [
+    0.111,
+    0.519,
+    0.124
+   ],
+   "materials": [
+    {
+     "name": "wooden_lantern_01",
+     "sourceName": "wooden_lantern_01",
+     "albedo": "wooden_lantern_01_Albedo.jpg",
+     "normal": "wooden_lantern_01_Normal.jpg",
+     "mask": "wooden_lantern_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "wooden_lantern_01_glass",
+     "sourceName": "wooden_lantern_01_glass",
+     "albedo": "wooden_lantern_01_glass_Albedo.png",
+     "normal": "wooden_lantern_01_glass_Normal.jpg",
+     "mask": "wooden_lantern_01_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "vintage_oil_lamp",
+   "category": "Lamps",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/vintage_oil_lamp",
+   "license": "CC0",
+   "file": "Lamps/vintage_oil_lamp/vintage_oil_lamp.obj",
+   "trisOriginal": 7208,
+   "tris": 7208,
+   "boundsMin": [
+    -0.11,
+    -0.0,
+    -0.11
+   ],
+   "boundsMax": [
+    0.11,
+    0.802,
+    0.11
+   ],
+   "materials": [
+    {
+     "name": "vintage_oil_lamp_glass",
+     "sourceName": "vintage_oil_lamp_glass",
+     "albedo": "vintage_oil_lamp_glass_Albedo.png",
+     "normal": "vintage_oil_lamp_glass_Normal.jpg",
+     "mask": "vintage_oil_lamp_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "vintage_oil_lamp",
+     "sourceName": "vintage_oil_lamp",
+     "albedo": "vintage_oil_lamp_Albedo.jpg",
+     "normal": "vintage_oil_lamp_Normal.jpg",
+     "mask": "vintage_oil_lamp_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "vintage_oil_lamp_flame",
+     "sourceName": "vintage_oil_lamp_flame",
+     "albedo": "vintage_oil_lamp_flame_Albedo.png",
+     "normal": "vintage_oil_lamp_flame_Normal.jpg",
+     "mask": "vintage_oil_lamp_flame_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": 0,
+     "roughness": 0
+    }
+   ]
+  },
+  {
+   "name": "hanging_industrial_lamp",
+   "category": "Lamps",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/hanging_industrial_lamp",
+   "license": "CC0",
+   "file": "Lamps/hanging_industrial_lamp/hanging_industrial_lamp.obj",
+   "trisOriginal": 9530,
+   "tris": 7998,
+   "boundsMin": [
+    -0.275,
+    -1.34,
+    -0.275
+   ],
+   "boundsMax": [
+    0.275,
+    0.015,
+    0.275
+   ],
+   "materials": [
+    {
+     "name": "hanging_industrial_lamp",
+     "sourceName": "hanging_industrial_lamp",
+     "albedo": "hanging_industrial_lamp_Albedo.jpg",
+     "normal": "hanging_industrial_lamp_Normal.jpg",
+     "mask": "hanging_industrial_lamp_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "hanging_industrial_lamp_glass",
+     "sourceName": "hanging_industrial_lamp_glass",
+     "albedo": "hanging_industrial_lamp_glass_Albedo.png",
+     "normal": "hanging_industrial_lamp_glass_Normal.jpg",
+     "mask": "hanging_industrial_lamp_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": 0.10000000149011612
+    }
+   ]
+  },
+  {
+   "name": "industrial_wall_lamp",
+   "category": "Lamps",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/industrial_wall_lamp",
+   "license": "CC0",
+   "file": "Lamps/industrial_wall_lamp/industrial_wall_lamp.obj",
+   "trisOriginal": 4446,
+   "tris": 4446,
+   "boundsMin": [
+    -0.137,
+    -0.215,
+    0.0
+   ],
+   "boundsMax": [
+    0.137,
+    0.215,
+    0.14
+   ],
+   "materials": [
+    {
+     "name": "industrial_wall_lamp",
+     "sourceName": "industrial_wall_lamp",
+     "albedo": "industrial_wall_lamp_Albedo.jpg",
+     "normal": "industrial_wall_lamp_Normal.jpg",
+     "mask": "industrial_wall_lamp_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "industrial_wall_lamp_glass",
+     "sourceName": "industrial_wall_lamp_glass",
+     "albedo": "industrial_wall_lamp_glass_Albedo.png",
+     "normal": "industrial_wall_lamp_glass_Normal.jpg",
+     "mask": "industrial_wall_lamp_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "industrial_wall_sconce",
+   "category": "Lamps",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/industrial_wall_sconce",
+   "license": "CC0",
+   "file": "Lamps/industrial_wall_sconce/industrial_wall_sconce.obj",
+   "trisOriginal": 9826,
+   "tris": 7998,
+   "boundsMin": [
+    -0.074,
+    -0.02,
+    0.007
+   ],
+   "boundsMax": [
+    0.077,
+    0.322,
+    0.259
+   ],
+   "materials": [
+    {
+     "name": "industrial_wall_sconce",
+     "sourceName": "industrial_wall_sconce",
+     "albedo": "industrial_wall_sconce_Albedo.jpg",
+     "normal": "industrial_wall_sconce_Normal.jpg",
+     "mask": "industrial_wall_sconce_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "industrial_wall_sconce_bulb",
+     "sourceName": "industrial_wall_sconce_bulb",
+     "albedo": "industrial_wall_sconce_bulb_Albedo.jpg",
+     "normal": "industrial_wall_sconce_bulb_Normal.jpg",
+     "mask": "industrial_wall_sconce_bulb_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "modern_ceiling_lamp_01",
+   "category": "Lamps",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/modern_ceiling_lamp_01",
+   "license": "CC0",
+   "file": "Lamps/modern_ceiling_lamp_01/modern_ceiling_lamp_01.obj",
+   "trisOriginal": 5602,
+   "tris": 5602,
+   "boundsMin": [
+    -0.216,
+    0.221,
+    -0.214
+   ],
+   "boundsMax": [
+    0.216,
+    1.173,
+    0.217
+   ],
+   "materials": [
+    {
+     "name": "modern_ceiling_lamp_01_glass",
+     "sourceName": "modern_ceiling_lamp_01_glass",
+     "albedo": "modern_ceiling_lamp_01_glass_Albedo.jpg",
+     "normal": "modern_ceiling_lamp_01_glass_Normal.jpg",
+     "mask": "modern_ceiling_lamp_01_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "modern_ceiling_lamp_01",
+     "sourceName": "modern_ceiling_lamp_01",
+     "albedo": "modern_ceiling_lamp_01_Albedo.jpg",
+     "normal": "modern_ceiling_lamp_01_Normal.jpg",
+     "mask": "modern_ceiling_lamp_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "modern_ceiling_globe",
+     "sourceName": "modern_ceiling_globe",
+     "albedo": "modern_ceiling_globe_Albedo.jpg",
+     "normal": "modern_ceiling_globe_Normal.jpg",
+     "mask": "modern_ceiling_globe_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "caged_hanging_light",
+   "category": "Lamps",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/caged_hanging_light",
+   "license": "CC0",
+   "file": "Lamps/caged_hanging_light/caged_hanging_light.obj",
+   "trisOriginal": 22893,
+   "tris": 8000,
+   "boundsMin": [
+    -0.58,
+    -0.75,
+    -0.157
+   ],
+   "boundsMax": [
+    0.582,
+    -0.0,
+    0.156
+   ],
+   "materials": [
+    {
+     "name": "caged_hanging_light",
+     "sourceName": "caged_hanging_light",
+     "albedo": "caged_hanging_light_Albedo.jpg",
+     "normal": "caged_hanging_light_Normal.jpg",
+     "mask": "caged_hanging_light_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "lantern_chandelier_01",
+   "category": "Lamps",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/lantern_chandelier_01",
+   "license": "CC0",
+   "file": "Lamps/lantern_chandelier_01/lantern_chandelier_01.obj",
+   "trisOriginal": 5971,
+   "tris": 5971,
+   "boundsMin": [
+    -0.285,
+    -0.865,
+    -0.287
+   ],
+   "boundsMax": [
+    0.294,
+    0.012,
+    0.287
+   ],
+   "materials": [
+    {
+     "name": "lantern_chandelier_01",
+     "sourceName": "lantern_chandelier_01",
+     "albedo": "lantern_chandelier_01_Albedo.jpg",
+     "normal": "lantern_chandelier_01_Normal.jpg",
+     "mask": "lantern_chandelier_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "lantern_chandelier_01_glass",
+     "sourceName": "lantern_chandelier_01_glass",
+     "albedo": "lantern_chandelier_01_glass_Albedo.png",
+     "normal": "lantern_chandelier_01_glass_Normal.jpg",
+     "mask": "lantern_chandelier_01_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "lantern_chandelier_01_lamp",
+     "sourceName": "lantern_chandelier_01_lamp",
+     "albedo": "lantern_chandelier_01_lamp_Albedo.jpg",
+     "normal": "lantern_chandelier_01_lamp_Normal.jpg",
+     "mask": "lantern_chandelier_01_lamp_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": 0,
+     "roughness": 0.1664227843284607
+    }
+   ]
+  },
+  {
+   "name": "brass_diya_lantern",
+   "category": "Lamps",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/brass_diya_lantern",
+   "license": "CC0",
+   "file": "Lamps/brass_diya_lantern/brass_diya_lantern.obj",
+   "trisOriginal": 12742,
+   "tris": 7993,
+   "boundsMin": [
+    -0.056,
+    0.0,
+    -0.068
+   ],
+   "boundsMax": [
+    0.067,
+    0.381,
+    0.055
+   ],
+   "materials": [
+    {
+     "name": "brass_diya_lantern",
+     "sourceName": "brass_diya_lantern",
+     "albedo": "brass_diya_lantern_Albedo.jpg",
+     "normal": "brass_diya_lantern_Normal.jpg",
+     "mask": "brass_diya_lantern_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "brass_diya_lantern_glass",
+     "sourceName": "brass_diya_lantern_glass",
+     "albedo": "brass_diya_lantern_glass_Albedo.png",
+     "normal": "brass_diya_lantern_glass_Normal.jpg",
+     "mask": "brass_diya_lantern_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "brass_diya_lantern_flame",
+     "sourceName": "brass_diya_lantern_flame",
+     "albedo": "brass_diya_lantern_flame_Albedo.png",
+     "normal": "brass_diya_lantern_flame_Normal.jpg",
+     "mask": "brass_diya_lantern_flame_Mask.png",
+     "renderMode": "cutout",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "wooden_candlestick",
+   "category": "Lamps",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/wooden_candlestick",
+   "license": "CC0",
+   "file": "Lamps/wooden_candlestick/wooden_candlestick.obj",
+   "trisOriginal": 212992,
+   "tris": 8007,
+   "boundsMin": [
+    -0.049,
+    0.0,
+    -0.049
+   ],
+   "boundsMax": [
+    0.048,
+    0.22,
+    0.049
+   ],
+   "materials": [
+    {
+     "name": "wooden_candlestick",
+     "sourceName": "wooden_candlestick",
+     "albedo": "wooden_candlestick_Albedo.jpg",
+     "normal": "wooden_candlestick_Normal.jpg",
+     "mask": "wooden_candlestick_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "brass_candleholders",
+   "category": "Lamps",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/brass_candleholders",
+   "license": "CC0",
+   "file": "Lamps/brass_candleholders/brass_candleholders.obj",
+   "trisOriginal": 41936,
+   "tris": 8068,
+   "boundsMin": [
+    -0.447,
+    -0.0,
+    -0.182
+   ],
+   "boundsMax": [
+    0.604,
+    0.835,
+    0.182
+   ],
+   "materials": [
+    {
+     "name": "brass_candleholders_03",
+     "sourceName": "brass_candleholders_03",
+     "albedo": "brass_candleholders_03_Albedo.jpg",
+     "normal": "brass_candleholders_03_Normal.jpg",
+     "mask": "brass_candleholders_03_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "brass_candleholders_flame",
+     "sourceName": "brass_candleholders_flame",
+     "albedo": "brass_candleholders_flame_Albedo.jpg",
+     "normal": null,
+     "mask": "brass_candleholders_flame_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "brass_candleholders_candles",
+     "sourceName": "brass_candleholders_candles",
+     "albedo": "brass_candleholders_candles_Albedo.jpg",
+     "normal": "brass_candleholders_candles_Normal.jpg",
+     "mask": "brass_candleholders_candles_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "lightbulb_01",
+   "category": "Lamps",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/lightbulb_01",
+   "license": "CC0",
+   "file": "Lamps/lightbulb_01/lightbulb_01.obj",
+   "trisOriginal": 4372,
+   "tris": 4372,
+   "boundsMin": [
+    -0.03,
+    -0.017,
+    -0.03
+   ],
+   "boundsMax": [
+    0.03,
+    0.083,
+    0.03
+   ],
+   "materials": [
+    {
+     "name": "lightbulb_01_glass",
+     "sourceName": "lightbulb_01_glass",
+     "albedo": "lightbulb_01_glass_Albedo.png",
+     "normal": "lightbulb_01_glass_Normal.jpg",
+     "mask": "lightbulb_01_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "lightbulb_01_base",
+     "sourceName": "lightbulb_01_base",
+     "albedo": "lightbulb_01_base_Albedo.jpg",
+     "normal": "lightbulb_01_base_Normal.jpg",
+     "mask": "lightbulb_01_base_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "security_light",
+   "category": "Lamps",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/security_light",
+   "license": "CC0",
+   "file": "Lamps/security_light/security_light.obj",
+   "trisOriginal": 4668,
+   "tris": 4668,
+   "boundsMin": [
+    -0.162,
+    -0.359,
+    -0.031
+   ],
+   "boundsMax": [
+    0.161,
+    0.172,
+    0.386
+   ],
+   "materials": [
+    {
+     "name": "security_light",
+     "sourceName": "security_light",
+     "albedo": "security_light_Albedo.jpg",
+     "normal": "security_light_Normal.jpg",
+     "mask": "security_light_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "security_light_bulb",
+     "sourceName": "security_light_bulb",
+     "albedo": "security_light_bulb_Albedo.jpg",
+     "normal": "security_light_bulb_Normal.jpg",
+     "mask": "security_light_bulb_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "security_light_glass",
+     "sourceName": "security_light_glass",
+     "albedo": "security_light_glass_Albedo.png",
+     "normal": "security_light_glass_Normal.jpg",
+     "mask": "security_light_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": true,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "treasure_chest",
+   "category": "Props",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/treasure_chest",
+   "license": "CC0",
+   "file": "Props/treasure_chest/treasure_chest.obj",
+   "trisOriginal": 103330,
+   "tris": 8229,
+   "boundsMin": [
+    -0.48,
+    -0.002,
+    -0.261
+   ],
+   "boundsMax": [
+    0.48,
+    0.617,
+    0.262
+   ],
+   "materials": [
+    {
+     "name": "treasure_chest",
+     "sourceName": "treasure_chest",
+     "albedo": "treasure_chest_Albedo.jpg",
+     "normal": "treasure_chest_Normal.jpg",
+     "mask": "treasure_chest_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "ceramic_pot",
+   "category": "Props",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/ceramic_pot",
+   "license": "CC0",
+   "file": "Props/ceramic_pot/ceramic_pot.obj",
+   "trisOriginal": 3592,
+   "tris": 3592,
+   "boundsMin": [
+    -0.328,
+    -0.001,
+    -0.251
+   ],
+   "boundsMax": [
+    0.328,
+    0.371,
+    0.251
+   ],
+   "materials": [
+    {
+     "name": "ceramic_pot",
+     "sourceName": "ceramic_pot",
+     "albedo": "ceramic_pot_Albedo.jpg",
+     "normal": "ceramic_pot_Normal.jpg",
+     "mask": "ceramic_pot_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "wicker_basket_01",
+   "category": "Props",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/wicker_basket_01",
+   "license": "CC0",
+   "file": "Props/wicker_basket_01/wicker_basket_01.obj",
+   "trisOriginal": 22276,
+   "tris": 12100,
+   "boundsMin": [
+    -0.192,
+    -0.001,
+    -0.148
+   ],
+   "boundsMax": [
+    0.191,
+    0.116,
+    0.147
+   ],
+   "materials": [
+    {
+     "name": "wicker_basket_01",
+     "sourceName": "wicker_basket_01",
+     "albedo": "wicker_basket_01_Albedo.jpg",
+     "normal": "wicker_basket_01_Normal.jpg",
+     "mask": "wicker_basket_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "wooden_bowl_01",
+   "category": "Props",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/wooden_bowl_01",
+   "license": "CC0",
+   "file": "Props/wooden_bowl_01/wooden_bowl_01.obj",
+   "trisOriginal": 14122,
+   "tris": 8000,
+   "boundsMin": [
+    -0.157,
+    0.001,
+    -0.154
+   ],
+   "boundsMax": [
+    0.156,
+    0.094,
+    0.155
+   ],
+   "materials": [
+    {
+     "name": "wooden_bowl_01",
+     "sourceName": "wooden_bowl_01",
+     "albedo": "wooden_bowl_01_Albedo.jpg",
+     "normal": "wooden_bowl_01_Normal.jpg",
+     "mask": "wooden_bowl_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "tree_stump_01",
+   "category": "Props",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/tree_stump_01",
+   "license": "CC0",
+   "file": "Props/tree_stump_01/tree_stump_01.obj",
+   "trisOriginal": 41046,
+   "tris": 7996,
+   "boundsMin": [
+    -0.783,
+    -0.191,
+    -0.759
+   ],
+   "boundsMax": [
+    0.641,
+    0.379,
+    0.828
+   ],
+   "materials": [
+    {
+     "name": "tree_stump_01",
+     "sourceName": "tree_stump_01",
+     "albedo": "tree_stump_01_Albedo.jpg",
+     "normal": "tree_stump_01_Normal.jpg",
+     "mask": "tree_stump_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "tree_stump_02",
+   "category": "Props",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/tree_stump_02",
+   "license": "CC0",
+   "file": "Props/tree_stump_02/tree_stump_02.obj",
+   "trisOriginal": 62345,
+   "tris": 7996,
+   "boundsMin": [
+    -0.718,
+    -0.232,
+    -0.674
+   ],
+   "boundsMax": [
+    0.803,
+    0.287,
+    0.717
+   ],
+   "materials": [
+    {
+     "name": "tree_stump_02",
+     "sourceName": "tree_stump_02",
+     "albedo": "tree_stump_02_Albedo.jpg",
+     "normal": "tree_stump_02_Normal.jpg",
+     "mask": "tree_stump_02_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "ArmChair_01",
+   "category": "Furniture",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/ArmChair_01",
+   "license": "CC0",
+   "file": "Furniture/ArmChair_01/ArmChair_01.obj",
+   "trisOriginal": 5626,
+   "tris": 5626,
+   "boundsMin": [
+    -0.424,
+    -0.0,
+    -0.417
+   ],
+   "boundsMax": [
+    0.424,
+    1.065,
+    0.348
+   ],
+   "materials": [
+    {
+     "name": "Armchair_01",
+     "sourceName": "Armchair_01",
+     "albedo": "Armchair_01_Albedo.jpg",
+     "normal": "Armchair_01_Normal.jpg",
+     "mask": "Armchair_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "Sofa_01",
+   "category": "Furniture",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/Sofa_01",
+   "license": "CC0",
+   "file": "Furniture/Sofa_01/Sofa_01.obj",
+   "trisOriginal": 4101,
+   "tris": 4101,
+   "boundsMin": [
+    -0.778,
+    -0.001,
+    -0.361
+   ],
+   "boundsMax": [
+    0.793,
+    0.796,
+    0.297
+   ],
+   "materials": [
+    {
+     "name": "Sofa_01",
+     "sourceName": "Sofa_01",
+     "albedo": "Sofa_01_Albedo.jpg",
+     "normal": "Sofa_01_Normal.jpg",
+     "mask": "Sofa_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "CoffeeTable_01",
+   "category": "Furniture",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/CoffeeTable_01",
+   "license": "CC0",
+   "file": "Furniture/CoffeeTable_01/CoffeeTable_01.obj",
+   "trisOriginal": 10404,
+   "tris": 10404,
+   "boundsMin": [
+    -0.77,
+    0.002,
+    -0.486
+   ],
+   "boundsMax": [
+    0.77,
+    0.525,
+    0.486
+   ],
+   "materials": [
+    {
+     "name": "CoffeeTable_01",
+     "sourceName": "CoffeeTable_01",
+     "albedo": "CoffeeTable_01_Albedo.jpg",
+     "normal": "CoffeeTable_01_Normal.jpg",
+     "mask": "CoffeeTable_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "Ottoman_01",
+   "category": "Furniture",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/Ottoman_01",
+   "license": "CC0",
+   "file": "Furniture/Ottoman_01/Ottoman_01.obj",
+   "trisOriginal": 4240,
+   "tris": 4240,
+   "boundsMin": [
+    -0.44,
+    -0.0,
+    -0.31
+   ],
+   "boundsMax": [
+    0.444,
+    0.624,
+    0.311
+   ],
+   "materials": [
+    {
+     "name": "Ottoman_01",
+     "sourceName": "Ottoman_01",
+     "albedo": "Ottoman_01_Albedo.jpg",
+     "normal": "Ottoman_01_Normal.jpg",
+     "mask": "Ottoman_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "WoodenTable_01",
+   "category": "Furniture",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/WoodenTable_01",
+   "license": "CC0",
+   "file": "Furniture/WoodenTable_01/WoodenTable_01.obj",
+   "trisOriginal": 952,
+   "tris": 952,
+   "boundsMin": [
+    -0.9,
+    -0.0,
+    -0.329
+   ],
+   "boundsMax": [
+    0.9,
+    0.549,
+    0.329
+   ],
+   "materials": [
+    {
+     "name": "WoodenTable_01",
+     "sourceName": "WoodenTable_01",
+     "albedo": "WoodenTable_01_Albedo.jpg",
+     "normal": "WoodenTable_01_Normal.jpg",
+     "mask": "WoodenTable_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "WoodenTable_02",
+   "category": "Furniture",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/WoodenTable_02",
+   "license": "CC0",
+   "file": "Furniture/WoodenTable_02/WoodenTable_02.obj",
+   "trisOriginal": 1514,
+   "tris": 1514,
+   "boundsMin": [
+    -0.15,
+    -0.0,
+    -0.15
+   ],
+   "boundsMax": [
+    0.15,
+    0.418,
+    0.15
+   ],
+   "materials": [
+    {
+     "name": "WoodenTable_02",
+     "sourceName": "WoodenTable_02",
+     "albedo": "WoodenTable_02_Albedo.jpg",
+     "normal": "WoodenTable_02_Normal.jpg",
+     "mask": "WoodenTable_02_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "WoodenTable_03",
+   "category": "Furniture",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/WoodenTable_03",
+   "license": "CC0",
+   "file": "Furniture/WoodenTable_03/WoodenTable_03.obj",
+   "trisOriginal": 2298,
+   "tris": 2298,
+   "boundsMin": [
+    -0.659,
+    -0.0,
+    -0.281
+   ],
+   "boundsMax": [
+    0.668,
+    0.83,
+    0.294
+   ],
+   "materials": [
+    {
+     "name": "WoodenTable_03",
+     "sourceName": "WoodenTable_03",
+     "albedo": "WoodenTable_03_Albedo.jpg",
+     "normal": "WoodenTable_03_Normal.jpg",
+     "mask": "WoodenTable_03_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "Shelf_01",
+   "category": "Furniture",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/Shelf_01",
+   "license": "CC0",
+   "file": "Furniture/Shelf_01/Shelf_01.obj",
+   "trisOriginal": 182,
+   "tris": 182,
+   "boundsMin": [
+    -0.502,
+    0.0,
+    -0.0
+   ],
+   "boundsMax": [
+    0.502,
+    2.08,
+    0.257
+   ],
+   "materials": [
+    {
+     "name": "Shelf_01",
+     "sourceName": "Shelf_01",
+     "albedo": "Shelf_01_Albedo.jpg",
+     "normal": "Shelf_01_Normal.jpg",
+     "mask": "Shelf_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "ClassicConsole_01",
+   "category": "Furniture",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/ClassicConsole_01",
+   "license": "CC0",
+   "file": "Furniture/ClassicConsole_01/ClassicConsole_01.obj",
+   "trisOriginal": 7566,
+   "tris": 7566,
+   "boundsMin": [
+    -0.771,
+    -0.0,
+    -0.338
+   ],
+   "boundsMax": [
+    0.772,
+    0.949,
+    0.251
+   ],
+   "materials": [
+    {
+     "name": "ClassicConsole_01",
+     "sourceName": "ClassicConsole_01",
+     "albedo": "ClassicConsole_01_Albedo.jpg",
+     "normal": "ClassicConsole_01_Normal.jpg",
+     "mask": "ClassicConsole_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "ClassicNightstand_01",
+   "category": "Furniture",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/ClassicNightstand_01",
+   "license": "CC0",
+   "file": "Furniture/ClassicNightstand_01/ClassicNightstand_01.obj",
+   "trisOriginal": 2002,
+   "tris": 2002,
+   "boundsMin": [
+    -0.284,
+    -0.0,
+    -0.212
+   ],
+   "boundsMax": [
+    0.284,
+    0.7,
+    0.212
+   ],
+   "materials": [
+    {
+     "name": "ClassicNightstand_01",
+     "sourceName": "ClassicNightstand_01",
+     "albedo": "ClassicNightstand_01_Albedo.jpg",
+     "normal": "ClassicNightstand_01_Normal.jpg",
+     "mask": "ClassicNightstand_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "Rockingchair_01",
+   "category": "Furniture",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/Rockingchair_01",
+   "license": "CC0",
+   "file": "Furniture/Rockingchair_01/Rockingchair_01.obj",
+   "trisOriginal": 11866,
+   "tris": 11866,
+   "boundsMin": [
+    -0.354,
+    0.102,
+    -0.354
+   ],
+   "boundsMax": [
+    0.354,
+    1.097,
+    0.479
+   ],
+   "materials": [
+    {
+     "name": "Rockingchair_01",
+     "sourceName": "Rockingchair_01",
+     "albedo": "Rockingchair_01_Albedo.jpg",
+     "normal": "Rockingchair_01_Normal.jpg",
+     "mask": "Rockingchair_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "SchoolChair_01",
+   "category": "Furniture",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/SchoolChair_01",
+   "license": "CC0",
+   "file": "Furniture/SchoolChair_01/SchoolChair_01.obj",
+   "trisOriginal": 5072,
+   "tris": 5072,
+   "boundsMin": [
+    -0.283,
+    -0.002,
+    -0.338
+   ],
+   "boundsMax": [
+    0.283,
+    1.004,
+    0.338
+   ],
+   "materials": [
+    {
+     "name": "SchoolChair_01",
+     "sourceName": "SchoolChair_01",
+     "albedo": "SchoolChair_01_Albedo.jpg",
+     "normal": "SchoolChair_01_Normal.jpg",
+     "mask": "SchoolChair_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "GreenChair_01",
+   "category": "Furniture",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/GreenChair_01",
+   "license": "CC0",
+   "file": "Furniture/GreenChair_01/GreenChair_01.obj",
+   "trisOriginal": 4213,
+   "tris": 4213,
+   "boundsMin": [
+    -0.337,
+    -0.001,
+    -0.378
+   ],
+   "boundsMax": [
+    0.336,
+    1.058,
+    0.286
+   ],
+   "materials": [
+    {
+     "name": "GreenChair_01",
+     "sourceName": "GreenChair_01",
+     "albedo": "GreenChair_01_Albedo.jpg",
+     "normal": "GreenChair_01_Normal.jpg",
+     "mask": "GreenChair_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "BarberShopChair_01",
+   "category": "Furniture",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/BarberShopChair_01",
+   "license": "CC0",
+   "file": "Furniture/BarberShopChair_01/BarberShopChair_01.obj",
+   "trisOriginal": 4280,
+   "tris": 4280,
+   "boundsMin": [
+    -0.394,
+    -0.0,
+    -0.442
+   ],
+   "boundsMax": [
+    0.363,
+    1.489,
+    0.886
+   ],
+   "materials": [
+    {
+     "name": "BarberShopChair_01",
+     "sourceName": "BarberShopChair_01",
+     "albedo": "BarberShopChair_01_Albedo.jpg",
+     "normal": "BarberShopChair_01_Normal.jpg",
+     "mask": "BarberShopChair_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "Television_01",
+   "category": "Electronics",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/Television_01",
+   "license": "CC0",
+   "file": "Electronics/Television_01/Television_01.obj",
+   "trisOriginal": 1918,
+   "tris": 1918,
+   "boundsMin": [
+    -0.3,
+    -0.0,
+    -0.258
+   ],
+   "boundsMax": [
+    0.3,
+    0.457,
+    0.212
+   ],
+   "materials": [
+    {
+     "name": "Television_01",
+     "sourceName": "Television_01",
+     "albedo": "Television_01_Albedo.jpg",
+     "normal": "Television_01_Normal.jpg",
+     "mask": "Television_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "Camera_01",
+   "category": "Electronics",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/Camera_01",
+   "license": "CC0",
+   "file": "Electronics/Camera_01/Camera_01.obj",
+   "trisOriginal": 26987,
+   "tris": 14998,
+   "boundsMin": [
+    -0.136,
+    0.0,
+    -0.061
+   ],
+   "boundsMax": [
+    0.078,
+    0.078,
+    0.202
+   ],
+   "materials": [
+    {
+     "name": "Camera_01_strap",
+     "sourceName": "Camera_01_strap",
+     "albedo": "Camera_01_strap_Albedo.jpg",
+     "normal": "Camera_01_strap_Normal.jpg",
+     "mask": "Camera_01_strap_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "Camera_01_lens",
+     "sourceName": "Camera_01_lens",
+     "albedo": null,
+     "normal": null,
+     "mask": "Camera_01_lens_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": 0
+    }
+   ]
+  },
+  {
+   "name": "Drill_01",
+   "category": "Electronics",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/Drill_01",
+   "license": "CC0",
+   "file": "Electronics/Drill_01/Drill_01.obj",
+   "trisOriginal": 2926,
+   "tris": 2926,
+   "boundsMin": [
+    -0.128,
+    -0.003,
+    -0.029
+   ],
+   "boundsMax": [
+    0.055,
+    0.182,
+    0.024
+   ],
+   "materials": [
+    {
+     "name": "Drill_01",
+     "sourceName": "Drill_01",
+     "albedo": "Drill_01_Albedo.jpg",
+     "normal": "Drill_01_Normal.jpg",
+     "mask": "Drill_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "Megaphone_01",
+   "category": "Electronics",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/Megaphone_01",
+   "license": "CC0",
+   "file": "Electronics/Megaphone_01/Megaphone_01.obj",
+   "trisOriginal": 15814,
+   "tris": 14998,
+   "boundsMin": [
+    -0.228,
+    -0.186,
+    -0.114
+   ],
+   "boundsMax": [
+    0.143,
+    0.114,
+    0.114
+   ],
+   "materials": [
+    {
+     "name": "Megaphone_01",
+     "sourceName": "Megaphone_01",
+     "albedo": "Megaphone_01_Albedo.jpg",
+     "normal": "Megaphone_01_Normal.jpg",
+     "mask": "Megaphone_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "vintage_telephone_wall_clock",
+   "category": "Electronics",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/vintage_telephone_wall_clock",
+   "license": "CC0",
+   "file": "Electronics/vintage_telephone_wall_clock/vintage_telephone_wall_clock.obj",
+   "trisOriginal": 15864,
+   "tris": 14997,
+   "boundsMin": [
+    -0.176,
+    -0.074,
+    -0.0
+   ],
+   "boundsMax": [
+    0.167,
+    0.428,
+    0.193
+   ],
+   "materials": [
+    {
+     "name": "vintage_telephone_wall_clock_glass",
+     "sourceName": "vintage_telephone_wall_clock_glass",
+     "albedo": "vintage_telephone_wall_clock_glass_Albedo.png",
+     "normal": "vintage_telephone_wall_clock_glass_Normal.jpg",
+     "mask": "vintage_telephone_wall_clock_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "vintage_telephone_wall_clock",
+     "sourceName": "vintage_telephone_wall_clock",
+     "albedo": "vintage_telephone_wall_clock_Albedo.jpg",
+     "normal": "vintage_telephone_wall_clock_Normal.jpg",
+     "mask": "vintage_telephone_wall_clock_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "vintage_flashlight",
+   "category": "Electronics",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/vintage_flashlight",
+   "license": "CC0",
+   "file": "Electronics/vintage_flashlight/vintage_flashlight.obj",
+   "trisOriginal": 10562,
+   "tris": 10562,
+   "boundsMin": [
+    -0.048,
+    -0.0,
+    -0.153
+   ],
+   "boundsMax": [
+    0.048,
+    0.144,
+    0.153
+   ],
+   "materials": [
+    {
+     "name": "vintage_flashlight",
+     "sourceName": "vintage_flashlight",
+     "albedo": "vintage_flashlight_Albedo.jpg",
+     "normal": "vintage_flashlight_Normal.jpg",
+     "mask": "vintage_flashlight_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "vintage_flashlight_glass",
+     "sourceName": "vintage_flashlight_glass",
+     "albedo": "vintage_flashlight_glass_Albedo.png",
+     "normal": "vintage_flashlight_glass_Normal.jpg",
+     "mask": "vintage_flashlight_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "portable_searchlight",
+   "category": "Electronics",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/portable_searchlight",
+   "license": "CC0",
+   "file": "Electronics/portable_searchlight/portable_searchlight.obj",
+   "trisOriginal": 18802,
+   "tris": 14997,
+   "boundsMin": [
+    -0.083,
+    -0.083,
+    -0.127
+   ],
+   "boundsMax": [
+    0.083,
+    0.103,
+    0.126
+   ],
+   "materials": [
+    {
+     "name": "portable_searchlight",
+     "sourceName": "portable_searchlight",
+     "albedo": "portable_searchlight_Albedo.jpg",
+     "normal": "portable_searchlight_Normal.jpg",
+     "mask": "portable_searchlight_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "portable_searchlight_glass",
+     "sourceName": "portable_searchlight_glass",
+     "albedo": "portable_searchlight_glass_Albedo.png",
+     "normal": "portable_searchlight_glass_Normal.jpg",
+     "mask": "portable_searchlight_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "lightbulb_led",
+   "category": "Electronics",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/lightbulb_led",
+   "license": "CC0",
+   "file": "Electronics/lightbulb_led/lightbulb_led.obj",
+   "trisOriginal": 6420,
+   "tris": 6420,
+   "boundsMin": [
+    -0.031,
+    -0.016,
+    -0.031
+   ],
+   "boundsMax": [
+    0.031,
+    0.085,
+    0.031
+   ],
+   "materials": [
+    {
+     "name": "lightbulb_led",
+     "sourceName": "lightbulb_led",
+     "albedo": "lightbulb_led_Albedo.jpg",
+     "normal": "lightbulb_led_Normal.jpg",
+     "mask": "lightbulb_led_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "pull_chain_light_socket",
+   "category": "Electronics",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/pull_chain_light_socket",
+   "license": "CC0",
+   "file": "Electronics/pull_chain_light_socket/pull_chain_light_socket.obj",
+   "trisOriginal": 10902,
+   "tris": 10902,
+   "boundsMin": [
+    -0.055,
+    -0.165,
+    -0.055
+   ],
+   "boundsMax": [
+    0.055,
+    0.0,
+    0.055
+   ],
+   "materials": [
+    {
+     "name": "pull_chain_light_socket",
+     "sourceName": "pull_chain_light_socket",
+     "albedo": "pull_chain_light_socket_Albedo.jpg",
+     "normal": "pull_chain_light_socket_Normal.jpg",
+     "mask": "pull_chain_light_socket_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "ceramic_vase_01",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/ceramic_vase_01",
+   "license": "CC0",
+   "file": "Decor/ceramic_vase_01/ceramic_vase_01.obj",
+   "trisOriginal": 10296,
+   "tris": 7998,
+   "boundsMin": [
+    -0.102,
+    0.001,
+    -0.102
+   ],
+   "boundsMax": [
+    0.102,
+    0.401,
+    0.102
+   ],
+   "materials": [
+    {
+     "name": "ceramic_vase_01",
+     "sourceName": "ceramic_vase_01",
+     "albedo": "ceramic_vase_01_Albedo.jpg",
+     "normal": "ceramic_vase_01_Normal.jpg",
+     "mask": "ceramic_vase_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "ceramic_vase_02",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/ceramic_vase_02",
+   "license": "CC0",
+   "file": "Decor/ceramic_vase_02/ceramic_vase_02.obj",
+   "trisOriginal": 11128,
+   "tris": 7998,
+   "boundsMin": [
+    -0.109,
+    0.001,
+    -0.109
+   ],
+   "boundsMax": [
+    0.109,
+    0.31,
+    0.109
+   ],
+   "materials": [
+    {
+     "name": "ceramic_vase_02",
+     "sourceName": "ceramic_vase_02",
+     "albedo": "ceramic_vase_02_Albedo.jpg",
+     "normal": "ceramic_vase_02_Normal.jpg",
+     "mask": "ceramic_vase_02_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "ceramic_vase_03",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/ceramic_vase_03",
+   "license": "CC0",
+   "file": "Decor/ceramic_vase_03/ceramic_vase_03.obj",
+   "trisOriginal": 11136,
+   "tris": 8000,
+   "boundsMin": [
+    -0.056,
+    0.0,
+    -0.056
+   ],
+   "boundsMax": [
+    0.056,
+    0.414,
+    0.056
+   ],
+   "materials": [
+    {
+     "name": "ceramic_vase_03",
+     "sourceName": "ceramic_vase_03",
+     "albedo": "ceramic_vase_03_Albedo.jpg",
+     "normal": "ceramic_vase_03_Normal.jpg",
+     "mask": "ceramic_vase_03_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "ceramic_vase_04",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/ceramic_vase_04",
+   "license": "CC0",
+   "file": "Decor/ceramic_vase_04/ceramic_vase_04.obj",
+   "trisOriginal": 9000,
+   "tris": 8000,
+   "boundsMin": [
+    -0.091,
+    0.001,
+    -0.091
+   ],
+   "boundsMax": [
+    0.091,
+    0.342,
+    0.091
+   ],
+   "materials": [
+    {
+     "name": "ceramic_vase_04",
+     "sourceName": "ceramic_vase_04",
+     "albedo": "ceramic_vase_04_Albedo.jpg",
+     "normal": "ceramic_vase_04_Normal.jpg",
+     "mask": "ceramic_vase_04_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "brass_vase_01",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/brass_vase_01",
+   "license": "CC0",
+   "file": "Decor/brass_vase_01/brass_vase_01.obj",
+   "trisOriginal": 21440,
+   "tris": 7999,
+   "boundsMin": [
+    -0.114,
+    0.001,
+    -0.114
+   ],
+   "boundsMax": [
+    0.114,
+    0.694,
+    0.114
+   ],
+   "materials": [
+    {
+     "name": "brass_vase_001",
+     "sourceName": "brass_vase_001",
+     "albedo": "brass_vase_001_Albedo.jpg",
+     "normal": "brass_vase_001_Normal.jpg",
+     "mask": "brass_vase_001_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "brass_vase_02",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/brass_vase_02",
+   "license": "CC0",
+   "file": "Decor/brass_vase_02/brass_vase_02.obj",
+   "trisOriginal": 6890,
+   "tris": 6890,
+   "boundsMin": [
+    -0.105,
+    0.0,
+    -0.105
+   ],
+   "boundsMax": [
+    0.106,
+    0.529,
+    0.105
+   ],
+   "materials": [
+    {
+     "name": "brass_vase_02",
+     "sourceName": "brass_vase_02",
+     "albedo": "brass_vase_02_Albedo.jpg",
+     "normal": "brass_vase_02_Normal.jpg",
+     "mask": "brass_vase_02_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "brass_vase_03",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/brass_vase_03",
+   "license": "CC0",
+   "file": "Decor/brass_vase_03/brass_vase_03.obj",
+   "trisOriginal": 2616,
+   "tris": 2616,
+   "boundsMin": [
+    -0.041,
+    0.001,
+    -0.041
+   ],
+   "boundsMax": [
+    0.041,
+    0.201,
+    0.041
+   ],
+   "materials": [
+    {
+     "name": "brass_vase_03",
+     "sourceName": "brass_vase_03",
+     "albedo": "brass_vase_03_Albedo.jpg",
+     "normal": "brass_vase_03_Normal.jpg",
+     "mask": "brass_vase_03_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "antique_ceramic_vase_01",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/antique_ceramic_vase_01",
+   "license": "CC0",
+   "file": "Decor/antique_ceramic_vase_01/antique_ceramic_vase_01.obj",
+   "trisOriginal": 9408,
+   "tris": 7998,
+   "boundsMin": [
+    -0.128,
+    -0.0,
+    -0.128
+   ],
+   "boundsMax": [
+    0.128,
+    0.439,
+    0.128
+   ],
+   "materials": [
+    {
+     "name": "antique_ceramic_vase_01",
+     "sourceName": "antique_ceramic_vase_01",
+     "albedo": "antique_ceramic_vase_01_Albedo.jpg",
+     "normal": "antique_ceramic_vase_01_Normal.jpg",
+     "mask": "antique_ceramic_vase_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "fancy_picture_frame_01",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/fancy_picture_frame_01",
+   "license": "CC0",
+   "file": "Decor/fancy_picture_frame_01/fancy_picture_frame_01.obj",
+   "trisOriginal": 938,
+   "tris": 938,
+   "boundsMin": [
+    -0.302,
+    -0.232,
+    0.002
+   ],
+   "boundsMax": [
+    0.302,
+    0.232,
+    0.022
+   ],
+   "materials": [
+    {
+     "name": "fancy_picture_frame_01",
+     "sourceName": "fancy_picture_frame_01",
+     "albedo": "fancy_picture_frame_01_Albedo.jpg",
+     "normal": "fancy_picture_frame_01_Normal.jpg",
+     "mask": "fancy_picture_frame_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "fancy_picture_frame_01_canvas",
+     "sourceName": "fancy_picture_frame_01_canvas",
+     "albedo": "fancy_picture_frame_01_canvas_Albedo.jpg",
+     "normal": "fancy_picture_frame_01_canvas_Normal.jpg",
+     "mask": "fancy_picture_frame_01_canvas_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "fancy_picture_frame_02",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/fancy_picture_frame_02",
+   "license": "CC0",
+   "file": "Decor/fancy_picture_frame_02/fancy_picture_frame_02.obj",
+   "trisOriginal": 35102,
+   "tris": 8001,
+   "boundsMin": [
+    -0.332,
+    -0.391,
+    0.001
+   ],
+   "boundsMax": [
+    0.328,
+    0.38,
+    0.09
+   ],
+   "materials": [
+    {
+     "name": "fancy_picture_frame_02",
+     "sourceName": "fancy_picture_frame_02",
+     "albedo": "fancy_picture_frame_02_Albedo.jpg",
+     "normal": "fancy_picture_frame_02_Normal.jpg",
+     "mask": "fancy_picture_frame_02_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "ornate_mirror_01",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/ornate_mirror_01",
+   "license": "CC0",
+   "file": "Decor/ornate_mirror_01/ornate_mirror_01.obj",
+   "trisOriginal": 14246,
+   "tris": 8000,
+   "boundsMin": [
+    -0.243,
+    -0.411,
+    0.0
+   ],
+   "boundsMax": [
+    0.243,
+    0.333,
+    0.026
+   ],
+   "materials": [
+    {
+     "name": "ornate_mirror_01",
+     "sourceName": "ornate_mirror_01",
+     "albedo": "ornate_mirror_01_Albedo.jpg",
+     "normal": "ornate_mirror_01_Normal.jpg",
+     "mask": "ornate_mirror_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "chess_set",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/chess_set",
+   "license": "CC0",
+   "file": "Decor/chess_set/chess_set.obj",
+   "trisOriginal": 76920,
+   "tris": 4218,
+   "boundsMin": [
+    -0.277,
+    0.0,
+    -0.277
+   ],
+   "boundsMax": [
+    0.277,
+    0.112,
+    0.277
+   ],
+   "materials": [
+    {
+     "name": "chess_set_pieces_white",
+     "sourceName": "chess_set_pieces_white",
+     "albedo": "chess_set_pieces_white_Albedo.jpg",
+     "normal": "chess_set_pieces_white_Normal.jpg",
+     "mask": "chess_set_pieces_white_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "dartboard",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/dartboard",
+   "license": "CC0",
+   "file": "Decor/dartboard/dartboard.obj",
+   "trisOriginal": 6800,
+   "tris": 6800,
+   "boundsMin": [
+    -0.225,
+    -0.225,
+    -0.0
+   ],
+   "boundsMax": [
+    0.225,
+    0.225,
+    0.04
+   ],
+   "materials": [
+    {
+     "name": "dartboard",
+     "sourceName": "dartboard",
+     "albedo": "dartboard_Albedo.jpg",
+     "normal": "dartboard_Normal.jpg",
+     "mask": "dartboard_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "seadogs_compass",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/seadogs_compass",
+   "license": "CC0",
+   "file": "Decor/seadogs_compass/seadogs_compass.obj",
+   "trisOriginal": 11645,
+   "tris": 7997,
+   "boundsMin": [
+    -0.038,
+    -0.0,
+    -0.081
+   ],
+   "boundsMax": [
+    0.044,
+    0.087,
+    0.063
+   ],
+   "materials": [
+    {
+     "name": "seadogs_compass",
+     "sourceName": "seadogs_compass",
+     "albedo": "seadogs_compass_Albedo.jpg",
+     "normal": "seadogs_compass_Normal.jpg",
+     "mask": "seadogs_compass_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "wall_clock",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/wall_clock",
+   "license": "CC0",
+   "file": "Decor/wall_clock/wall_clock.obj",
+   "trisOriginal": 3658,
+   "tris": 3658,
+   "boundsMin": [
+    -0.16,
+    -0.16,
+    -0.0
+   ],
+   "boundsMax": [
+    0.16,
+    0.16,
+    0.047
+   ],
+   "materials": [
+    {
+     "name": "wall_clock",
+     "sourceName": "wall_clock",
+     "albedo": "wall_clock_Albedo.jpg",
+     "normal": "wall_clock_Normal.jpg",
+     "mask": "wall_clock_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "wall_clock_glass",
+     "sourceName": "wall_clock_glass",
+     "albedo": "wall_clock_glass_Albedo.png",
+     "normal": "wall_clock_glass_Normal.jpg",
+     "mask": "wall_clock_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "vintage_electric_kettle",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/vintage_electric_kettle",
+   "license": "CC0",
+   "file": "Decor/vintage_electric_kettle/vintage_electric_kettle.obj",
+   "trisOriginal": 14838,
+   "tris": 7999,
+   "boundsMin": [
+    -0.165,
+    0.0,
+    -0.124
+   ],
+   "boundsMax": [
+    0.156,
+    0.304,
+    0.124
+   ],
+   "materials": [
+    {
+     "name": "vintage_electric_kettle",
+     "sourceName": "vintage_electric_kettle",
+     "albedo": "vintage_electric_kettle_Albedo.jpg",
+     "normal": "vintage_electric_kettle_Normal.jpg",
+     "mask": "vintage_electric_kettle_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "vintage_electric_kettle_glass",
+     "sourceName": "vintage_electric_kettle_glass",
+     "albedo": "vintage_electric_kettle_glass_Albedo.png",
+     "normal": "vintage_electric_kettle_glass_Normal.jpg",
+     "mask": "vintage_electric_kettle_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "brass_pot_01",
+   "category": "Kitchenware",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/brass_pot_01",
+   "license": "CC0",
+   "file": "Kitchenware/brass_pot_01/brass_pot_01.obj",
+   "trisOriginal": 3760,
+   "tris": 3760,
+   "boundsMin": [
+    -0.151,
+    -0.001,
+    -0.151
+   ],
+   "boundsMax": [
+    0.151,
+    0.29,
+    0.151
+   ],
+   "materials": [
+    {
+     "name": "brass_pot_01",
+     "sourceName": "brass_pot_01",
+     "albedo": "brass_pot_01_Albedo.jpg",
+     "normal": "brass_pot_01_Normal.jpg",
+     "mask": "brass_pot_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "brass_pot_02",
+   "category": "Kitchenware",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/brass_pot_02",
+   "license": "CC0",
+   "file": "Kitchenware/brass_pot_02/brass_pot_02.obj",
+   "trisOriginal": 3344,
+   "tris": 3344,
+   "boundsMin": [
+    -0.183,
+    -0.0,
+    -0.151
+   ],
+   "boundsMax": [
+    0.183,
+    0.108,
+    0.151
+   ],
+   "materials": [
+    {
+     "name": "brass_pot_02",
+     "sourceName": "brass_pot_02",
+     "albedo": "brass_pot_02_Albedo.jpg",
+     "normal": "brass_pot_02_Normal.jpg",
+     "mask": "brass_pot_02_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "brass_pan_01",
+   "category": "Kitchenware",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/brass_pan_01",
+   "license": "CC0",
+   "file": "Kitchenware/brass_pan_01/brass_pan_01.obj",
+   "trisOriginal": 4340,
+   "tris": 4340,
+   "boundsMin": [
+    -0.095,
+    0.0,
+    -0.352
+   ],
+   "boundsMax": [
+    0.096,
+    0.053,
+    0.097
+   ],
+   "materials": [
+    {
+     "name": "brass_pan_01",
+     "sourceName": "brass_pan_01",
+     "albedo": "brass_pan_01_Albedo.jpg",
+     "normal": "brass_pan_01_Normal.jpg",
+     "mask": "brass_pan_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "jug_01",
+   "category": "Kitchenware",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/jug_01",
+   "license": "CC0",
+   "file": "Kitchenware/jug_01/jug_01.obj",
+   "trisOriginal": 5770,
+   "tris": 5770,
+   "boundsMin": [
+    -0.152,
+    0.0,
+    -0.084
+   ],
+   "boundsMax": [
+    0.123,
+    0.212,
+    0.084
+   ],
+   "materials": [
+    {
+     "name": "jug_01",
+     "sourceName": "jug_01",
+     "albedo": "jug_01_Albedo.jpg",
+     "normal": "jug_01_Normal.jpg",
+     "mask": "jug_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "metal_jug",
+   "category": "Kitchenware",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/metal_jug",
+   "license": "CC0",
+   "file": "Kitchenware/metal_jug/metal_jug.obj",
+   "trisOriginal": 6040,
+   "tris": 6040,
+   "boundsMin": [
+    -0.098,
+    -0.0,
+    -0.098
+   ],
+   "boundsMax": [
+    0.099,
+    0.287,
+    0.098
+   ],
+   "materials": [
+    {
+     "name": "metal_jug",
+     "sourceName": "metal_jug",
+     "albedo": "metal_jug_Albedo.jpg",
+     "normal": "metal_jug_Normal.jpg",
+     "mask": "metal_jug_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "carved_wooden_plate",
+   "category": "Kitchenware",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/carved_wooden_plate",
+   "license": "CC0",
+   "file": "Kitchenware/carved_wooden_plate/carved_wooden_plate.obj",
+   "trisOriginal": 2112,
+   "tris": 2112,
+   "boundsMin": [
+    -0.137,
+    -0.002,
+    -0.142
+   ],
+   "boundsMax": [
+    0.134,
+    0.036,
+    0.127
+   ],
+   "materials": [
+    {
+     "name": "carved_wooden_plate",
+     "sourceName": "carved_wooden_plate",
+     "albedo": "carved_wooden_plate_Albedo.jpg",
+     "normal": "carved_wooden_plate_Normal.jpg",
+     "mask": "carved_wooden_plate_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "standing_picture_frame_01",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/standing_picture_frame_01",
+   "license": "CC0",
+   "file": "Decor/standing_picture_frame_01/standing_picture_frame_01.obj",
+   "trisOriginal": 1634,
+   "tris": 1634,
+   "boundsMin": [
+    -0.062,
+    -0.0,
+    -0.1
+   ],
+   "boundsMax": [
+    0.039,
+    0.249,
+    0.1
+   ],
+   "materials": [
+    {
+     "name": "standing_picture_frame_01_glass",
+     "sourceName": "standing_picture_frame_01_glass",
+     "albedo": "standing_picture_frame_01_glass_Albedo.png",
+     "normal": "standing_picture_frame_01_glass_Normal.jpg",
+     "mask": "standing_picture_frame_01_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "standing_picture_frame_01_artwork",
+     "sourceName": "standing_picture_frame_01_artwork",
+     "albedo": "standing_picture_frame_01_artwork_Albedo.jpg",
+     "normal": "standing_picture_frame_01_artwork_Normal.jpg",
+     "mask": "standing_picture_frame_01_artwork_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "standing_picture_frame_01",
+     "sourceName": "standing_picture_frame_01",
+     "albedo": "standing_picture_frame_01_Albedo.jpg",
+     "normal": "standing_picture_frame_01_Normal.jpg",
+     "mask": "standing_picture_frame_01_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "standing_picture_frame_02",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/standing_picture_frame_02",
+   "license": "CC0",
+   "file": "Decor/standing_picture_frame_02/standing_picture_frame_02.obj",
+   "trisOriginal": 2986,
+   "tris": 2986,
+   "boundsMin": [
+    -0.059,
+    -0.0,
+    -0.108
+   ],
+   "boundsMax": [
+    0.043,
+    0.266,
+    0.109
+   ],
+   "materials": [
+    {
+     "name": "standing_picture_frame_02_artwork",
+     "sourceName": "standing_picture_frame_02_artwork",
+     "albedo": "standing_picture_frame_02_artwork_Albedo.jpg",
+     "normal": "standing_picture_frame_02_artwork_Normal.jpg",
+     "mask": "standing_picture_frame_02_artwork_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    },
+    {
+     "name": "standing_picture_frame_02",
+     "sourceName": "standing_picture_frame_02",
+     "albedo": "standing_picture_frame_02_Albedo.jpg",
+     "normal": "standing_picture_frame_02_Normal.jpg",
+     "mask": "standing_picture_frame_02_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "standing_picture_frame_02_glass",
+     "sourceName": "standing_picture_frame_02_glass",
+     "albedo": "standing_picture_frame_02_glass_Albedo.png",
+     "normal": "standing_picture_frame_02_glass_Normal.jpg",
+     "mask": "standing_picture_frame_02_glass_Mask.png",
+     "renderMode": "transparent",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    }
+   ]
+  },
+  {
+   "name": "book_encyclopedia_set_01",
+   "category": "Decor",
+   "type": "model",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/book_encyclopedia_set_01",
+   "license": "CC0",
+   "file": "Decor/book_encyclopedia_set_01/book_encyclopedia_set_01.obj",
+   "trisOriginal": 67306,
+   "tris": 8942,
+   "boundsMin": [
+    -0.019,
+    -0.0,
+    -0.062
+   ],
+   "boundsMax": [
+    0.532,
+    0.237,
+    0.101
+   ],
+   "materials": [
+    {
+     "name": "book_encyclopedia_set_01_cover",
+     "sourceName": "book_encyclopedia_set_01_cover",
+     "albedo": "book_encyclopedia_set_01_cover_Albedo.jpg",
+     "normal": "book_encyclopedia_set_01_cover_Normal.jpg",
+     "mask": "book_encyclopedia_set_01_cover_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": null,
+     "roughness": null
+    },
+    {
+     "name": "book_encyclopedia_set_01_paper",
+     "sourceName": "book_encyclopedia_set_01_paper",
+     "albedo": "book_encyclopedia_set_01_paper_Albedo.jpg",
+     "normal": "book_encyclopedia_set_01_paper_Normal.jpg",
+     "mask": "book_encyclopedia_set_01_paper_Mask.png",
+     "renderMode": "opaque",
+     "doubleSided": true,
+     "emissive": false,
+     "metallic": 0,
+     "roughness": null
+    }
+   ]
+  }
+ ],
+ "materials": [
+  {
+   "name": "Wood095",
+   "category": "Wood",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Wood095",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Wood/Wood095",
+   "files": {
+    "albedo": "Wood095_Albedo.jpg",
+    "normal": "Wood095_Normal.jpg",
+    "mask": "Wood095_Mask.png"
+   },
+   "tags": [
+    "095",
+    "95",
+    "beige",
+    "clean",
+    "indoor",
+    "light"
+   ]
+  },
+  {
+   "name": "Wood096",
+   "category": "Wood",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Wood096",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Wood/Wood096",
+   "files": {
+    "albedo": "Wood096_Albedo.jpg",
+    "normal": "Wood096_Normal.jpg",
+    "mask": "Wood096_Mask.png"
+   },
+   "tags": [
+    "096",
+    "96",
+    "beige",
+    "grain",
+    "knots",
+    "light"
+   ]
+  },
+  {
+   "name": "Wood092",
+   "category": "Wood",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Wood092",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Wood/Wood092",
+   "files": {
+    "albedo": "Wood092_Albedo.jpg",
+    "normal": "Wood092_Normal.jpg",
+    "mask": "Wood092_Mask.png"
+   },
+   "tags": [
+    "92",
+    "brown",
+    "clean",
+    "fine",
+    "orange",
+    "smooth"
+   ]
+  },
+  {
+   "name": "Wood094",
+   "category": "Wood",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Wood094",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Wood/Wood094",
+   "files": {
+    "albedo": "Wood094_Albedo.jpg",
+    "normal": "Wood094_Normal.jpg",
+    "mask": "Wood094_Mask.png"
+   },
+   "tags": [
+    "94",
+    "brown",
+    "smooth",
+    "wood",
+    "wooden"
+   ]
+  },
+  {
+   "name": "Wood051",
+   "category": "Wood",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Wood051",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Wood/Wood051",
+   "files": {
+    "albedo": "Wood051_Albedo.jpg",
+    "normal": "Wood051_Normal.jpg",
+    "mask": "Wood051_Mask.png"
+   },
+   "tags": [
+    "051",
+    "51",
+    "brown",
+    "dark",
+    "elegant",
+    "espresso"
+   ]
+  },
+  {
+   "name": "Wood049",
+   "category": "Wood",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Wood049",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Wood/Wood049",
+   "files": {
+    "albedo": "Wood049_Albedo.jpg",
+    "normal": "Wood049_Normal.jpg",
+    "mask": "Wood049_Mask.png"
+   },
+   "tags": [
+    "049",
+    "49",
+    "brown",
+    "furniture",
+    "grain",
+    "horizontal"
+   ]
+  },
+  {
+   "name": "WoodFloor070",
+   "category": "WoodFloor",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=WoodFloor070",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/WoodFloor/WoodFloor070",
+   "files": {
+    "albedo": "WoodFloor070_Albedo.jpg",
+    "normal": "WoodFloor070_Normal.jpg",
+    "mask": "WoodFloor070_Mask.png"
+   },
+   "tags": [
+    "070",
+    "70",
+    "beige",
+    "brown",
+    "clean",
+    "floor"
+   ]
+  },
+  {
+   "name": "WoodFloor064",
+   "category": "WoodFloor",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=WoodFloor064",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/WoodFloor/WoodFloor064",
+   "files": {
+    "albedo": "WoodFloor064_Albedo.jpg",
+    "normal": "WoodFloor064_Normal.jpg",
+    "mask": "WoodFloor064_Mask.png"
+   },
+   "tags": [
+    "64",
+    "dark",
+    "floor",
+    "parquet",
+    "planks",
+    "wood"
+   ]
+  },
+  {
+   "name": "WoodFloor051",
+   "category": "WoodFloor",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=WoodFloor051",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/WoodFloor/WoodFloor051",
+   "files": {
+    "albedo": "WoodFloor051_Albedo.jpg",
+    "normal": "WoodFloor051_Normal.jpg",
+    "mask": "WoodFloor051_Mask.png"
+   },
+   "tags": [
+    "051",
+    "51",
+    "brown",
+    "clean",
+    "floor",
+    "indoor"
+   ]
+  },
+  {
+   "name": "WoodFloor043",
+   "category": "WoodFloor",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=WoodFloor043",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/WoodFloor/WoodFloor043",
+   "files": {
+    "albedo": "WoodFloor043_Albedo.jpg",
+    "normal": "WoodFloor043_Normal.jpg",
+    "mask": "WoodFloor043_Mask.png"
+   },
+   "tags": [
+    "43",
+    "floor",
+    "parquet",
+    "planks",
+    "wood"
+   ]
+  },
+  {
+   "name": "Planks039",
+   "category": "Planks",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Planks039",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Planks/Planks039",
+   "files": {
+    "albedo": "Planks039_Albedo.jpg",
+    "normal": "Planks039_Normal.jpg",
+    "mask": "Planks039_Mask.png"
+   },
+   "tags": [
+    "39",
+    "dirty",
+    "large",
+    "medieval",
+    "old",
+    "planks"
+   ]
+  },
+  {
+   "name": "Planks037A",
+   "category": "Planks",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Planks037A",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Planks/Planks037A",
+   "files": {
+    "albedo": "Planks037A_Albedo.jpg",
+    "normal": "Planks037A_Normal.jpg",
+    "mask": "Planks037A_Mask.png"
+   },
+   "tags": [
+    "37",
+    "floor",
+    "planks",
+    "wood"
+   ]
+  },
+  {
+   "name": "Planks023A",
+   "category": "Planks",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Planks023A",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Planks/Planks023A",
+   "files": {
+    "albedo": "Planks023A_Albedo.jpg",
+    "normal": "Planks023A_Normal.jpg",
+    "mask": "Planks023A_Mask.png"
+   },
+   "tags": [
+    "23",
+    "dark",
+    "planks",
+    "wood"
+   ]
+  },
+  {
+   "name": "Ground111",
+   "category": "Ground",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Ground111",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Ground/Ground111",
+   "files": {
+    "albedo": "Ground111_Albedo.jpg",
+    "normal": "Ground111_Normal.jpg",
+    "mask": "Ground111_Mask.png"
+   },
+   "tags": [
+    "111",
+    "brick",
+    "brown",
+    "construction",
+    "debris",
+    "dirt"
+   ]
+  },
+  {
+   "name": "Ground112",
+   "category": "Ground",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Ground112",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Ground/Ground112",
+   "files": {
+    "albedo": "Ground112_Albedo.jpg",
+    "normal": "Ground112_Normal.jpg",
+    "mask": "Ground112_Mask.png"
+   },
+   "tags": [
+    "112",
+    "ground"
+   ]
+  },
+  {
+   "name": "Ground110",
+   "category": "Ground",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Ground110",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Ground/Ground110",
+   "files": {
+    "albedo": "Ground110_Albedo.jpg",
+    "normal": "Ground110_Normal.jpg",
+    "mask": "Ground110_Mask.png"
+   },
+   "tags": [
+    "110",
+    "brown",
+    "dirt",
+    "dry",
+    "gravel",
+    "gray"
+   ]
+  },
+  {
+   "name": "Ground108",
+   "category": "Ground",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Ground108",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Ground/Ground108",
+   "files": {
+    "albedo": "Ground108_Albedo.jpg",
+    "normal": "Ground108_Normal.jpg",
+    "mask": "Ground108_Mask.png"
+   },
+   "tags": [
+    "108",
+    "brown",
+    "debris",
+    "dirt",
+    "gravel",
+    "gray"
+   ]
+  },
+  {
+   "name": "Ground109",
+   "category": "Ground",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Ground109",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Ground/Ground109",
+   "files": {
+    "albedo": "Ground109_Albedo.jpg",
+    "normal": "Ground109_Normal.jpg",
+    "mask": "Ground109_Mask.png"
+   },
+   "tags": [
+    "109",
+    "beige",
+    "brown",
+    "dirt",
+    "dry",
+    "ground"
+   ]
+  },
+  {
+   "name": "Ground106",
+   "category": "Ground",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Ground106",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Ground/Ground106",
+   "files": {
+    "albedo": "Ground106_Albedo.jpg",
+    "normal": "Ground106_Normal.jpg",
+    "mask": "Ground106_Mask.png"
+   },
+   "tags": [
+    "106",
+    "beige",
+    "brown",
+    "dirt",
+    "earth",
+    "forest"
+   ]
+  },
+  {
+   "name": "Ground103",
+   "category": "Ground",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Ground103",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Ground/Ground103",
+   "files": {
+    "albedo": "Ground103_Albedo.jpg",
+    "normal": "Ground103_Normal.jpg",
+    "mask": "Ground103_Mask.png"
+   },
+   "tags": [
+    "103",
+    "brown",
+    "dirt",
+    "earth",
+    "ground",
+    "natural"
+   ]
+  },
+  {
+   "name": "Ground107",
+   "category": "Ground",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Ground107",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Ground/Ground107",
+   "files": {
+    "albedo": "Ground107_Albedo.jpg",
+    "normal": "Ground107_Normal.jpg",
+    "mask": "Ground107_Mask.png"
+   },
+   "tags": [
+    "107",
+    "brick",
+    "brown",
+    "debris",
+    "dirt",
+    "fragments"
+   ]
+  },
+  {
+   "name": "Ground037",
+   "category": "Ground",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Ground037",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Ground/Ground037",
+   "files": {
+    "albedo": "Ground037_Albedo.jpg",
+    "normal": "Ground037_Normal.jpg",
+    "mask": "Ground037_Mask.png"
+   },
+   "tags": [
+    "037",
+    "37",
+    "damp",
+    "earth",
+    "forest",
+    "grass"
+   ]
+  },
+  {
+   "name": "Grass001",
+   "category": "Grass",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Grass001",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Grass/Grass001",
+   "files": {
+    "albedo": "Grass001_Albedo.jpg",
+    "normal": "Grass001_Normal.jpg",
+    "mask": "Grass001_Mask.png"
+   },
+   "tags": [
+    "001",
+    "1",
+    "cover",
+    "dark",
+    "dense",
+    "fresh"
+   ]
+  },
+  {
+   "name": "Grass005",
+   "category": "Grass",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Grass005",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Grass/Grass005",
+   "files": {
+    "albedo": "Grass005_Albedo.jpg",
+    "normal": "Grass005_Normal.jpg",
+    "mask": "Grass005_Mask.png"
+   },
+   "tags": [
+    "5",
+    "clean",
+    "grass",
+    "green",
+    "lawn",
+    "short"
+   ]
+  },
+  {
+   "name": "Ground054",
+   "category": "Ground",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Ground054",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Ground/Ground054",
+   "files": {
+    "albedo": "Ground054_Albedo.jpg",
+    "normal": "Ground054_Normal.jpg",
+    "mask": "Ground054_Mask.png"
+   },
+   "tags": [
+    "54",
+    "beach",
+    "dirt",
+    "ground",
+    "mud",
+    "sand"
+   ]
+  },
+  {
+   "name": "Grass004",
+   "category": "Grass",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Grass004",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Grass/Grass004",
+   "files": {
+    "albedo": "Grass004_Albedo.jpg",
+    "normal": "Grass004_Normal.jpg",
+    "mask": "Grass004_Mask.png"
+   },
+   "tags": [
+    "004",
+    "4",
+    "dense",
+    "garden",
+    "grass",
+    "green"
+   ]
+  },
+  {
+   "name": "Grass008",
+   "category": "Grass",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Grass008",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Grass/Grass008",
+   "files": {
+    "albedo": "Grass008_Albedo.jpg",
+    "normal": "Grass008_Normal.jpg",
+    "mask": "Grass008_Mask.png"
+   },
+   "tags": [
+    "8",
+    "grass",
+    "lawn"
+   ]
+  },
+  {
+   "name": "Gravel043",
+   "category": "Gravel",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Gravel043",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Gravel/Gravel043",
+   "files": {
+    "albedo": "Gravel043_Albedo.jpg",
+    "normal": "Gravel043_Normal.jpg",
+    "mask": "Gravel043_Mask.png"
+   },
+   "tags": [
+    "043",
+    "43",
+    "fine",
+    "grained",
+    "granular",
+    "gravel"
+   ]
+  },
+  {
+   "name": "Grass006",
+   "category": "Grass",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Grass006",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Grass/Grass006",
+   "files": {
+    "albedo": "Grass006_Albedo.jpg",
+    "normal": "Grass006_Normal.jpg",
+    "mask": "Grass006_Mask.png"
+   },
+   "tags": [
+    "6",
+    "grass",
+    "lawn"
+   ]
+  },
+  {
+   "name": "Gravel023",
+   "category": "Gravel",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Gravel023",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Gravel/Gravel023",
+   "files": {
+    "albedo": "Gravel023_Albedo.jpg",
+    "normal": "Gravel023_Normal.jpg",
+    "mask": "Gravel023_Mask.png"
+   },
+   "tags": [
+    "23",
+    "bright",
+    "dirt",
+    "gravel",
+    "ground",
+    "light"
+   ]
+  },
+  {
+   "name": "Gravel041",
+   "category": "Gravel",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Gravel041",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Gravel/Gravel041",
+   "files": {
+    "albedo": "Gravel041_Albedo.jpg",
+    "normal": "Gravel041_Normal.jpg",
+    "mask": "Gravel041_Mask.png"
+   },
+   "tags": [
+    "41",
+    "beach",
+    "gravel",
+    "ground",
+    "pebbles",
+    "stone"
+   ]
+  },
+  {
+   "name": "Gravel040",
+   "category": "Gravel",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Gravel040",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Gravel/Gravel040",
+   "files": {
+    "albedo": "Gravel040_Albedo.jpg",
+    "normal": "Gravel040_Normal.jpg",
+    "mask": "Gravel040_Mask.png"
+   },
+   "tags": [
+    "40",
+    "dirt",
+    "floor",
+    "gravel",
+    "gray",
+    "rocks"
+   ]
+  },
+  {
+   "name": "Rock063",
+   "category": "Rock",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Rock063",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Rock/Rock063",
+   "files": {
+    "albedo": "Rock063_Albedo.jpg",
+    "normal": "Rock063_Normal.jpg",
+    "mask": "Rock063_Mask.png"
+   },
+   "tags": [
+    "063",
+    "63",
+    "aged",
+    "cliff",
+    "cracked",
+    "damaged"
+   ]
+  },
+  {
+   "name": "Gravel022",
+   "category": "Gravel",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Gravel022",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Gravel/Gravel022",
+   "files": {
+    "albedo": "Gravel022_Albedo.jpg",
+    "normal": "Gravel022_Normal.jpg",
+    "mask": "Gravel022_Mask.png"
+   },
+   "tags": [
+    "22",
+    "dirt",
+    "gravel",
+    "grey",
+    "ground",
+    "pebbles"
+   ]
+  },
+  {
+   "name": "Metal063",
+   "category": "Metal",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Metal063",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Metal/Metal063",
+   "files": {
+    "albedo": "Metal063_Albedo.jpg",
+    "normal": "Metal063_Normal.jpg",
+    "mask": "Metal063_Mask.png"
+   },
+   "tags": [
+    "063",
+    "63",
+    "aged",
+    "black",
+    "brown",
+    "dark"
+   ]
+  },
+  {
+   "name": "Rock064",
+   "category": "Rock",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Rock064",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Rock/Rock064",
+   "files": {
+    "albedo": "Rock064_Albedo.jpg",
+    "normal": "Rock064_Normal.jpg",
+    "mask": "Rock064_Mask.png"
+   },
+   "tags": [
+    "064",
+    "64",
+    "forest",
+    "gray",
+    "green",
+    "irregular"
+   ]
+  },
+  {
+   "name": "Metal049A",
+   "category": "Metal",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Metal049A",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Metal/Metal049A",
+   "files": {
+    "albedo": "Metal049A_Albedo.jpg",
+    "normal": "Metal049A_Normal.jpg",
+    "mask": "Metal049A_Mask.png"
+   },
+   "tags": [
+    "49",
+    "clean",
+    "metal",
+    "silver",
+    "smooth"
+   ]
+  },
+  {
+   "name": "Metal055A",
+   "category": "Metal",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Metal055A",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Metal/Metal055A",
+   "files": {
+    "albedo": "Metal055A_Albedo.jpg",
+    "normal": "Metal055A_Normal.jpg",
+    "mask": "Metal055A_Mask.png"
+   },
+   "tags": [
+    "55",
+    "iron",
+    "metal"
+   ]
+  },
+  {
+   "name": "Metal046B",
+   "category": "Metal",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Metal046B",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Metal/Metal046B",
+   "files": {
+    "albedo": "Metal046B_Albedo.jpg",
+    "normal": "Metal046B_Normal.jpg",
+    "mask": "Metal046B_Mask.png"
+   },
+   "tags": [
+    "46",
+    "black",
+    "dark",
+    "dirty",
+    "metal"
+   ]
+  },
+  {
+   "name": "Metal048A",
+   "category": "Metal",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Metal048A",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Metal/Metal048A",
+   "files": {
+    "albedo": "Metal048A_Albedo.jpg",
+    "normal": "Metal048A_Normal.jpg",
+    "mask": "Metal048A_Mask.png"
+   },
+   "tags": [
+    "48",
+    "clean",
+    "gold",
+    "metal",
+    "smooth"
+   ]
+  },
+  {
+   "name": "Metal032",
+   "category": "Metal",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Metal032",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Metal/Metal032",
+   "files": {
+    "albedo": "Metal032_Albedo.jpg",
+    "normal": "Metal032_Normal.jpg",
+    "mask": "Metal032_Mask.png"
+   },
+   "tags": [
+    "32",
+    "grey",
+    "metal",
+    "smooth"
+   ]
+  },
+  {
+   "name": "Metal061B",
+   "category": "Metal",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Metal061B",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Metal/Metal061B",
+   "files": {
+    "albedo": "Metal061B_Albedo.jpg",
+    "normal": "Metal061B_Normal.jpg",
+    "mask": "Metal061B_Mask.png"
+   },
+   "tags": [
+    "61",
+    "cobalt",
+    "metal"
+   ]
+  },
+  {
+   "name": "Rock058",
+   "category": "Rock",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Rock058",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Rock/Rock058",
+   "files": {
+    "albedo": "Rock058_Albedo.jpg",
+    "normal": "Rock058_Normal.jpg",
+    "mask": "Rock058_Mask.png"
+   },
+   "tags": [
+    "58",
+    "cliff",
+    "grey",
+    "rock"
+   ]
+  },
+  {
+   "name": "Rock051",
+   "category": "Rock",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Rock051",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Rock/Rock051",
+   "files": {
+    "albedo": "Rock051_Albedo.jpg",
+    "normal": "Rock051_Normal.jpg",
+    "mask": "Rock051_Mask.png"
+   },
+   "tags": [
+    "51",
+    "cliff",
+    "mountain",
+    "rock",
+    "stone",
+    "wall"
+   ]
+  },
+  {
+   "name": "Rock060",
+   "category": "Rock",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Rock060",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Rock/Rock060",
+   "files": {
+    "albedo": "Rock060_Albedo.jpg",
+    "normal": "Rock060_Normal.jpg",
+    "mask": "Rock060_Mask.png"
+   },
+   "tags": [
+    "60",
+    "cliff",
+    "rock",
+    "rough"
+   ]
+  },
+  {
+   "name": "Bricks106A",
+   "category": "Bricks",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Bricks106A",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Bricks/Bricks106A",
+   "files": {
+    "albedo": "Bricks106A_Albedo.jpg",
+    "normal": "Bricks106A_Normal.jpg",
+    "mask": "Bricks106A_Mask.png"
+   },
+   "tags": [
+    "106",
+    "bricks",
+    "natural",
+    "stone"
+   ]
+  },
+  {
+   "name": "Bricks113A",
+   "category": "Bricks",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Bricks113A",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Bricks/Bricks113A",
+   "files": {
+    "albedo": "Bricks113A_Albedo.jpg",
+    "normal": "Bricks113A_Normal.jpg",
+    "mask": "Bricks113A_Mask.png"
+   },
+   "tags": [
+    "113",
+    "bricks",
+    "natural",
+    "stone"
+   ]
+  },
+  {
+   "name": "Bricks108A",
+   "category": "Bricks",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Bricks108A",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Bricks/Bricks108A",
+   "files": {
+    "albedo": "Bricks108A_Albedo.jpg",
+    "normal": "Bricks108A_Normal.jpg",
+    "mask": "Bricks108A_Mask.png"
+   },
+   "tags": [
+    "108",
+    "bricks",
+    "natural",
+    "stone"
+   ]
+  },
+  {
+   "name": "Bricks112A",
+   "category": "Bricks",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Bricks112A",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Bricks/Bricks112A",
+   "files": {
+    "albedo": "Bricks112A_Albedo.jpg",
+    "normal": "Bricks112A_Normal.jpg",
+    "mask": "Bricks112A_Mask.png"
+   },
+   "tags": [
+    "112",
+    "bricks",
+    "natural",
+    "stone"
+   ]
+  },
+  {
+   "name": "Bricks109B",
+   "category": "Bricks",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Bricks109B",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Bricks/Bricks109B",
+   "files": {
+    "albedo": "Bricks109B_Albedo.jpg",
+    "normal": "Bricks109B_Normal.jpg",
+    "mask": "Bricks109B_Mask.png"
+   },
+   "tags": [
+    "109",
+    "bricks",
+    "natural",
+    "stone"
+   ]
+  },
+  {
+   "name": "Concrete034",
+   "category": "Concrete",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Concrete034",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Concrete/Concrete034",
+   "files": {
+    "albedo": "Concrete034_Albedo.jpg",
+    "normal": "Concrete034_Normal.jpg",
+    "mask": "Concrete034_Mask.png"
+   },
+   "tags": [
+    "34",
+    "concrete",
+    "grey",
+    "light",
+    "plaster",
+    "smooth"
+   ]
+  },
+  {
+   "name": "Fabric084",
+   "category": "Fabric",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Fabric084",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Fabric/Fabric084",
+   "files": {
+    "albedo": "Fabric084_Albedo.jpg",
+    "normal": "Fabric084_Normal.jpg",
+    "mask": "Fabric084_Mask.png"
+   },
+   "tags": [
+    "084",
+    "84",
+    "blue",
+    "fabric",
+    "fur",
+    "microfiber"
+   ]
+  },
+  {
+   "name": "Fabric085",
+   "category": "Fabric",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Fabric085",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Fabric/Fabric085",
+   "files": {
+    "albedo": "Fabric085_Albedo.jpg",
+    "normal": "Fabric085_Normal.jpg",
+    "mask": "Fabric085_Mask.png"
+   },
+   "tags": [
+    "085",
+    "85",
+    "fabric",
+    "orange",
+    "red",
+    "wool"
+   ]
+  },
+  {
+   "name": "Tiles141",
+   "category": "Tiles",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Tiles141",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Tiles/Tiles141",
+   "files": {
+    "albedo": "Tiles141_Albedo.jpg",
+    "normal": "Tiles141_Normal.jpg",
+    "mask": "Tiles141_Mask.png"
+   },
+   "tags": [
+    "141",
+    "bathroom",
+    "beige",
+    "dirty",
+    "floor",
+    "grid"
+   ]
+  },
+  {
+   "name": "Tiles139",
+   "category": "Tiles",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Tiles139",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Tiles/Tiles139",
+   "files": {
+    "albedo": "Tiles139_Albedo.jpg",
+    "normal": "Tiles139_Normal.jpg",
+    "mask": "Tiles139_Mask.png"
+   },
+   "tags": [
+    "139",
+    "bathroom",
+    "beige",
+    "checkered",
+    "classic",
+    "cream"
+   ]
+  },
+  {
+   "name": "Tiles143",
+   "category": "Tiles",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Tiles143",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Tiles/Tiles143",
+   "files": {
+    "albedo": "Tiles143_Albedo.jpg",
+    "normal": "Tiles143_Normal.jpg",
+    "mask": "Tiles143_Mask.png"
+   },
+   "tags": [
+    "143",
+    "beige",
+    "flooring",
+    "grid",
+    "limestone",
+    "rectangular"
+   ]
+  },
+  {
+   "name": "Fabric081C",
+   "category": "Fabric",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Fabric081C",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Fabric/Fabric081C",
+   "files": {
+    "albedo": "Fabric081C_Albedo.jpg",
+    "normal": "Fabric081C_Normal.jpg",
+    "mask": "Fabric081C_Mask.png"
+   },
+   "tags": [
+    "81",
+    "fabric",
+    "plastisol",
+    "printed",
+    "white"
+   ]
+  },
+  {
+   "name": "Fabric061",
+   "category": "Fabric",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Fabric061",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Fabric/Fabric061",
+   "files": {
+    "albedo": "Fabric061_Albedo.jpg",
+    "normal": "Fabric061_Normal.jpg",
+    "mask": "Fabric061_Mask.png"
+   },
+   "tags": [
+    "61",
+    "fabric",
+    "rough"
+   ]
+  },
+  {
+   "name": "Concrete048",
+   "category": "Concrete",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Concrete048",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Concrete/Concrete048",
+   "files": {
+    "albedo": "Concrete048_Albedo.jpg",
+    "normal": "Concrete048_Normal.jpg",
+    "mask": "Concrete048_Mask.png"
+   },
+   "tags": [
+    "048",
+    "48",
+    "beige",
+    "clean",
+    "concrete",
+    "floor"
+   ]
+  },
+  {
+   "name": "Concrete047A",
+   "category": "Concrete",
+   "type": "material",
+   "source": "ambientCG",
+   "sourceUrl": "https://ambientcg.com/view?id=Concrete047A",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Materials/Concrete/Concrete047A",
+   "files": {
+    "albedo": "Concrete047A_Albedo.jpg",
+    "normal": "Concrete047A_Normal.jpg",
+    "mask": "Concrete047A_Mask.png"
+   },
+   "tags": [
+    "047",
+    "47",
+    "beige",
+    "clean",
+    "concrete",
+    "construction"
+   ]
+  },
+  {
+   "name": "forrest_ground_01",
+   "category": "Ground",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/forrest_ground_01",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Ground/forrest_ground_01",
+   "files": {
+    "albedo": "forrest_ground_01_Albedo.jpg",
+    "normal": "forrest_ground_01_Normal.jpg",
+    "mask": "forrest_ground_01_Mask.png"
+   }
+  },
+  {
+   "name": "aerial_grass_rock",
+   "category": "Grass",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/aerial_grass_rock",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Grass/aerial_grass_rock",
+   "files": {
+    "albedo": "aerial_grass_rock_Albedo.jpg",
+    "normal": "aerial_grass_rock_Normal.jpg",
+    "mask": "aerial_grass_rock_Mask.png"
+   }
+  },
+  {
+   "name": "forest_ground_04",
+   "category": "Ground",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/forest_ground_04",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Ground/forest_ground_04",
+   "files": {
+    "albedo": "forest_ground_04_Albedo.jpg",
+    "normal": "forest_ground_04_Normal.jpg",
+    "mask": "forest_ground_04_Mask.png"
+   }
+  },
+  {
+   "name": "brown_mud_leaves_01",
+   "category": "Ground",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/brown_mud_leaves_01",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Ground/brown_mud_leaves_01",
+   "files": {
+    "albedo": "brown_mud_leaves_01_Albedo.jpg",
+    "normal": "brown_mud_leaves_01_Normal.jpg",
+    "mask": "brown_mud_leaves_01_Mask.png"
+   }
+  },
+  {
+   "name": "rocky_terrain_02",
+   "category": "Ground",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/rocky_terrain_02",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Ground/rocky_terrain_02",
+   "files": {
+    "albedo": "rocky_terrain_02_Albedo.jpg",
+    "normal": "rocky_terrain_02_Normal.jpg",
+    "mask": "rocky_terrain_02_Mask.png"
+   }
+  },
+  {
+   "name": "aerial_rocks_02",
+   "category": "Rock",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/aerial_rocks_02",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Rock/aerial_rocks_02",
+   "files": {
+    "albedo": "aerial_rocks_02_Albedo.jpg",
+    "normal": "aerial_rocks_02_Normal.jpg",
+    "mask": "aerial_rocks_02_Mask.png"
+   }
+  },
+  {
+   "name": "rocky_trail_02",
+   "category": "Ground",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/rocky_trail_02",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Ground/rocky_trail_02",
+   "files": {
+    "albedo": "rocky_trail_02_Albedo.jpg",
+    "normal": "rocky_trail_02_Normal.jpg",
+    "mask": "rocky_trail_02_Mask.png"
+   }
+  },
+  {
+   "name": "coast_sand_01",
+   "category": "Sand",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/coast_sand_01",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Sand/coast_sand_01",
+   "files": {
+    "albedo": "coast_sand_01_Albedo.jpg",
+    "normal": "coast_sand_01_Normal.jpg",
+    "mask": "coast_sand_01_Mask.png"
+   }
+  },
+  {
+   "name": "sand_01",
+   "category": "Sand",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/sand_01",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Sand/sand_01",
+   "files": {
+    "albedo": "sand_01_Albedo.jpg",
+    "normal": "sand_01_Normal.jpg",
+    "mask": "sand_01_Mask.png"
+   }
+  },
+  {
+   "name": "aerial_beach_01",
+   "category": "Sand",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/aerial_beach_01",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Sand/aerial_beach_01",
+   "files": {
+    "albedo": "aerial_beach_01_Albedo.jpg",
+    "normal": "aerial_beach_01_Normal.jpg",
+    "mask": "aerial_beach_01_Mask.png"
+   }
+  },
+  {
+   "name": "gravelly_sand",
+   "category": "Sand",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/gravelly_sand",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Sand/gravelly_sand",
+   "files": {
+    "albedo": "gravelly_sand_Albedo.jpg",
+    "normal": "gravelly_sand_Normal.jpg",
+    "mask": "gravelly_sand_Mask.png"
+   }
+  },
+  {
+   "name": "gravel_stones",
+   "category": "Gravel",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/gravel_stones",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Gravel/gravel_stones",
+   "files": {
+    "albedo": "gravel_stones_Albedo.jpg",
+    "normal": "gravel_stones_Normal.jpg",
+    "mask": "gravel_stones_Mask.png"
+   }
+  },
+  {
+   "name": "gravel_floor",
+   "category": "Gravel",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/gravel_floor",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Gravel/gravel_floor",
+   "files": {
+    "albedo": "gravel_floor_Albedo.jpg",
+    "normal": "gravel_floor_Normal.jpg",
+    "mask": "gravel_floor_Mask.png"
+   }
+  },
+  {
+   "name": "bicolour_gravel",
+   "category": "Gravel",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/bicolour_gravel",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Gravel/bicolour_gravel",
+   "files": {
+    "albedo": "bicolour_gravel_Albedo.jpg",
+    "normal": "bicolour_gravel_Normal.jpg",
+    "mask": "bicolour_gravel_Mask.png"
+   }
+  },
+  {
+   "name": "sandy_gravel_02",
+   "category": "Gravel",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/sandy_gravel_02",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Gravel/sandy_gravel_02",
+   "files": {
+    "albedo": "sandy_gravel_02_Albedo.jpg",
+    "normal": "sandy_gravel_02_Normal.jpg",
+    "mask": "sandy_gravel_02_Mask.png"
+   }
+  },
+  {
+   "name": "rocky_gravel",
+   "category": "Gravel",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/rocky_gravel",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Gravel/rocky_gravel",
+   "files": {
+    "albedo": "rocky_gravel_Albedo.jpg",
+    "normal": "rocky_gravel_Normal.jpg",
+    "mask": "rocky_gravel_Mask.png"
+   }
+  },
+  {
+   "name": "bark_brown_02",
+   "category": "Bark",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/bark_brown_02",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Bark/bark_brown_02",
+   "files": {
+    "albedo": "bark_brown_02_Albedo.jpg",
+    "normal": "bark_brown_02_Normal.jpg",
+    "mask": "bark_brown_02_Mask.png"
+   }
+  },
+  {
+   "name": "bark_brown_01",
+   "category": "Bark",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/bark_brown_01",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Bark/bark_brown_01",
+   "files": {
+    "albedo": "bark_brown_01_Albedo.jpg",
+    "normal": "bark_brown_01_Normal.jpg",
+    "mask": "bark_brown_01_Mask.png"
+   }
+  },
+  {
+   "name": "tree_bark_03",
+   "category": "Bark",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/tree_bark_03",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Bark/tree_bark_03",
+   "files": {
+    "albedo": "tree_bark_03_Albedo.jpg",
+    "normal": "tree_bark_03_Normal.jpg",
+    "mask": "tree_bark_03_Mask.png"
+   }
+  },
+  {
+   "name": "pine_bark",
+   "category": "Bark",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/pine_bark",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Bark/pine_bark",
+   "files": {
+    "albedo": "pine_bark_Albedo.jpg",
+    "normal": "pine_bark_Normal.jpg",
+    "mask": "pine_bark_Mask.png"
+   }
+  },
+  {
+   "name": "bark_willow",
+   "category": "Bark",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/bark_willow",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Bark/bark_willow",
+   "files": {
+    "albedo": "bark_willow_Albedo.jpg",
+    "normal": "bark_willow_Normal.jpg",
+    "mask": "bark_willow_Mask.png"
+   }
+  },
+  {
+   "name": "sakura_bark",
+   "category": "Bark",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/sakura_bark",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Bark/sakura_bark",
+   "files": {
+    "albedo": "sakura_bark_Albedo.jpg",
+    "normal": "sakura_bark_Normal.jpg",
+    "mask": "sakura_bark_Mask.png"
+   }
+  },
+  {
+   "name": "palm_tree_bark",
+   "category": "Bark",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/palm_tree_bark",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Bark/palm_tree_bark",
+   "files": {
+    "albedo": "palm_tree_bark_Albedo.jpg",
+    "normal": "palm_tree_bark_Normal.jpg",
+    "mask": "palm_tree_bark_Mask.png"
+   }
+  },
+  {
+   "name": "rock_face_03",
+   "category": "Rock",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/rock_face_03",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Rock/rock_face_03",
+   "files": {
+    "albedo": "rock_face_03_Albedo.jpg",
+    "normal": "rock_face_03_Normal.jpg",
+    "mask": "rock_face_03_Mask.png"
+   }
+  },
+  {
+   "name": "rock_boulder_dry",
+   "category": "Rock",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/rock_boulder_dry",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Rock/rock_boulder_dry",
+   "files": {
+    "albedo": "rock_boulder_dry_Albedo.jpg",
+    "normal": "rock_boulder_dry_Normal.jpg",
+    "mask": "rock_boulder_dry_Mask.png"
+   }
+  },
+  {
+   "name": "weathered_brown_planks",
+   "category": "Wood",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/weathered_brown_planks",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Wood/weathered_brown_planks",
+   "files": {
+    "albedo": "weathered_brown_planks_Albedo.jpg",
+    "normal": "weathered_brown_planks_Normal.jpg",
+    "mask": "weathered_brown_planks_Mask.png"
+   }
+  },
+  {
+   "name": "wood_floor",
+   "category": "Wood",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/wood_floor",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Wood/wood_floor",
+   "files": {
+    "albedo": "wood_floor_Albedo.jpg",
+    "normal": "wood_floor_Normal.jpg",
+    "mask": "wood_floor_Mask.png"
+   }
+  },
+  {
+   "name": "red_laterite_soil_stones",
+   "category": "Ground",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/red_laterite_soil_stones",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Ground/red_laterite_soil_stones",
+   "files": {
+    "albedo": "red_laterite_soil_stones_Albedo.jpg",
+    "normal": "red_laterite_soil_stones_Normal.jpg",
+    "mask": "red_laterite_soil_stones_Mask.png"
+   }
+  },
+  {
+   "name": "snow_02",
+   "category": "Snow",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/snow_02",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Snow/snow_02",
+   "files": {
+    "albedo": "snow_02_Albedo.jpg",
+    "normal": "snow_02_Normal.jpg",
+    "mask": "snow_02_Mask.png"
+   }
+  },
+  {
+   "name": "coast_sand_rocks_02",
+   "category": "Rock",
+   "type": "material",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/coast_sand_rocks_02",
+   "license": "CC0",
+   "resolution": 2048,
+   "path": "Materials/Rock/coast_sand_rocks_02",
+   "files": {
+    "albedo": "coast_sand_rocks_02_Albedo.jpg",
+    "normal": "coast_sand_rocks_02_Normal.jpg",
+    "mask": "coast_sand_rocks_02_Mask.png"
+   }
+  }
+ ],
+ "hdris": [
+  {
+   "name": "kiara_1_dawn",
+   "category": "HDRI",
+   "type": "hdri",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/kiara_1_dawn",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Environment/HDRIs/kiara_1_dawn.hdr"
+  },
+  {
+   "name": "kloppenheim_06_puresky",
+   "category": "HDRI",
+   "type": "hdri",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/kloppenheim_06_puresky",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Environment/HDRIs/kloppenheim_06_puresky.hdr"
+  },
+  {
+   "name": "spruit_sunrise",
+   "category": "HDRI",
+   "type": "hdri",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/spruit_sunrise",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Environment/HDRIs/spruit_sunrise.hdr"
+  },
+  {
+   "name": "kloppenheim_02",
+   "category": "HDRI",
+   "type": "hdri",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/kloppenheim_02",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Environment/HDRIs/kloppenheim_02.hdr"
+  },
+  {
+   "name": "kloofendal_48d_partly_cloudy_puresky",
+   "category": "HDRI",
+   "type": "hdri",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Environment/HDRIs/kloofendal_48d_partly_cloudy_puresky.hdr"
+  },
+  {
+   "name": "lilienstein",
+   "category": "HDRI",
+   "type": "hdri",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/lilienstein",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Environment/HDRIs/lilienstein.hdr"
+  },
+  {
+   "name": "venice_sunset",
+   "category": "HDRI",
+   "type": "hdri",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/venice_sunset",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Environment/HDRIs/venice_sunset.hdr"
+  },
+  {
+   "name": "meadow_2",
+   "category": "HDRI",
+   "type": "hdri",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/meadow_2",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Environment/HDRIs/meadow_2.hdr"
+  },
+  {
+   "name": "the_sky_is_on_fire",
+   "category": "HDRI",
+   "type": "hdri",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/the_sky_is_on_fire",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Environment/HDRIs/the_sky_is_on_fire.hdr"
+  },
+  {
+   "name": "moonless_golf",
+   "category": "HDRI",
+   "type": "hdri",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/moonless_golf",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Environment/HDRIs/moonless_golf.hdr"
+  },
+  {
+   "name": "satara_night",
+   "category": "HDRI",
+   "type": "hdri",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/satara_night",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Environment/HDRIs/satara_night.hdr"
+  },
+  {
+   "name": "dikhololo_night",
+   "category": "HDRI",
+   "type": "hdri",
+   "source": "Poly Haven",
+   "sourceUrl": "https://polyhaven.com/a/dikhololo_night",
+   "license": "CC0",
+   "resolution": 1024,
+   "path": "Environment/HDRIs/dikhololo_night.hdr"
+  }
+ ]
+}
