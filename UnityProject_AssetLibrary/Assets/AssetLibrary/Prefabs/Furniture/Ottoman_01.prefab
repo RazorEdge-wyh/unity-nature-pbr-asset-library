@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1438798404908700011}
+  - component: {fileID: 6981627029332410411}
   m_Layer: 0
   m_Name: Ottoman_01
   m_TagString: Untagged
@@ -32,6 +33,27 @@ Transform:
   - {fileID: 8543455315445220584}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6981627029332410411
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7653451035809956561}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.88455796, y: 0.624324, z: 0.621149}
+  m_Center: {x: -0.0020800233, y: 0.312129, z: 0.00092050433}
 --- !u!1 &7870759342878036055
 GameObject:
   m_ObjectHideFlags: 0

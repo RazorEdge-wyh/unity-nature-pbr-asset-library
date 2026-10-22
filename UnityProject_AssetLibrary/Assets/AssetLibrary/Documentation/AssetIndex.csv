@@ -124,6 +124,22 @@
 3D Model,standing_picture_frame_01,Decor,Decor/standing_picture_frame_01/standing_picture_frame_01.obj,1634,1634,3,Poly Haven,CC0,https://polyhaven.com/a/standing_picture_frame_01
 3D Model,standing_picture_frame_02,Decor,Decor/standing_picture_frame_02/standing_picture_frame_02.obj,2986,2986,3,Poly Haven,CC0,https://polyhaven.com/a/standing_picture_frame_02
 3D Model,book_encyclopedia_set_01,Decor,Decor/book_encyclopedia_set_01/book_encyclopedia_set_01.obj,8942,67306,2,Poly Haven,CC0,https://polyhaven.com/a/book_encyclopedia_set_01
+3D Model,modern_sofa,Furniture,Furniture/modern_sofa/modern_sofa.obj,3144,3144,3,Blender (self-made),CC0,https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library
+3D Model,modern_armchair,Furniture,Furniture/modern_armchair/modern_armchair.obj,1944,1944,3,Blender (self-made),CC0,https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library
+3D Model,modern_coffee_table,Furniture,Furniture/modern_coffee_table/modern_coffee_table.obj,872,872,2,Blender (self-made),CC0,https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library
+3D Model,modern_tv_console,Furniture,Furniture/modern_tv_console/modern_tv_console.obj,1496,1496,4,Blender (self-made),CC0,https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library
+3D Model,modern_bookshelf,Furniture,Furniture/modern_bookshelf/modern_bookshelf.obj,1552,1552,3,Blender (self-made),CC0,https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library
+3D Model,modern_dining_chair,Furniture,Furniture/modern_dining_chair/modern_dining_chair.obj,992,992,1,Blender (self-made),CC0,https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library
+3D Model,modern_bar_stool,Furniture,Furniture/modern_bar_stool/modern_bar_stool.obj,2156,2156,3,Blender (self-made),CC0,https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library
+3D Model,modern_side_table,Furniture,Furniture/modern_side_table/modern_side_table.obj,944,944,2,Blender (self-made),CC0,https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library
+3D Model,modern_floor_lamp,Lamps,Lamps/modern_floor_lamp/modern_floor_lamp.obj,2004,2004,3,Blender (self-made),CC0,https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library
+3D Model,modern_table_lamp,Lamps,Lamps/modern_table_lamp/modern_table_lamp.obj,2004,2004,4,Blender (self-made),CC0,https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library
+3D Model,modern_planter,Decor,Decor/modern_planter/modern_planter.obj,952,952,2,Blender (self-made),CC0,https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library
+3D Model,modern_wall_clock,Decor,Decor/modern_wall_clock/modern_wall_clock.obj,1940,1940,3,Blender (self-made),CC0,https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library
+3D Model,modern_vase,Decor,Decor/modern_vase/modern_vase.obj,672,672,1,Blender (self-made),CC0,https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library
+3D Model,modern_rug,Decor,Decor/modern_rug/modern_rug.obj,188,188,1,Blender (self-made),CC0,https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library
+3D Model,modern_picture_frame,Decor,Decor/modern_picture_frame/modern_picture_frame.obj,764,764,2,Blender (self-made),CC0,https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library
+3D Model,modern_shelf_wall,Decor,Decor/modern_shelf_wall/modern_shelf_wall.obj,1340,1340,4,Blender (self-made),CC0,https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library
 PBR Material,Wood095,Wood,Materials/Wood/Wood095,,,,ambientCG,CC0,https://ambientcg.com/view?id=Wood095
 PBR Material,Wood096,Wood,Materials/Wood/Wood096,,,,ambientCG,CC0,https://ambientcg.com/view?id=Wood096
 PBR Material,Wood092,Wood,Materials/Wood/Wood092,,,,ambientCG,CC0,https://ambientcg.com/view?id=Wood092

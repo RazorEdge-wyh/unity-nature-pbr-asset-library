@@ -1,0 +1,261 @@
+# CREDITS / 素材出处
+
+All assets are licensed **CC0 1.0 Universal (Public Domain Dedication)**.
+
+## 3D Models（Poly Haven, CC0）
+
+- **antique_ceramic_vase_01** (Decor, 7998 tris) — https://polyhaven.com/a/antique_ceramic_vase_01 — 源文件 0.5 MB OBJ
+- **book_encyclopedia_set_01** (Decor, 8942 tris) — https://polyhaven.com/a/book_encyclopedia_set_01 — 源文件 0.8 MB OBJ
+- **brass_vase_01** (Decor, 7999 tris) — https://polyhaven.com/a/brass_vase_01 — 源文件 0.5 MB OBJ
+- **brass_vase_02** (Decor, 6890 tris) — https://polyhaven.com/a/brass_vase_02 — 源文件 0.6 MB OBJ
+- **brass_vase_03** (Decor, 2616 tris) — https://polyhaven.com/a/brass_vase_03 — 源文件 0.2 MB OBJ
+- **ceramic_vase_01** (Decor, 7998 tris) — https://polyhaven.com/a/ceramic_vase_01 — 源文件 0.5 MB OBJ
+- **ceramic_vase_02** (Decor, 7998 tris) — https://polyhaven.com/a/ceramic_vase_02 — 源文件 0.5 MB OBJ
+- **ceramic_vase_03** (Decor, 8000 tris) — https://polyhaven.com/a/ceramic_vase_03 — 源文件 0.5 MB OBJ
+- **ceramic_vase_04** (Decor, 8000 tris) — https://polyhaven.com/a/ceramic_vase_04 — 源文件 0.5 MB OBJ
+- **chess_set** (Decor, 4218 tris) — https://polyhaven.com/a/chess_set — 源文件 0.5 MB OBJ
+- **dartboard** (Decor, 6800 tris) — https://polyhaven.com/a/dartboard — 源文件 0.7 MB OBJ
+- **fancy_picture_frame_01** (Decor, 938 tris) — https://polyhaven.com/a/fancy_picture_frame_01 — 源文件 0.1 MB OBJ
+- **fancy_picture_frame_02** (Decor, 8001 tris) — https://polyhaven.com/a/fancy_picture_frame_02 — 源文件 0.5 MB OBJ
+- **modern_picture_frame** (Decor, 764 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_planter** (Decor, 952 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_rug** (Decor, 188 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.0 MB OBJ
+- **modern_shelf_wall** (Decor, 1340 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_vase** (Decor, 672 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.0 MB OBJ
+- **modern_wall_clock** (Decor, 1940 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **ornate_mirror_01** (Decor, 8000 tris) — https://polyhaven.com/a/ornate_mirror_01 — 源文件 0.6 MB OBJ
+- **seadogs_compass** (Decor, 7997 tris) — https://polyhaven.com/a/seadogs_compass — 源文件 0.7 MB OBJ
+- **standing_picture_frame_01** (Decor, 1634 tris) — https://polyhaven.com/a/standing_picture_frame_01 — 源文件 0.2 MB OBJ
+- **standing_picture_frame_02** (Decor, 2986 tris) — https://polyhaven.com/a/standing_picture_frame_02 — 源文件 0.3 MB OBJ
+- **vintage_electric_kettle** (Decor, 7999 tris) — https://polyhaven.com/a/vintage_electric_kettle — 源文件 0.6 MB OBJ
+- **wall_clock** (Decor, 3658 tris) — https://polyhaven.com/a/wall_clock — 源文件 0.4 MB OBJ
+- **Camera_01** (Electronics, 14998 tris) — https://polyhaven.com/a/Camera_01 — 源文件 1.3 MB OBJ
+- **Drill_01** (Electronics, 2926 tris) — https://polyhaven.com/a/Drill_01 — 源文件 0.3 MB OBJ
+- **Megaphone_01** (Electronics, 14998 tris) — https://polyhaven.com/a/Megaphone_01 — 源文件 1.1 MB OBJ
+- **Television_01** (Electronics, 1918 tris) — https://polyhaven.com/a/Television_01 — 源文件 0.2 MB OBJ
+- **lightbulb_led** (Electronics, 6420 tris) — https://polyhaven.com/a/lightbulb_led — 源文件 0.6 MB OBJ
+- **portable_searchlight** (Electronics, 14997 tris) — https://polyhaven.com/a/portable_searchlight — 源文件 1.0 MB OBJ
+- **pull_chain_light_socket** (Electronics, 10902 tris) — https://polyhaven.com/a/pull_chain_light_socket — 源文件 1.1 MB OBJ
+- **vintage_flashlight** (Electronics, 10562 tris) — https://polyhaven.com/a/vintage_flashlight — 源文件 1.1 MB OBJ
+- **vintage_telephone_wall_clock** (Electronics, 14997 tris) — https://polyhaven.com/a/vintage_telephone_wall_clock — 源文件 1.2 MB OBJ
+- **ArmChair_01** (Furniture, 5626 tris) — https://polyhaven.com/a/ArmChair_01 — 源文件 0.6 MB OBJ
+- **BarberShopChair_01** (Furniture, 4280 tris) — https://polyhaven.com/a/BarberShopChair_01 — 源文件 0.8 MB OBJ
+- **ClassicConsole_01** (Furniture, 7566 tris) — https://polyhaven.com/a/ClassicConsole_01 — 源文件 0.8 MB OBJ
+- **ClassicNightstand_01** (Furniture, 2002 tris) — https://polyhaven.com/a/ClassicNightstand_01 — 源文件 0.2 MB OBJ
+- **CoffeeTable_01** (Furniture, 10404 tris) — https://polyhaven.com/a/CoffeeTable_01 — 源文件 1.0 MB OBJ
+- **GreenChair_01** (Furniture, 4213 tris) — https://polyhaven.com/a/GreenChair_01 — 源文件 0.4 MB OBJ
+- **Ottoman_01** (Furniture, 4240 tris) — https://polyhaven.com/a/Ottoman_01 — 源文件 0.4 MB OBJ
+- **Rockingchair_01** (Furniture, 11866 tris) — https://polyhaven.com/a/Rockingchair_01 — 源文件 1.4 MB OBJ
+- **SchoolChair_01** (Furniture, 5072 tris) — https://polyhaven.com/a/SchoolChair_01 — 源文件 0.5 MB OBJ
+- **Shelf_01** (Furniture, 182 tris) — https://polyhaven.com/a/Shelf_01 — 源文件 0.0 MB OBJ
+- **Sofa_01** (Furniture, 4101 tris) — https://polyhaven.com/a/Sofa_01 — 源文件 0.4 MB OBJ
+- **WoodenTable_01** (Furniture, 952 tris) — https://polyhaven.com/a/WoodenTable_01 — 源文件 0.1 MB OBJ
+- **WoodenTable_02** (Furniture, 1514 tris) — https://polyhaven.com/a/WoodenTable_02 — 源文件 0.2 MB OBJ
+- **WoodenTable_03** (Furniture, 2298 tris) — https://polyhaven.com/a/WoodenTable_03 — 源文件 0.4 MB OBJ
+- **modern_armchair** (Furniture, 1944 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_bar_stool** (Furniture, 2156 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.2 MB OBJ
+- **modern_bookshelf** (Furniture, 1552 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_coffee_table** (Furniture, 872 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_dining_chair** (Furniture, 992 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_side_table** (Furniture, 944 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_sofa** (Furniture, 3144 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.2 MB OBJ
+- **modern_tv_console** (Furniture, 1496 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **brass_pan_01** (Kitchenware, 4340 tris) — https://polyhaven.com/a/brass_pan_01 — 源文件 0.4 MB OBJ
+- **brass_pot_01** (Kitchenware, 3760 tris) — https://polyhaven.com/a/brass_pot_01 — 源文件 0.3 MB OBJ
+- **brass_pot_02** (Kitchenware, 3344 tris) — https://polyhaven.com/a/brass_pot_02 — 源文件 0.3 MB OBJ
+- **carved_wooden_plate** (Kitchenware, 2112 tris) — https://polyhaven.com/a/carved_wooden_plate — 源文件 0.2 MB OBJ
+- **jug_01** (Kitchenware, 5770 tris) — https://polyhaven.com/a/jug_01 — 源文件 0.5 MB OBJ
+- **metal_jug** (Kitchenware, 6040 tris) — https://polyhaven.com/a/metal_jug — 源文件 0.5 MB OBJ
+- **Lantern_01** (灯具, 7998 tris) — https://polyhaven.com/a/Lantern_01 — 源文件 0.6 MB OBJ
+- **brass_candleholders** (灯具, 8068 tris) — https://polyhaven.com/a/brass_candleholders — 源文件 0.6 MB OBJ
+- **brass_diya_lantern** (灯具, 7993 tris) — https://polyhaven.com/a/brass_diya_lantern — 源文件 0.6 MB OBJ
+- **caged_hanging_light** (灯具, 8000 tris) — https://polyhaven.com/a/caged_hanging_light — 源文件 0.6 MB OBJ
+- **hanging_industrial_lamp** (灯具, 7998 tris) — https://polyhaven.com/a/hanging_industrial_lamp — 源文件 0.6 MB OBJ
+- **industrial_wall_lamp** (灯具, 4446 tris) — https://polyhaven.com/a/industrial_wall_lamp — 源文件 0.5 MB OBJ
+- **industrial_wall_sconce** (灯具, 7998 tris) — https://polyhaven.com/a/industrial_wall_sconce — 源文件 0.5 MB OBJ
+- **lantern_chandelier_01** (灯具, 5971 tris) — https://polyhaven.com/a/lantern_chandelier_01 — 源文件 0.7 MB OBJ
+- **lightbulb_01** (灯具, 4372 tris) — https://polyhaven.com/a/lightbulb_01 — 源文件 0.4 MB OBJ
+- **modern_ceiling_lamp_01** (灯具, 5602 tris) — https://polyhaven.com/a/modern_ceiling_lamp_01 — 源文件 0.5 MB OBJ
+- **modern_floor_lamp** (灯具, 2004 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_table_lamp** (灯具, 2004 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **security_light** (灯具, 4668 tris) — https://polyhaven.com/a/security_light — 源文件 0.5 MB OBJ
+- **street_lamp_01** (灯具, 7999 tris) — https://polyhaven.com/a/street_lamp_01 — 源文件 0.5 MB OBJ
+- **street_lamp_02** (灯具, 8000 tris) — https://polyhaven.com/a/street_lamp_02 — 源文件 0.5 MB OBJ
+- **vintage_oil_lamp** (灯具, 7208 tris) — https://polyhaven.com/a/vintage_oil_lamp — 源文件 0.7 MB OBJ
+- **wooden_candlestick** (灯具, 8007 tris) — https://polyhaven.com/a/wooden_candlestick — 源文件 0.5 MB OBJ
+- **wooden_lantern_01** (灯具, 8321 tris) — https://polyhaven.com/a/wooden_lantern_01 — 源文件 0.9 MB OBJ
+- **bark_debris_01** (花草植物, 39992 tris) — https://polyhaven.com/a/bark_debris_01 — 源文件 2.7 MB OBJ
+- **celandine_01** (花草植物, 8966 tris) — https://polyhaven.com/a/celandine_01 — 源文件 1.1 MB OBJ
+- **dandelion_01** (花草植物, 39995 tris) — https://polyhaven.com/a/dandelion_01 — 源文件 3.3 MB OBJ
+- **dead_quiver_branch_01** (花草植物, 14834 tris) — https://polyhaven.com/a/dead_quiver_branch_01 — 源文件 1.4 MB OBJ
+- **dry_branches_medium_01** (花草植物, 16803 tris) — https://polyhaven.com/a/dry_branches_medium_01 — 源文件 1.7 MB OBJ
+- **fern_02** (花草植物, 6232 tris) — https://polyhaven.com/a/fern_02 — 源文件 0.6 MB OBJ
+- **flower_empodium** (花草植物, 3053 tris) — https://polyhaven.com/a/flower_empodium — 源文件 0.3 MB OBJ
+- **flower_gazania** (花草植物, 14340 tris) — https://polyhaven.com/a/flower_gazania — 源文件 2.0 MB OBJ
+- **flower_heliophila** (花草植物, 39963 tris) — https://polyhaven.com/a/flower_heliophila — 源文件 3.0 MB OBJ
+- **flower_stinkkruid** (花草植物, 40000 tris) — https://polyhaven.com/a/flower_stinkkruid — 源文件 4.7 MB OBJ
+- **flower_ursinia** (花草植物, 24933 tris) — https://polyhaven.com/a/flower_ursinia — 源文件 2.9 MB OBJ
+- **grass_bermuda_01** (花草植物, 941 tris) — https://polyhaven.com/a/grass_bermuda_01 — 源文件 0.1 MB OBJ
+- **grass_medium_01** (花草植物, 24730 tris) — https://polyhaven.com/a/grass_medium_01 — 源文件 3.5 MB OBJ
+- **grass_medium_02** (花草植物, 7842 tris) — https://polyhaven.com/a/grass_medium_02 — 源文件 0.9 MB OBJ
+- **moss_01** (花草植物, 204 tris) — https://polyhaven.com/a/moss_01 — 源文件 0.0 MB OBJ
+- **nettle_plant** (花草植物, 31304 tris) — https://polyhaven.com/a/nettle_plant — 源文件 3.6 MB OBJ
+- **periwinkle_plant** (花草植物, 34350 tris) — https://polyhaven.com/a/periwinkle_plant — 源文件 4.4 MB OBJ
+- **shrub_01** (花草植物, 39992 tris) — https://polyhaven.com/a/shrub_01 — 源文件 3.2 MB OBJ
+- **shrub_02** (花草植物, 27254 tris) — https://polyhaven.com/a/shrub_02 — 源文件 2.9 MB OBJ
+- **shrub_03** (花草植物, 8287 tris) — https://polyhaven.com/a/shrub_03 — 源文件 0.9 MB OBJ
+- **shrub_04** (花草植物, 27327 tris) — https://polyhaven.com/a/shrub_04 — 源文件 2.9 MB OBJ
+- **shrub_sorrel_01** (花草植物, 3319 tris) — https://polyhaven.com/a/shrub_sorrel_01 — 源文件 0.4 MB OBJ
+- **weed_plant_02** (花草植物, 11116 tris) — https://polyhaven.com/a/weed_plant_02 — 源文件 1.2 MB OBJ
+- **anthurium_botany_01** (盆栽 / 花箱, 39998 tris) — https://polyhaven.com/a/anthurium_botany_01 — 源文件 2.9 MB OBJ
+- **calathea_orbifolia_01** (盆栽 / 花箱, 16688 tris) — https://polyhaven.com/a/calathea_orbifolia_01 — 源文件 1.6 MB OBJ
+- **pachira_aquatica_01** (盆栽 / 花箱, 39995 tris) — https://polyhaven.com/a/pachira_aquatica_01 — 源文件 3.1 MB OBJ
+- **planter_box_01** (盆栽 / 花箱, 8094 tris) — https://polyhaven.com/a/planter_box_01 — 源文件 0.9 MB OBJ
+- **planter_box_02** (盆栽 / 花箱, 10944 tris) — https://polyhaven.com/a/planter_box_02 — 源文件 1.3 MB OBJ
+- **planter_box_03** (盆栽 / 花箱, 13112 tris) — https://polyhaven.com/a/planter_box_03 — 源文件 1.5 MB OBJ
+- **potted_plant_01** (盆栽 / 花箱, 40219 tris) — https://polyhaven.com/a/potted_plant_01 — 源文件 3.0 MB OBJ
+- **potted_plant_02** (盆栽 / 花箱, 39996 tris) — https://polyhaven.com/a/potted_plant_02 — 源文件 2.8 MB OBJ
+- **potted_plant_04** (盆栽 / 花箱, 8929 tris) — https://polyhaven.com/a/potted_plant_04 — 源文件 0.9 MB OBJ
+- **ceramic_pot** (道具 / 树桩, 3592 tris) — https://polyhaven.com/a/ceramic_pot — 源文件 0.3 MB OBJ
+- **treasure_chest** (道具 / 树桩, 8229 tris) — https://polyhaven.com/a/treasure_chest — 源文件 0.6 MB OBJ
+- **tree_stump_01** (道具 / 树桩, 7996 tris) — https://polyhaven.com/a/tree_stump_01 — 源文件 0.5 MB OBJ
+- **tree_stump_02** (道具 / 树桩, 7996 tris) — https://polyhaven.com/a/tree_stump_02 — 源文件 0.5 MB OBJ
+- **wicker_basket_01** (道具 / 树桩, 12100 tris) — https://polyhaven.com/a/wicker_basket_01 — 源文件 0.8 MB OBJ
+- **wooden_bowl_01** (道具 / 树桩, 8000 tris) — https://polyhaven.com/a/wooden_bowl_01 — 源文件 0.5 MB OBJ
+- **boulder_01** (岩石, 9996 tris) — https://polyhaven.com/a/boulder_01 — 源文件 0.7 MB OBJ
+- **namaqualand_boulder_02** (岩石, 10001 tris) — https://polyhaven.com/a/namaqualand_boulder_02 — 源文件 0.6 MB OBJ
+- **rock_07** (岩石, 10000 tris) — https://polyhaven.com/a/rock_07 — 源文件 0.6 MB OBJ
+- **rock_09** (岩石, 9998 tris) — https://polyhaven.com/a/rock_09 — 源文件 0.6 MB OBJ
+- **rock_moss_set_01** (岩石, 11518 tris) — https://polyhaven.com/a/rock_moss_set_01 — 源文件 0.7 MB OBJ
+- **rock_moss_set_02** (岩石, 12352 tris) — https://polyhaven.com/a/rock_moss_set_02 — 源文件 0.8 MB OBJ
+- **sand_rocks_small_01** (岩石, 10896 tris) — https://polyhaven.com/a/sand_rocks_small_01 — 源文件 0.7 MB OBJ
+- **stone_01** (岩石, 9996 tris) — https://polyhaven.com/a/stone_01 — 源文件 0.6 MB OBJ
+- **dead_quiver_trunk** (树木, 17978 tris) — https://polyhaven.com/a/dead_quiver_trunk — 源文件 1.6 MB OBJ
+- **dead_tree_trunk** (树木, 101802 tris) — https://polyhaven.com/a/dead_tree_trunk — 源文件 9.9 MB OBJ
+- **dead_tree_trunk_02** (树木, 83128 tris) — https://polyhaven.com/a/dead_tree_trunk_02 — 源文件 8.3 MB OBJ
+- **fir_sapling** (树木, 299993 tris) — https://polyhaven.com/a/fir_sapling — 源文件 36.8 MB OBJ
+- **fir_sapling_medium** (树木, 299741 tris) — https://polyhaven.com/a/fir_sapling_medium — 源文件 42.8 MB OBJ
+- **fir_tree_01** (树木, 508166 tris) — https://polyhaven.com/a/fir_tree_01 — 源文件 40.7 MB OBJ
+- **pine_sapling_medium** (树木, 509944 tris) — https://polyhaven.com/a/pine_sapling_medium — 源文件 62.1 MB OBJ
+- **pine_sapling_small** (树木, 299997 tris) — https://polyhaven.com/a/pine_sapling_small — 源文件 32.6 MB OBJ
+- **quiver_tree_01** (树木, 150124 tris) — https://polyhaven.com/a/quiver_tree_01 — 源文件 15.5 MB OBJ
+- **quiver_tree_02** (树木, 82074 tris) — https://polyhaven.com/a/quiver_tree_02 — 源文件 8.5 MB OBJ
+- **root_cluster_01** (树木, 225261 tris) — https://polyhaven.com/a/root_cluster_01 — 源文件 22.3 MB OBJ
+- **searsia_burchellii** (树木, 291495 tris) — https://polyhaven.com/a/searsia_burchellii — 源文件 41.8 MB OBJ
+- **searsia_lucida** (树木, 298890 tris) — https://polyhaven.com/a/searsia_lucida — 源文件 31.2 MB OBJ
+- **single_root** (树木, 61027 tris) — https://polyhaven.com/a/single_root — 源文件 5.9 MB OBJ
+- **tree_small_02** (树木, 298757 tris) — https://polyhaven.com/a/tree_small_02 — 源文件 33.3 MB OBJ
+
+## PBR Materials
+
+- **bark_brown_01** (树皮, 2048px) — https://polyhaven.com/a/bark_brown_01
+- **bark_brown_02** (树皮, 2048px) — https://polyhaven.com/a/bark_brown_02
+- **bark_willow** (树皮, 2048px) — https://polyhaven.com/a/bark_willow
+- **palm_tree_bark** (树皮, 2048px) — https://polyhaven.com/a/palm_tree_bark
+- **pine_bark** (树皮, 2048px) — https://polyhaven.com/a/pine_bark
+- **sakura_bark** (树皮, 2048px) — https://polyhaven.com/a/sakura_bark
+- **tree_bark_03** (树皮, 2048px) — https://polyhaven.com/a/tree_bark_03
+- **Bricks106A** (砖墙, 1024px) — https://ambientcg.com/view?id=Bricks106A
+- **Bricks108A** (砖墙, 1024px) — https://ambientcg.com/view?id=Bricks108A
+- **Bricks109B** (砖墙, 1024px) — https://ambientcg.com/view?id=Bricks109B
+- **Bricks112A** (砖墙, 1024px) — https://ambientcg.com/view?id=Bricks112A
+- **Bricks113A** (砖墙, 1024px) — https://ambientcg.com/view?id=Bricks113A
+- **Concrete034** (混凝土, 1024px) — https://ambientcg.com/view?id=Concrete034
+- **Concrete047A** (混凝土, 1024px) — https://ambientcg.com/view?id=Concrete047A
+- **Concrete048** (混凝土, 1024px) — https://ambientcg.com/view?id=Concrete048
+- **Fabric061** (织物, 1024px) — https://ambientcg.com/view?id=Fabric061
+- **Fabric081C** (织物, 1024px) — https://ambientcg.com/view?id=Fabric081C
+- **Fabric084** (织物, 1024px) — https://ambientcg.com/view?id=Fabric084
+- **Fabric085** (织物, 1024px) — https://ambientcg.com/view?id=Fabric085
+- **Grass001** (草地, 1024px) — https://ambientcg.com/view?id=Grass001
+- **Grass004** (草地, 1024px) — https://ambientcg.com/view?id=Grass004
+- **Grass005** (草地, 1024px) — https://ambientcg.com/view?id=Grass005
+- **Grass006** (草地, 1024px) — https://ambientcg.com/view?id=Grass006
+- **Grass008** (草地, 1024px) — https://ambientcg.com/view?id=Grass008
+- **aerial_grass_rock** (草地, 2048px) — https://polyhaven.com/a/aerial_grass_rock
+- **Gravel022** (砾石, 1024px) — https://ambientcg.com/view?id=Gravel022
+- **Gravel023** (砾石, 1024px) — https://ambientcg.com/view?id=Gravel023
+- **Gravel040** (砾石, 1024px) — https://ambientcg.com/view?id=Gravel040
+- **Gravel041** (砾石, 1024px) — https://ambientcg.com/view?id=Gravel041
+- **Gravel043** (砾石, 1024px) — https://ambientcg.com/view?id=Gravel043
+- **bicolour_gravel** (砾石, 2048px) — https://polyhaven.com/a/bicolour_gravel
+- **gravel_floor** (砾石, 2048px) — https://polyhaven.com/a/gravel_floor
+- **gravel_stones** (砾石, 2048px) — https://polyhaven.com/a/gravel_stones
+- **rocky_gravel** (砾石, 2048px) — https://polyhaven.com/a/rocky_gravel
+- **sandy_gravel_02** (砾石, 2048px) — https://polyhaven.com/a/sandy_gravel_02
+- **Ground037** (地面, 1024px) — https://ambientcg.com/view?id=Ground037
+- **Ground054** (地面, 1024px) — https://ambientcg.com/view?id=Ground054
+- **Ground103** (地面, 1024px) — https://ambientcg.com/view?id=Ground103
+- **Ground106** (地面, 1024px) — https://ambientcg.com/view?id=Ground106
+- **Ground107** (地面, 1024px) — https://ambientcg.com/view?id=Ground107
+- **Ground108** (地面, 1024px) — https://ambientcg.com/view?id=Ground108
+- **Ground109** (地面, 1024px) — https://ambientcg.com/view?id=Ground109
+- **Ground110** (地面, 1024px) — https://ambientcg.com/view?id=Ground110
+- **Ground111** (地面, 1024px) — https://ambientcg.com/view?id=Ground111
+- **Ground112** (地面, 1024px) — https://ambientcg.com/view?id=Ground112
+- **brown_mud_leaves_01** (地面, 2048px) — https://polyhaven.com/a/brown_mud_leaves_01
+- **forest_ground_04** (地面, 2048px) — https://polyhaven.com/a/forest_ground_04
+- **forrest_ground_01** (地面, 2048px) — https://polyhaven.com/a/forrest_ground_01
+- **red_laterite_soil_stones** (地面, 2048px) — https://polyhaven.com/a/red_laterite_soil_stones
+- **rocky_terrain_02** (地面, 2048px) — https://polyhaven.com/a/rocky_terrain_02
+- **rocky_trail_02** (地面, 2048px) — https://polyhaven.com/a/rocky_trail_02
+- **Metal032** (金属, 1024px) — https://ambientcg.com/view?id=Metal032
+- **Metal046B** (金属, 1024px) — https://ambientcg.com/view?id=Metal046B
+- **Metal048A** (金属, 1024px) — https://ambientcg.com/view?id=Metal048A
+- **Metal049A** (金属, 1024px) — https://ambientcg.com/view?id=Metal049A
+- **Metal055A** (金属, 1024px) — https://ambientcg.com/view?id=Metal055A
+- **Metal061B** (金属, 1024px) — https://ambientcg.com/view?id=Metal061B
+- **Metal063** (金属, 1024px) — https://ambientcg.com/view?id=Metal063
+- **Planks023A** (木板, 1024px) — https://ambientcg.com/view?id=Planks023A
+- **Planks037A** (木板, 1024px) — https://ambientcg.com/view?id=Planks037A
+- **Planks039** (木板, 1024px) — https://ambientcg.com/view?id=Planks039
+- **Rock051** (岩面, 1024px) — https://ambientcg.com/view?id=Rock051
+- **Rock058** (岩面, 1024px) — https://ambientcg.com/view?id=Rock058
+- **Rock060** (岩面, 1024px) — https://ambientcg.com/view?id=Rock060
+- **Rock063** (岩面, 1024px) — https://ambientcg.com/view?id=Rock063
+- **Rock064** (岩面, 1024px) — https://ambientcg.com/view?id=Rock064
+- **aerial_rocks_02** (岩面, 2048px) — https://polyhaven.com/a/aerial_rocks_02
+- **coast_sand_rocks_02** (岩面, 2048px) — https://polyhaven.com/a/coast_sand_rocks_02
+- **rock_boulder_dry** (岩面, 2048px) — https://polyhaven.com/a/rock_boulder_dry
+- **rock_face_03** (岩面, 2048px) — https://polyhaven.com/a/rock_face_03
+- **aerial_beach_01** (沙地, 2048px) — https://polyhaven.com/a/aerial_beach_01
+- **coast_sand_01** (沙地, 2048px) — https://polyhaven.com/a/coast_sand_01
+- **gravelly_sand** (沙地, 2048px) — https://polyhaven.com/a/gravelly_sand
+- **sand_01** (沙地, 2048px) — https://polyhaven.com/a/sand_01
+- **snow_02** (雪地, 2048px) — https://polyhaven.com/a/snow_02
+- **Tiles139** (瓷砖, 1024px) — https://ambientcg.com/view?id=Tiles139
+- **Tiles141** (瓷砖, 1024px) — https://ambientcg.com/view?id=Tiles141
+- **Tiles143** (瓷砖, 1024px) — https://ambientcg.com/view?id=Tiles143
+- **Wood049** (木材, 1024px) — https://ambientcg.com/view?id=Wood049
+- **Wood051** (木材, 1024px) — https://ambientcg.com/view?id=Wood051
+- **Wood092** (木材, 1024px) — https://ambientcg.com/view?id=Wood092
+- **Wood094** (木材, 1024px) — https://ambientcg.com/view?id=Wood094
+- **Wood095** (木材, 1024px) — https://ambientcg.com/view?id=Wood095
+- **Wood096** (木材, 1024px) — https://ambientcg.com/view?id=Wood096
+- **weathered_brown_planks** (木材, 2048px) — https://polyhaven.com/a/weathered_brown_planks
+- **wood_floor** (木材, 2048px) — https://polyhaven.com/a/wood_floor
+- **WoodFloor043** (木地板, 1024px) — https://ambientcg.com/view?id=WoodFloor043
+- **WoodFloor051** (木地板, 1024px) — https://ambientcg.com/view?id=WoodFloor051
+- **WoodFloor064** (木地板, 1024px) — https://ambientcg.com/view?id=WoodFloor064
+- **WoodFloor070** (木地板, 1024px) — https://ambientcg.com/view?id=WoodFloor070
+
+## HDRIs（Poly Haven, CC0）
+
+- **dikhololo_night** — https://polyhaven.com/a/dikhololo_night
+- **kiara_1_dawn** — https://polyhaven.com/a/kiara_1_dawn
+- **kloofendal_48d_partly_cloudy_puresky** — https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky
+- **kloppenheim_02** — https://polyhaven.com/a/kloppenheim_02
+- **kloppenheim_06_puresky** — https://polyhaven.com/a/kloppenheim_06_puresky
+- **lilienstein** — https://polyhaven.com/a/lilienstein
+- **meadow_2** — https://polyhaven.com/a/meadow_2
+- **moonless_golf** — https://polyhaven.com/a/moonless_golf
+- **satara_night** — https://polyhaven.com/a/satara_night
+- **spruit_sunrise** — https://polyhaven.com/a/spruit_sunrise
+- **the_sky_is_on_fire** — https://polyhaven.com/a/the_sky_is_on_fire
+- **venice_sunset** — https://polyhaven.com/a/venice_sunset
+
+## Tools
+
+- meshoptimizer / gltfpack (MIT) — 模型简化
+- Python + Pillow — PBR 通道打包与文档生成
+- Unity 2022.3 LTS — 材质 / 预制体 / 场景生成

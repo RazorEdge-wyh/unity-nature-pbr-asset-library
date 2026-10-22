@@ -4925,5 +4925,865 @@
     "roughness": null
    }
   ]
+ },
+ {
+  "name": "modern_sofa",
+  "category": "Furniture",
+  "type": "model",
+  "source": "Blender (self-made)",
+  "sourceUrl": "https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library",
+  "license": "CC0",
+  "file": "Furniture/modern_sofa/modern_sofa.obj",
+  "trisOriginal": 3144,
+  "tris": 3144,
+  "boundsMin": [
+   -1.07,
+   0.11,
+   -0.44
+  ],
+  "boundsMax": [
+   1.07,
+   0.95,
+   0.45
+  ],
+  "materials": [
+   {
+    "name": "black_metal",
+    "sourceName": "black_metal",
+    "albedo": "black_metal_Albedo.jpg",
+    "normal": "black_metal_Normal.jpg",
+    "mask": "black_metal_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "linen_cream",
+    "sourceName": "linen_cream",
+    "albedo": "linen_cream_Albedo.jpg",
+    "normal": "linen_cream_Normal.jpg",
+    "mask": "linen_cream_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "walnut",
+    "sourceName": "walnut",
+    "albedo": "walnut_Albedo.jpg",
+    "normal": "walnut_Normal.jpg",
+    "mask": "walnut_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   }
+  ]
+ },
+ {
+  "name": "modern_armchair",
+  "category": "Furniture",
+  "type": "model",
+  "source": "Blender (self-made)",
+  "sourceUrl": "https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library",
+  "license": "CC0",
+  "file": "Furniture/modern_armchair/modern_armchair.obj",
+  "trisOriginal": 1944,
+  "tris": 1944,
+  "boundsMin": [
+   -0.49,
+   0.1,
+   -0.42
+  ],
+  "boundsMax": [
+   0.49,
+   0.91,
+   0.43
+  ],
+  "materials": [
+   {
+    "name": "black_metal",
+    "sourceName": "black_metal",
+    "albedo": "black_metal_Albedo.jpg",
+    "normal": "black_metal_Normal.jpg",
+    "mask": "black_metal_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "linen_cream",
+    "sourceName": "linen_cream",
+    "albedo": "linen_cream_Albedo.jpg",
+    "normal": "linen_cream_Normal.jpg",
+    "mask": "linen_cream_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "walnut",
+    "sourceName": "walnut",
+    "albedo": "walnut_Albedo.jpg",
+    "normal": "walnut_Normal.jpg",
+    "mask": "walnut_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   }
+  ]
+ },
+ {
+  "name": "modern_coffee_table",
+  "category": "Furniture",
+  "type": "model",
+  "source": "Blender (self-made)",
+  "sourceUrl": "https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library",
+  "license": "CC0",
+  "file": "Furniture/modern_coffee_table/modern_coffee_table.obj",
+  "trisOriginal": 872,
+  "tris": 872,
+  "boundsMin": [
+   -0.6,
+   0.003,
+   -0.31
+  ],
+  "boundsMax": [
+   0.6,
+   0.427,
+   0.31
+  ],
+  "materials": [
+   {
+    "name": "black_metal",
+    "sourceName": "black_metal",
+    "albedo": "black_metal_Albedo.jpg",
+    "normal": "black_metal_Normal.jpg",
+    "mask": "black_metal_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "walnut",
+    "sourceName": "walnut",
+    "albedo": "walnut_Albedo.jpg",
+    "normal": "walnut_Normal.jpg",
+    "mask": "walnut_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   }
+  ]
+ },
+ {
+  "name": "modern_tv_console",
+  "category": "Furniture",
+  "type": "model",
+  "source": "Blender (self-made)",
+  "sourceUrl": "https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library",
+  "license": "CC0",
+  "file": "Furniture/modern_tv_console/modern_tv_console.obj",
+  "trisOriginal": 1496,
+  "tris": 1496,
+  "boundsMin": [
+   -0.92,
+   0.0,
+   -0.21
+  ],
+  "boundsMax": [
+   0.92,
+   0.53,
+   0.234
+  ],
+  "materials": [
+   {
+    "name": "black_metal",
+    "sourceName": "black_metal",
+    "albedo": "black_metal_Albedo.jpg",
+    "normal": "black_metal_Normal.jpg",
+    "mask": "black_metal_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "brass",
+    "sourceName": "brass",
+    "albedo": "brass_Albedo.jpg",
+    "normal": "brass_Normal.jpg",
+    "mask": "brass_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "oak",
+    "sourceName": "oak",
+    "albedo": "oak_Albedo.jpg",
+    "normal": "oak_Normal.jpg",
+    "mask": "oak_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "walnut",
+    "sourceName": "walnut",
+    "albedo": "walnut_Albedo.jpg",
+    "normal": "walnut_Normal.jpg",
+    "mask": "walnut_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   }
+  ]
+ },
+ {
+  "name": "modern_bookshelf",
+  "category": "Furniture",
+  "type": "model",
+  "source": "Blender (self-made)",
+  "sourceUrl": "https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library",
+  "license": "CC0",
+  "file": "Furniture/modern_bookshelf/modern_bookshelf.obj",
+  "trisOriginal": 1552,
+  "tris": 1552,
+  "boundsMin": [
+   -0.47,
+   0.0,
+   -0.16
+  ],
+  "boundsMax": [
+   0.47,
+   1.8,
+   0.16
+  ],
+  "materials": [
+   {
+    "name": "linen_gray",
+    "sourceName": "linen_gray",
+    "albedo": "linen_gray_Albedo.jpg",
+    "normal": "linen_gray_Normal.jpg",
+    "mask": "linen_gray_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "oak",
+    "sourceName": "oak",
+    "albedo": "oak_Albedo.jpg",
+    "normal": "oak_Normal.jpg",
+    "mask": "oak_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "walnut",
+    "sourceName": "walnut",
+    "albedo": "walnut_Albedo.jpg",
+    "normal": "walnut_Normal.jpg",
+    "mask": "walnut_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   }
+  ]
+ },
+ {
+  "name": "modern_dining_chair",
+  "category": "Furniture",
+  "type": "model",
+  "source": "Blender (self-made)",
+  "sourceUrl": "https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library",
+  "license": "CC0",
+  "file": "Furniture/modern_dining_chair/modern_dining_chair.obj",
+  "trisOriginal": 992,
+  "tris": 992,
+  "boundsMin": [
+   -0.24,
+   0.0,
+   -0.24
+  ],
+  "boundsMax": [
+   0.24,
+   0.86,
+   0.279
+  ],
+  "materials": [
+   {
+    "name": "oak",
+    "sourceName": "oak",
+    "albedo": "oak_Albedo.jpg",
+    "normal": "oak_Normal.jpg",
+    "mask": "oak_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   }
+  ]
+ },
+ {
+  "name": "modern_bar_stool",
+  "category": "Furniture",
+  "type": "model",
+  "source": "Blender (self-made)",
+  "sourceUrl": "https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library",
+  "license": "CC0",
+  "file": "Furniture/modern_bar_stool/modern_bar_stool.obj",
+  "trisOriginal": 2156,
+  "tris": 2156,
+  "boundsMin": [
+   -0.19,
+   0.001,
+   -0.19
+  ],
+  "boundsMax": [
+   0.19,
+   0.77,
+   0.19
+  ],
+  "materials": [
+   {
+    "name": "black_metal",
+    "sourceName": "black_metal",
+    "albedo": "black_metal_Albedo.jpg",
+    "normal": "black_metal_Normal.jpg",
+    "mask": "black_metal_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "brass",
+    "sourceName": "brass",
+    "albedo": "brass_Albedo.jpg",
+    "normal": "brass_Normal.jpg",
+    "mask": "brass_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "linen_gray",
+    "sourceName": "linen_gray",
+    "albedo": "linen_gray_Albedo.jpg",
+    "normal": "linen_gray_Normal.jpg",
+    "mask": "linen_gray_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   }
+  ]
+ },
+ {
+  "name": "modern_side_table",
+  "category": "Furniture",
+  "type": "model",
+  "source": "Blender (self-made)",
+  "sourceUrl": "https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library",
+  "license": "CC0",
+  "file": "Furniture/modern_side_table/modern_side_table.obj",
+  "trisOriginal": 944,
+  "tris": 944,
+  "boundsMin": [
+   -0.23,
+   -0.0,
+   -0.23
+  ],
+  "boundsMax": [
+   0.23,
+   0.497,
+   0.23
+  ],
+  "materials": [
+   {
+    "name": "black_metal",
+    "sourceName": "black_metal",
+    "albedo": "black_metal_Albedo.jpg",
+    "normal": "black_metal_Normal.jpg",
+    "mask": "black_metal_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "walnut",
+    "sourceName": "walnut",
+    "albedo": "walnut_Albedo.jpg",
+    "normal": "walnut_Normal.jpg",
+    "mask": "walnut_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   }
+  ]
+ },
+ {
+  "name": "modern_floor_lamp",
+  "category": "Lamps",
+  "type": "model",
+  "source": "Blender (self-made)",
+  "sourceUrl": "https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library",
+  "license": "CC0",
+  "file": "Lamps/modern_floor_lamp/modern_floor_lamp.obj",
+  "trisOriginal": 2004,
+  "tris": 2004,
+  "boundsMin": [
+   -0.2,
+   0.0,
+   -0.2
+  ],
+  "boundsMax": [
+   0.2,
+   1.63,
+   0.2
+  ],
+  "materials": [
+   {
+    "name": "black_metal",
+    "sourceName": "black_metal",
+    "albedo": "black_metal_Albedo.jpg",
+    "normal": "black_metal_Normal.jpg",
+    "mask": "black_metal_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "bulb_warm",
+    "sourceName": "bulb_warm",
+    "albedo": "bulb_warm_Albedo.jpg",
+    "normal": "bulb_warm_Normal.jpg",
+    "mask": "bulb_warm_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": true,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "lamp_shade",
+    "sourceName": "lamp_shade",
+    "albedo": "lamp_shade_Albedo.jpg",
+    "normal": "lamp_shade_Normal.jpg",
+    "mask": "lamp_shade_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   }
+  ]
+ },
+ {
+  "name": "modern_table_lamp",
+  "category": "Lamps",
+  "type": "model",
+  "source": "Blender (self-made)",
+  "sourceUrl": "https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library",
+  "license": "CC0",
+  "file": "Lamps/modern_table_lamp/modern_table_lamp.obj",
+  "trisOriginal": 2004,
+  "tris": 2004,
+  "boundsMin": [
+   -0.11,
+   0.0,
+   -0.11
+  ],
+  "boundsMax": [
+   0.11,
+   0.58,
+   0.11
+  ],
+  "materials": [
+   {
+    "name": "brass",
+    "sourceName": "brass",
+    "albedo": "brass_Albedo.jpg",
+    "normal": "brass_Normal.jpg",
+    "mask": "brass_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "bulb_warm",
+    "sourceName": "bulb_warm",
+    "albedo": "bulb_warm_Albedo.jpg",
+    "normal": "bulb_warm_Normal.jpg",
+    "mask": "bulb_warm_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": true,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "ceramic_white",
+    "sourceName": "ceramic_white",
+    "albedo": "ceramic_white_Albedo.jpg",
+    "normal": "ceramic_white_Normal.jpg",
+    "mask": "ceramic_white_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "lamp_shade",
+    "sourceName": "lamp_shade",
+    "albedo": "lamp_shade_Albedo.jpg",
+    "normal": "lamp_shade_Normal.jpg",
+    "mask": "lamp_shade_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   }
+  ]
+ },
+ {
+  "name": "modern_planter",
+  "category": "Decor",
+  "type": "model",
+  "source": "Blender (self-made)",
+  "sourceUrl": "https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library",
+  "license": "CC0",
+  "file": "Decor/modern_planter/modern_planter.obj",
+  "trisOriginal": 952,
+  "tris": 952,
+  "boundsMin": [
+   -0.299,
+   0.0,
+   -0.299
+  ],
+  "boundsMax": [
+   0.299,
+   0.52,
+   0.299
+  ],
+  "materials": [
+   {
+    "name": "concrete",
+    "sourceName": "concrete",
+    "albedo": "concrete_Albedo.jpg",
+    "normal": "concrete_Normal.jpg",
+    "mask": "concrete_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "soil",
+    "sourceName": "soil",
+    "albedo": "soil_Albedo.jpg",
+    "normal": "soil_Normal.jpg",
+    "mask": "soil_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   }
+  ]
+ },
+ {
+  "name": "modern_wall_clock",
+  "category": "Decor",
+  "type": "model",
+  "source": "Blender (self-made)",
+  "sourceUrl": "https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library",
+  "license": "CC0",
+  "file": "Decor/modern_wall_clock/modern_wall_clock.obj",
+  "trisOriginal": 1940,
+  "tris": 1940,
+  "boundsMin": [
+   -0.214,
+   -0.214,
+   -0.019
+  ],
+  "boundsMax": [
+   0.214,
+   0.214,
+   0.034
+  ],
+  "materials": [
+   {
+    "name": "black_metal",
+    "sourceName": "black_metal",
+    "albedo": "black_metal_Albedo.jpg",
+    "normal": "black_metal_Normal.jpg",
+    "mask": "black_metal_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "brass",
+    "sourceName": "brass",
+    "albedo": "brass_Albedo.jpg",
+    "normal": "brass_Normal.jpg",
+    "mask": "brass_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "ceramic_white",
+    "sourceName": "ceramic_white",
+    "albedo": "ceramic_white_Albedo.jpg",
+    "normal": "ceramic_white_Normal.jpg",
+    "mask": "ceramic_white_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   }
+  ]
+ },
+ {
+  "name": "modern_vase",
+  "category": "Decor",
+  "type": "model",
+  "source": "Blender (self-made)",
+  "sourceUrl": "https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library",
+  "license": "CC0",
+  "file": "Decor/modern_vase/modern_vase.obj",
+  "trisOriginal": 672,
+  "tris": 672,
+  "boundsMin": [
+   -0.15,
+   0.0,
+   -0.15
+  ],
+  "boundsMax": [
+   0.15,
+   0.45,
+   0.15
+  ],
+  "materials": [
+   {
+    "name": "ceramic_white",
+    "sourceName": "ceramic_white",
+    "albedo": "ceramic_white_Albedo.jpg",
+    "normal": "ceramic_white_Normal.jpg",
+    "mask": "ceramic_white_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   }
+  ]
+ },
+ {
+  "name": "modern_rug",
+  "category": "Decor",
+  "type": "model",
+  "source": "Blender (self-made)",
+  "sourceUrl": "https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library",
+  "license": "CC0",
+  "file": "Decor/modern_rug/modern_rug.obj",
+  "trisOriginal": 188,
+  "tris": 188,
+  "boundsMin": [
+   -1.2,
+   0.0,
+   -0.8
+  ],
+  "boundsMax": [
+   1.2,
+   0.018,
+   0.8
+  ],
+  "materials": [
+   {
+    "name": "rug_fabric",
+    "sourceName": "rug_fabric",
+    "albedo": "rug_fabric_Albedo.jpg",
+    "normal": "rug_fabric_Normal.jpg",
+    "mask": "rug_fabric_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   }
+  ]
+ },
+ {
+  "name": "modern_picture_frame",
+  "category": "Decor",
+  "type": "model",
+  "source": "Blender (self-made)",
+  "sourceUrl": "https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library",
+  "license": "CC0",
+  "file": "Decor/modern_picture_frame/modern_picture_frame.obj",
+  "trisOriginal": 764,
+  "tris": 764,
+  "boundsMin": [
+   -0.362,
+   -0.463,
+   -0.01
+  ],
+  "boundsMax": [
+   0.362,
+   0.463,
+   0.03
+  ],
+  "materials": [
+   {
+    "name": "canvas_art",
+    "sourceName": "canvas_art",
+    "albedo": "canvas_art_Albedo.jpg",
+    "normal": "canvas_art_Normal.jpg",
+    "mask": "canvas_art_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "walnut",
+    "sourceName": "walnut",
+    "albedo": "walnut_Albedo.jpg",
+    "normal": "walnut_Normal.jpg",
+    "mask": "walnut_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   }
+  ]
+ },
+ {
+  "name": "modern_shelf_wall",
+  "category": "Decor",
+  "type": "model",
+  "source": "Blender (self-made)",
+  "sourceUrl": "https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library",
+  "license": "CC0",
+  "file": "Decor/modern_shelf_wall/modern_shelf_wall.obj",
+  "trisOriginal": 1340,
+  "tris": 1340,
+  "boundsMin": [
+   -0.55,
+   -0.16,
+   -0.12
+  ],
+  "boundsMax": [
+   0.55,
+   0.22,
+   0.12
+  ],
+  "materials": [
+   {
+    "name": "black_metal",
+    "sourceName": "black_metal",
+    "albedo": "black_metal_Albedo.jpg",
+    "normal": "black_metal_Normal.jpg",
+    "mask": "black_metal_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "ceramic_white",
+    "sourceName": "ceramic_white",
+    "albedo": "ceramic_white_Albedo.jpg",
+    "normal": "ceramic_white_Normal.jpg",
+    "mask": "ceramic_white_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "linen_gray",
+    "sourceName": "linen_gray",
+    "albedo": "linen_gray_Albedo.jpg",
+    "normal": "linen_gray_Normal.jpg",
+    "mask": "linen_gray_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   },
+   {
+    "name": "walnut",
+    "sourceName": "walnut",
+    "albedo": "walnut_Albedo.jpg",
+    "normal": "walnut_Normal.jpg",
+    "mask": "walnut_Mask.png",
+    "renderMode": "opaque",
+    "doubleSided": false,
+    "emissive": false,
+    "metallic": null,
+    "roughness": null
+   }
+  ]
  }
 ]

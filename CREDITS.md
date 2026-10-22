@@ -17,6 +17,12 @@ All assets are licensed **CC0 1.0 Universal (Public Domain Dedication)**.
 - **dartboard** (Decor, 6800 tris) — https://polyhaven.com/a/dartboard — 源文件 0.7 MB OBJ
 - **fancy_picture_frame_01** (Decor, 938 tris) — https://polyhaven.com/a/fancy_picture_frame_01 — 源文件 0.1 MB OBJ
 - **fancy_picture_frame_02** (Decor, 8001 tris) — https://polyhaven.com/a/fancy_picture_frame_02 — 源文件 0.5 MB OBJ
+- **modern_picture_frame** (Decor, 764 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_planter** (Decor, 952 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_rug** (Decor, 188 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.0 MB OBJ
+- **modern_shelf_wall** (Decor, 1340 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_vase** (Decor, 672 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.0 MB OBJ
+- **modern_wall_clock** (Decor, 1940 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
 - **ornate_mirror_01** (Decor, 8000 tris) — https://polyhaven.com/a/ornate_mirror_01 — 源文件 0.6 MB OBJ
 - **seadogs_compass** (Decor, 7997 tris) — https://polyhaven.com/a/seadogs_compass — 源文件 0.7 MB OBJ
 - **standing_picture_frame_01** (Decor, 1634 tris) — https://polyhaven.com/a/standing_picture_frame_01 — 源文件 0.2 MB OBJ
@@ -46,6 +52,14 @@ All assets are licensed **CC0 1.0 Universal (Public Domain Dedication)**.
 - **WoodenTable_01** (Furniture, 952 tris) — https://polyhaven.com/a/WoodenTable_01 — 源文件 0.1 MB OBJ
 - **WoodenTable_02** (Furniture, 1514 tris) — https://polyhaven.com/a/WoodenTable_02 — 源文件 0.2 MB OBJ
 - **WoodenTable_03** (Furniture, 2298 tris) — https://polyhaven.com/a/WoodenTable_03 — 源文件 0.4 MB OBJ
+- **modern_armchair** (Furniture, 1944 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_bar_stool** (Furniture, 2156 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.2 MB OBJ
+- **modern_bookshelf** (Furniture, 1552 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_coffee_table** (Furniture, 872 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_dining_chair** (Furniture, 992 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_side_table** (Furniture, 944 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_sofa** (Furniture, 3144 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.2 MB OBJ
+- **modern_tv_console** (Furniture, 1496 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
 - **brass_pan_01** (Kitchenware, 4340 tris) — https://polyhaven.com/a/brass_pan_01 — 源文件 0.4 MB OBJ
 - **brass_pot_01** (Kitchenware, 3760 tris) — https://polyhaven.com/a/brass_pot_01 — 源文件 0.3 MB OBJ
 - **brass_pot_02** (Kitchenware, 3344 tris) — https://polyhaven.com/a/brass_pot_02 — 源文件 0.3 MB OBJ
@@ -62,6 +76,8 @@ All assets are licensed **CC0 1.0 Universal (Public Domain Dedication)**.
 - **lantern_chandelier_01** (灯具, 5971 tris) — https://polyhaven.com/a/lantern_chandelier_01 — 源文件 0.7 MB OBJ
 - **lightbulb_01** (灯具, 4372 tris) — https://polyhaven.com/a/lightbulb_01 — 源文件 0.4 MB OBJ
 - **modern_ceiling_lamp_01** (灯具, 5602 tris) — https://polyhaven.com/a/modern_ceiling_lamp_01 — 源文件 0.5 MB OBJ
+- **modern_floor_lamp** (灯具, 2004 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
+- **modern_table_lamp** (灯具, 2004 tris) — https://github.com/RazorEdge-wyh/unity-nature-pbr-asset-library — 源文件 0.1 MB OBJ
 - **security_light** (灯具, 4668 tris) — https://polyhaven.com/a/security_light — 源文件 0.5 MB OBJ
 - **street_lamp_01** (灯具, 7999 tris) — https://polyhaven.com/a/street_lamp_01 — 源文件 0.5 MB OBJ
 - **street_lamp_02** (灯具, 8000 tris) — https://polyhaven.com/a/street_lamp_02 — 源文件 0.5 MB OBJ

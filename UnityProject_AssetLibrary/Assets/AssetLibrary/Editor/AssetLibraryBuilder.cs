@@ -356,7 +356,15 @@ namespace AssetLibrary.EditorTools
                     var mask = LoadAsset<Texture2D>(TexPath(modelDir, m.mask));
 
                     if (shader.name == "Standard")
+                    {
                         SetupStandardPBR(mat, albedo, normal, mask, 1f, 1f, m.renderMode);
+                        if (m.emissive)
+                        {
+                            mat.EnableKeyword("_EMISSION");
+                            mat.SetColor("_EmissionColor", new Color(1f, 0.78f, 0.5f) * 2.5f);
+                            mat.globalIlluminationFlags = MaterialGlobalIlluminationFlags.RealtimeEmissive;
+                        }
+                    }
                     else
                     {
                         float wind = 0f;
@@ -477,6 +485,10 @@ namespace AssetLibrary.EditorTools
                     }
                 case "PottedPlants":
                 case "Lamps":
+                case "Furniture":
+                case "Decor":
+                case "Kitchenware":
+                case "Electronics":
                     {
                         var col = go.AddComponent<BoxCollider>();
                         col.center = b.center;
@@ -649,45 +661,39 @@ namespace AssetLibrary.EditorTools
             AddWall("Wall_Back", new Vector3(0f, 1.6f, 6.5f), new Vector3(90f, 0f, 0f), new Vector3(1.3f, 0.32f, 1f), wallMat);
             AddWall("Wall_Left", new Vector3(-6.5f, 1.6f, 0f), new Vector3(90f, 90f, 0f), new Vector3(1.3f, 0.32f, 1f), wallMat);
 
-            var rug = GameObject.CreatePrimitive(PrimitiveType.Plane);
-            rug.name = "Rug";
-            rug.transform.position = new Vector3(0f, 0.012f, 2.2f);
-            rug.transform.localScale = new Vector3(0.42f, 1f, 0.34f);
-            if (rugMat != null) rug.GetComponent<Renderer>().sharedMaterial = rugMat;
+            PlacePrefab("Decor", "modern_rug", new Vector3(0f, 0f, 2.2f), 0f);
 
-            // seating group
-            PlacePrefab("Furniture", "Sofa_01", new Vector3(0f, 0f, 3.6f), 180f);
-            var coffee = PlacePrefab("Furniture", "CoffeeTable_01", new Vector3(0f, 0f, 1.6f), 0f);
-            PlacePrefab("Furniture", "ArmChair_01", new Vector3(-2.9f, 0f, 2.2f), 125f);
-            PlacePrefab("Furniture", "Ottoman_01", new Vector3(2.5f, 0f, 1.8f), 20f);
-            PlacePrefab("Furniture", "GreenChair_01", new Vector3(4.6f, 0f, 3.0f), 230f);
+            // seating group - self-made modern set (Blender)
+            PlacePrefab("Furniture", "modern_sofa", new Vector3(0f, 0f, 3.7f), 180f);
+            var coffee = PlacePrefab("Furniture", "modern_coffee_table", new Vector3(0f, 0f, 1.7f), 0f);
+            PlacePrefab("Furniture", "modern_armchair", new Vector3(-2.7f, 0f, 2.1f), 120f);
+            PlacePrefab("Furniture", "modern_side_table", new Vector3(2.35f, 0f, 2.5f), 0f);
+            PlacePrefab("Lamps", "modern_floor_lamp", new Vector3(2.75f, 0f, 3.6f), 0f);
 
             // wall units
-            PlacePrefab("Furniture", "Shelf_01", new Vector3(-4.4f, 0f, 5.6f), 0f);
-            var console = PlacePrefab("Furniture", "ClassicConsole_01", new Vector3(2.4f, 0f, 5.6f), 0f);
-            float consoleTop = 0.75f;
+            PlacePrefab("Furniture", "modern_bookshelf", new Vector3(-4.3f, 0f, 5.75f), 0f);
+            var console = PlacePrefab("Furniture", "modern_tv_console", new Vector3(2.2f, 0f, 5.75f), 0f);
+            float consoleTop = 0.55f;
             if (console != null) consoleTop = RendererBounds(console).max.y;
-            PlacePrefab("Electronics", "Television_01", new Vector3(2.4f, consoleTop, 5.6f), 180f);
+            PlacePrefab("Electronics", "Television_01", new Vector3(2.2f, consoleTop, 5.75f), 180f);
+            PlacePrefab("Decor", "modern_shelf_wall", new Vector3(-1.7f, 1.78f, 6.48f), 0f);
 
             // plants
             PlacePrefab("PottedPlants", "potted_plant_01", new Vector3(-5.6f, 0f, 1.0f), 20f);
-            PlacePrefab("PottedPlants", "potted_plant_02", new Vector3(5.6f, 0f, 0.8f), -30f);
-            PlacePrefab("PottedPlants", "planter_box_02", new Vector3(5.3f, 0f, 4.4f), 0f);
-            PlacePrefab("Plants", "fern_02", new Vector3(-5.4f, 0f, 3.4f), 0f);
+            PlacePrefab("Decor", "modern_planter", new Vector3(-5.5f, 0f, 4.2f), 0f);
+            PlacePrefab("PottedPlants", "potted_plant_02", new Vector3(5.5f, 0f, 0.9f), -30f);
 
             // decor
             if (coffee != null)
             {
                 float top = RendererBounds(coffee).max.y;
-                PlacePrefab("Decor", "ceramic_vase_01", new Vector3(-0.35f, top, 1.45f), 0f);
-                PlacePrefab("Decor", "chess_set", new Vector3(0.35f, top, 1.9f), 20f);
+                PlacePrefab("Decor", "modern_vase", new Vector3(-0.32f, top, 1.45f), 0f);
             }
-            PlacePrefab("Decor", "brass_vase_01", new Vector3(-4.4f, 0.9f, 5.45f), 0f);
-            PlacePrefab("Decor", "book_encyclopedia_set_01", new Vector3(2.9f, consoleTop, 5.5f), 0f);
-            PlacePrefab("Decor", "wall_clock", new Vector3(0f, 2.55f, 6.44f), 0f);
-            PlacePrefab("Decor", "fancy_picture_frame_01", new Vector3(-2.1f, 1.9f, 6.44f), 0f);
-            PlacePrefab("Decor", "ornate_mirror_01", new Vector3(-3.6f, 1.85f, 6.44f), 0f);
-            PlacePrefab("Decor", "standing_picture_frame_01", new Vector3(4.0f, 0f, 0.6f), 200f);
+            PlacePrefab("Decor", "modern_wall_clock", new Vector3(0.25f, 2.35f, 6.48f), 0f);
+            PlacePrefab("Decor", "modern_picture_frame", new Vector3(-3.5f, 1.85f, 6.48f), 0f);
+            PlacePrefab("Furniture", "modern_dining_chair", new Vector3(4.3f, 0f, 4.7f), 200f);
+            PlacePrefab("Furniture", "modern_bar_stool", new Vector3(4.4f, 0f, 2.6f), 0f);
+            PlacePrefab("Lamps", "modern_table_lamp", new Vector3(2.35f, 0.5f, 2.5f), 0f);
 
             // lighting
             var ceilingGo = new GameObject("Ceiling_Lamp");

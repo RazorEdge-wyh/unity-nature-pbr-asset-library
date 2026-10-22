@@ -94,6 +94,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6862868117384363364}
+  - component: {fileID: 5481034789984500628}
   m_Layer: 0
   m_Name: standing_picture_frame_01
   m_TagString: Untagged
@@ -117,3 +118,24 @@ Transform:
   - {fileID: 4752858695273298378}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &5481034789984500628
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4382767141020248463}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.100276, y: 0.249658, z: 0.2008}
+  m_Center: {x: 0.011484001, y: 0.124354996, z: 0}

@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9201842867707127008}
+  - component: {fileID: 9004509061917491469}
   m_Layer: 0
   m_Name: ceramic_vase_03
   m_TagString: Untagged
@@ -32,6 +33,27 @@ Transform:
   - {fileID: 7010893140409190599}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &9004509061917491469
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4174024569121514989}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.112243, y: 0.414365, z: 0.112243}
+  m_Center: {x: -0.0000004991889, y: 0.20721349, z: 0.0000014975667}
 --- !u!1 &7021379045535326212
 GameObject:
   m_ObjectHideFlags: 0

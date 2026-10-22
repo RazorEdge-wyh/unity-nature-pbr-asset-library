@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1865347083238613769}
+  - component: {fileID: 239019679280424219}
   m_Layer: 0
   m_Name: carved_wooden_plate
   m_TagString: Untagged
@@ -32,6 +33,27 @@ Transform:
   - {fileID: 5976846650502529248}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &239019679280424219
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7391407604199200016}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.271831, y: 0.03811, z: 0.26878}
+  m_Center: {x: 0.0015684962, y: 0.017199999, z: -0.007692009}
 --- !u!1 &9018077845658463780
 GameObject:
   m_ObjectHideFlags: 0

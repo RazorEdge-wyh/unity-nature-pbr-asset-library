@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5047558934915276952}
+  - component: {fileID: 4909331128517152774}
   m_Layer: 0
   m_Name: Camera_01
   m_TagString: Untagged
@@ -32,6 +33,27 @@ Transform:
   - {fileID: 1786278953041722655}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &4909331128517152774
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 209255702980875888}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.21390101, y: 0.077847995, z: 0.262815}
+  m_Center: {x: 0.028593495, y: 0.039179, z: 0.07085849}
 --- !u!1 &810712732082124833
 GameObject:
   m_ObjectHideFlags: 0

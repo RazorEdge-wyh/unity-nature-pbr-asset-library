@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3022743640343300232}
+  - component: {fileID: 1713070907637299332}
   m_Layer: 0
   m_Name: brass_vase_01
   m_TagString: Untagged
@@ -32,6 +33,27 @@ Transform:
   - {fileID: 1828155054974995837}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1713070907637299332
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 393187325917129923}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.22731599, y: 0.69247204, z: 0.22731599}
+  m_Center: {x: 0.0000019967556, y: 0.347689, z: -0.0000019967556}
 --- !u!1 &4891770957545925775
 GameObject:
   m_ObjectHideFlags: 0

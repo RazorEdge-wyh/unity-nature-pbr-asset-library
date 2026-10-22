@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4150972401465164560}
+  - component: {fileID: 1173916706366308425}
   m_Layer: 0
   m_Name: BarberShopChair_01
   m_TagString: Untagged
@@ -32,6 +33,27 @@ Transform:
   - {fileID: 525229490165296650}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1173916706366308425
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2666360918630505417}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.756515, y: 1.489005, z: 1.3279071}
+  m_Center: {x: 0.015390515, y: 0.7445025, z: 0.22181651}
 --- !u!1 &2765873556402841230
 GameObject:
   m_ObjectHideFlags: 0

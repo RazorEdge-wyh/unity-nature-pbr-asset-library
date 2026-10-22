@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3617668942894219675}
+  - component: {fileID: 345716623589305962}
   m_Layer: 0
   m_Name: brass_pot_01
   m_TagString: Untagged
@@ -32,6 +33,27 @@ Transform:
   - {fileID: 8783985217798167098}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &345716623589305962
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2188400363972521538}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.301945, y: 0.290948, z: 0.30169302}
+  m_Center: {x: 0.000040501356, y: 0.144621, z: -0.000044494867}
 --- !u!1 &7534119331996760624
 GameObject:
   m_ObjectHideFlags: 0
