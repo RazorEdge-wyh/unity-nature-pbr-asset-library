@@ -284,3 +284,9 @@ dikhololo_night, kiara_1_dawn, kloofendal_48d_partly_cloudy_puresky, kloppenheim
 
 ![HDRI](Screenshots/hdris.jpg)
 
+
+---
+
+## 作者 / Author
+
+**湖南科技大学 · 26 级 · 王越豪** · GitHub [@RazorEdge-wyh](https://github.com/RazorEdge-wyh)
