@@ -660,13 +660,14 @@ namespace AssetLibrary.EditorTools
 
             AddWall("Wall_Back", new Vector3(0f, 1.6f, 6.5f), new Vector3(90f, 0f, 0f), new Vector3(1.3f, 0.32f, 1f), wallMat);
             AddWall("Wall_Left", new Vector3(-6.5f, 1.6f, 0f), new Vector3(90f, 90f, 0f), new Vector3(1.3f, 0.32f, 1f), wallMat);
+            AddWall("Ceiling", new Vector3(0f, 3.25f, 0f), new Vector3(180f, 0f, 0f), new Vector3(1.3f, 1.3f, 1f), wallMat);
 
             PlacePrefab("Decor", "modern_rug", new Vector3(0f, 0f, 2.2f), 0f);
 
             // seating group - self-made modern set (Blender)
-            PlacePrefab("Furniture", "modern_sofa", new Vector3(0f, 0f, 3.7f), 180f);
+            PlacePrefab("Furniture", "modern_sofa", new Vector3(0f, 0f, 3.7f), 0f);
             var coffee = PlacePrefab("Furniture", "modern_coffee_table", new Vector3(0f, 0f, 1.7f), 0f);
-            PlacePrefab("Furniture", "modern_armchair", new Vector3(-2.7f, 0f, 2.1f), 120f);
+            PlacePrefab("Furniture", "modern_armchair", new Vector3(-2.7f, 0f, 2.1f), 235f);
             PlacePrefab("Furniture", "modern_side_table", new Vector3(2.35f, 0f, 2.5f), 0f);
             PlacePrefab("Lamps", "modern_floor_lamp", new Vector3(2.75f, 0f, 3.6f), 0f);
 
@@ -676,7 +677,7 @@ namespace AssetLibrary.EditorTools
             float consoleTop = 0.55f;
             if (console != null) consoleTop = RendererBounds(console).max.y;
             PlacePrefab("Electronics", "Television_01", new Vector3(2.2f, consoleTop, 5.75f), 180f);
-            PlacePrefab("Decor", "modern_shelf_wall", new Vector3(-1.7f, 1.78f, 6.48f), 0f);
+            PlacePrefab("Decor", "modern_shelf_wall", new Vector3(1.9f, 1.80f, 6.47f), 0f);
 
             // plants
             PlacePrefab("PottedPlants", "potted_plant_01", new Vector3(-5.6f, 0f, 1.0f), 20f);
@@ -689,11 +690,17 @@ namespace AssetLibrary.EditorTools
                 float top = RendererBounds(coffee).max.y;
                 PlacePrefab("Decor", "modern_vase", new Vector3(-0.32f, top, 1.45f), 0f);
             }
-            PlacePrefab("Decor", "modern_wall_clock", new Vector3(0.25f, 2.35f, 6.48f), 0f);
-            PlacePrefab("Decor", "modern_picture_frame", new Vector3(-3.5f, 1.85f, 6.48f), 0f);
+            PlacePrefab("Decor", "modern_wall_clock", new Vector3(3.9f, 2.40f, 6.47f), 0f);
+            PlacePrefab("Decor", "modern_picture_frame", new Vector3(4.9f, 1.90f, 6.47f), 0f);
             PlacePrefab("Furniture", "modern_dining_chair", new Vector3(4.3f, 0f, 4.7f), 200f);
             PlacePrefab("Furniture", "modern_bar_stool", new Vector3(4.4f, 0f, 2.6f), 0f);
             PlacePrefab("Lamps", "modern_table_lamp", new Vector3(2.35f, 0.5f, 2.5f), 0f);
+            PlacePrefab("Furniture", "modern_sideboard", new Vector3(4.9f, 0f, 5.75f), 0f);
+            PlacePrefab("Decor", "modern_wall_art", new Vector3(-1.9f, 2.30f, 6.47f), 0f);
+            PlacePrefab("Furniture", "modern_desk", new Vector3(-4.9f, 0f, -1.6f), 90f);
+            PlacePrefab("Furniture", "modern_wardrobe", new Vector3(-6.05f, 0f, 2.9f), 90f);
+            PlacePrefab("Decor", "modern_floor_mirror", new Vector3(6.05f, 0f, 2.0f), -90f);
+            PlacePrefab("Lamps", "modern_pendant_lamp", new Vector3(0f, 2.5f, 1.7f), 0f);
 
             // lighting
             var ceilingGo = new GameObject("Ceiling_Lamp");
@@ -703,7 +710,7 @@ namespace AssetLibrary.EditorTools
             var sun = keyGo.AddComponent<Light>();
             sun.type = LightType.Directional;
             sun.color = new Color(1f, 0.95f, 0.88f);
-            sun.intensity = 1.0f;
+            sun.intensity = 0.95f;
             sun.shadows = LightShadows.Soft;
             keyGo.transform.rotation = Quaternion.Euler(38f, -55f, 0f);
 
@@ -711,14 +718,32 @@ namespace AssetLibrary.EditorTools
             var fill = fillGo.AddComponent<Light>();
             fill.type = LightType.Point;
             fill.color = new Color(1f, 0.92f, 0.82f);
-            fill.intensity = 3.5f;
+            fill.intensity = 2.6f;
             fill.range = 10f;
             fill.shadows = LightShadows.None;
             fillGo.transform.position = new Vector3(0f, 2.6f, 2.0f);
 
+            var fill2Go = new GameObject("Fill_Bounce");
+            var fill2 = fill2Go.AddComponent<Light>();
+            fill2.type = LightType.Point;
+            fill2.color = new Color(0.95f, 0.95f, 1f);
+            fill2.intensity = 1.6f;
+            fill2.range = 9f;
+            fill2.shadows = LightShadows.None;
+            fill2Go.transform.position = new Vector3(-3.4f, 2.4f, 4.2f);
+
+            var probeGo = new GameObject("Reflection Probe");
+            var probe = probeGo.AddComponent<ReflectionProbe>();
+            probe.mode = UnityEngine.Rendering.ReflectionProbeMode.Realtime;
+            probe.size = new Vector3(15f, 3.4f, 15f);
+            probe.center = new Vector3(0f, 1.7f, 2.6f);
+            probe.resolution = 256;
+            probe.intensity = 0.55f;
+            probe.timeSlicingMode = UnityEngine.Rendering.ReflectionProbeTimeSlicingMode.NoTimeSlicing;
+
             RenderSettings.skybox = LoadMatSafe("Environment/Skyboxes/kloofendal_48d_partly_cloudy_puresky");
             RenderSettings.ambientMode = UnityEngine.Rendering.AmbientMode.Skybox;
-            RenderSettings.ambientIntensity = 0.85f;
+            RenderSettings.ambientIntensity = 1.05f;
             RenderSettings.fog = false;
 
             var camGo = new GameObject("Main Camera");
@@ -883,7 +908,7 @@ namespace AssetLibrary.EditorTools
                 if (cam == null) cam = UnityEngine.Object.FindObjectOfType<Camera>();
                 string outDir = Path.Combine(Directory.GetCurrentDirectory(), "Screenshots");
                 Directory.CreateDirectory(outDir);
-                var rt = new RenderTexture(1600, 900, 24, RenderTextureFormat.ARGB32);
+                var rt = new RenderTexture(1920, 1080, 24, RenderTextureFormat.ARGB32);
                 rt.antiAliasing = 4;
                 cam.targetTexture = rt;
                 var shots = new[]
@@ -921,7 +946,7 @@ namespace AssetLibrary.EditorTools
                 if (cam == null) cam = UnityEngine.Object.FindObjectOfType<Camera>();
                 string outDir = Path.Combine(Directory.GetCurrentDirectory(), "Screenshots");
                 Directory.CreateDirectory(outDir);
-                var rt = new RenderTexture(1600, 900, 24, RenderTextureFormat.ARGB32);
+                var rt = new RenderTexture(1920, 1080, 24, RenderTextureFormat.ARGB32);
                 rt.antiAliasing = 4;
                 cam.targetTexture = rt;
                 var shots = new[]
@@ -1037,6 +1062,7 @@ namespace AssetLibrary.EditorTools
         }
     }
 }
+
 
 
 

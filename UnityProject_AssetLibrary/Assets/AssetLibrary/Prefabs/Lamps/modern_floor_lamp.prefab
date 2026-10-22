@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 725661110307660249}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.1736001, z: 0}
+  m_LocalPosition: {x: 0, y: 1.1556001, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -46,7 +46,7 @@ Light:
   m_Shape: 0
   m_Color: {r: 1, g: 0.82, b: 0.6, a: 1}
   m_Intensity: 4
-  m_Range: 3.586
+  m_Range: 3.5310001
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -163,8 +163,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.4, y: 1.63, z: 0.4}
-  m_Center: {x: 0, y: 0.815, z: 0}
+  m_Size: {x: 0.422, y: 1.605, z: 0.422}
+  m_Center: {x: 0, y: 0.8025, z: 0}
 --- !u!1 &6128272913675402524
 GameObject:
   m_ObjectHideFlags: 0
@@ -226,9 +226,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e6016a1e74efbfc438e898df788ba212, type: 2}
+  - {fileID: 2100000, guid: 1a68ab28117ad9d42a5ff98acf6e49b8, type: 2}
+  - {fileID: 2100000, guid: 90e1f1b51a92cd44fb3e5db2a1fce9c0, type: 2}
   - {fileID: 2100000, guid: 057ce21e0b2c82b4690804d16ed64be6, type: 2}
   - {fileID: 2100000, guid: 93a2c82bb90fd704d96996f6caa68b60, type: 2}
+  - {fileID: 2100000, guid: e6016a1e74efbfc438e898df788ba212, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

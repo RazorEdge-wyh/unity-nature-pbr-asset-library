@@ -1,6 +1,6 @@
 # Unity 自然 / 室内 PBR 素材库 · v1.0
 
-> **243 个可直接用于 Unity 的素材**：141 个 3D 模型（花 / 草 / 树 / 岩石 / 灯具 / 盆栽 / 道具）
+> **249 个可直接用于 Unity 的素材**：147 个 3D 模型（花 / 草 / 树 / 岩石 / 灯具 / 盆栽 / 道具）
 > ＋ 90 套 PBR 材质（木材、地面、草地、砾石、岩石、金属、砖、织物、混凝土、瓷砖、树皮、沙、雪）
 > ＋ 12 张 HDRI 天空。
 >
@@ -25,7 +25,7 @@
 2. 包内自带 `AssetLibraryPostprocessor`，会自动按命名规则设置纹理导入参数（法线贴图 / 线性遮罩 / HDR）。
 3. 直接拖 `Assets/AssetLibrary/Prefabs/` 里的预制体进场景。
 
-> 提示：第一次导入会压缩约 693 张纹理，耗时约 2–6 分钟；
+> 提示：第一次导入会压缩约 711 张纹理，耗时约 2–6 分钟；
 > 导入完成后工程会多出 1.5–2.5 GB 的 `Library/` 缓存，属正常现象。
 
 ---
@@ -35,9 +35,9 @@
 ```
 UnityProject_AssetLibrary/
 ├─ Assets/AssetLibrary/
-│  ├─ Models/            141 个模型，按类别分文件夹（.obj + .mtl + Textures/ + Materials/）
+│  ├─ Models/            147 个模型，按类别分文件夹（.obj + .mtl + Textures/ + Materials/）
 │  ├─ Materials/         90 套 PBR 材质（Albedo / Normal / Mask + .mat）
-│  ├─ Prefabs/           自动生成的 141 个预制体（含碰撞体、灯具灯光）
+│  ├─ Prefabs/           自动生成的 147 个预制体（含碰撞体、灯具灯光）
 │  ├─ Environment/HDRIs/ 12 张 .hdr 全景图 + Environment/Skyboxes/ 天空盒材质
 │  ├─ Scenes/            Showcase.unity 演示场景
 │  ├─ Shaders/           植被风摆（Foliage）、双面（TwoSided）、透明双面（TransparentTwoSided）
@@ -55,19 +55,19 @@ UnityProject_AssetLibrary/
 
 | 类型 | 数量 | 说明 |
 |---|---|---|
-| 3D 模型 | **141** | 三角面 182 – 509,944，合计 4,781,484 面（源模型 22,791,387 面，已按游戏规格简化） |
+| 3D 模型 | **147** | 三角面 182 – 509,944，合计 4,859,640 面（源模型 22,869,543 面，已按游戏规格简化） |
 | PBR 材质 | **90** | 60 套 ambientCG 1K + 30 套 Poly Haven 2K，均为无缝平铺 |
 | HDRI 天空 | **12** | 1K .hdr，可用于 Skybox / 环境光照（IBL） |
-| **合计** | **243** | 另有 141 个自动预制体、141 组材质实例 |
+| **合计** | **249** | 另有 147 个自动预制体、147 组材质实例 |
 
 ### 3D 模型分类
 
 | 类别 | 数量 | 代表素材 | 用途 | 授权 |
 |---|---|---|---|---|
-| Decor | 25 | antique_ceramic_vase_01(7998 面), book_encyclopedia_set_01(8942 面), brass_vase_01(7999 面), brass_vase_02(6890 面), brass_vase_03(2616 面), ceramic_vase_01(7998 面) … | 道具/环境 | CC0 |
+| Decor | 27 | antique_ceramic_vase_01(7998 面), book_encyclopedia_set_01(8942 面), brass_vase_01(7999 面), brass_vase_02(6890 面), brass_vase_03(2616 面), ceramic_vase_01(7998 面) … | 道具/环境 | CC0 |
+| Furniture | 25 | ArmChair_01(5626 面), BarberShopChair_01(4280 面), ClassicConsole_01(7566 面), ClassicNightstand_01(2002 面), CoffeeTable_01(10404 面), GreenChair_01(4213 面) … | 道具/环境 | CC0 |
 | 花草植物 | 23 | bark_debris_01(39992 面), celandine_01(8966 面), dandelion_01(39995 面), dead_quiver_branch_01(14834 面), dry_branches_medium_01(16803 面), fern_02(6232 面) … | 树木/植被 | CC0 |
-| Furniture | 22 | ArmChair_01(5626 面), BarberShopChair_01(4280 面), ClassicConsole_01(7566 面), ClassicNightstand_01(2002 面), CoffeeTable_01(10404 面), GreenChair_01(4213 面) … | 道具/环境 | CC0 |
-| 灯具 | 18 | Lantern_01(7998 面), brass_candleholders(8068 面), brass_diya_lantern(7993 面), caged_hanging_light(8000 面), hanging_industrial_lamp(7998 面), industrial_wall_lamp(4446 面) … | 道具/环境 | CC0 |
+| 灯具 | 19 | Lantern_01(7998 面), brass_candleholders(8068 面), brass_diya_lantern(7993 面), caged_hanging_light(8000 面), hanging_industrial_lamp(7998 面), industrial_wall_lamp(4446 面) … | 道具/环境 | CC0 |
 | 树木 | 15 | dead_quiver_trunk(17978 面), dead_tree_trunk(101802 面), dead_tree_trunk_02(83128 面), fir_sapling(299993 面), fir_sapling_medium(299741 面), fir_tree_01(508166 面) … | 树木/植被 | CC0 |
 | 盆栽 / 花箱 | 9 | anthurium_botany_01(39998 面), calathea_orbifolia_01(16688 面), pachira_aquatica_01(39995 面), planter_box_01(8094 面), planter_box_02(10944 面), planter_box_03(13112 面) … | 道具/环境 | CC0 |
 | Electronics | 9 | Camera_01(14998 面), Drill_01(2926 面), Megaphone_01(14998 面), Television_01(1918 面), lightbulb_led(6420 面), portable_searchlight(14997 面) … | 道具/环境 | CC0 |
@@ -180,7 +180,7 @@ dikhololo_night, kiara_1_dawn, kloofendal_48d_partly_cloudy_puresky, kloppenheim
 
 演示场景渲染见 `Screenshots/showcase_*.png`；每个素材的 512×512 缩略图在 `Thumbnails/`。
 
-### Decor（25）
+### Decor（27）
 
 ![Decor](Screenshots/models_Decor.jpg)
 
@@ -188,7 +188,7 @@ dikhololo_night, kiara_1_dawn, kloofendal_48d_partly_cloudy_puresky, kloppenheim
 
 ![Electronics](Screenshots/models_Electronics.jpg)
 
-### Furniture（22）
+### Furniture（25）
 
 ![Furniture](Screenshots/models_Furniture.jpg)
 
@@ -196,7 +196,7 @@ dikhololo_night, kiara_1_dawn, kloofendal_48d_partly_cloudy_puresky, kloppenheim
 
 ![Kitchenware](Screenshots/models_Kitchenware.jpg)
 
-### 灯具（18）
+### 灯具（19）
 
 ![灯具](Screenshots/models_Lamps.jpg)
 
